@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matt Wolffe - Musi(CS)ian"
 title_separator          : "-"
 name                     : &name "Matthew Forrester Wolffe"
-description              : &description "Perseonal Website"
+description              : &description "Personal Website"
 url                      : https://mfwolffe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mfwolffe/mfwolffe.github.io"
@@ -80,9 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matt Wolffe"
+  name             : "Matthew Forrester Wolffe"
   avatar           : "matt-duke-chapel.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer science student at James Madison University, 
+                      college-level CS, mathematics, and chemistry tutor/teaching assistant,
+                      and performing low-brass musician"
   location         : "Harrisonburg, VA"
   employer         :
   pubmed           : 
@@ -103,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -221,7 +223,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: music
     values:
       layout: single
       author_profile: true
@@ -255,7 +257,17 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+
+
+# plugins:
+
+#     jekyll-remote-theme
+#     remote_theme : "mmistakes/minimal-mistakes"
+#     minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 
 # Plugins
@@ -265,6 +277,10 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
