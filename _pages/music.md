@@ -28,6 +28,7 @@ author_profile: true
 
   p.attribution {
     margin-top: 0rem;
+    margin-bottom: 0rem;
     size: 0.2rem;
     color: #BABABA;
     margin-left: 1rem;
@@ -72,15 +73,28 @@ author_profile: true
     margin: auto;
   }
 
+  .portrait-text {
+    width: 45rem;
+    height: 28rem;
+    margin: auto;
+  }
+
+  .portrait {
+    width: 20rem;
+    height: 28rem;
+    margin: auto;
+  }
+
   img#margin-photo-small {
     padding: 0rem;
     width: 20rem;
     margin: auto;
   }
 
-  div#text-with-margin > figcaption {
+  figcaption {
     font-size: 0.8rem;
   }
+
 </style>
 
 <h2 id="larger-heading">Bio and Background</h2>
@@ -110,7 +124,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 <figure>
   <img src="../images/matt_and_eggebeen.png" alt="Matt and Joe Eggebeen at NJPAC post performance">
   <figcaption>
-    Myself and Joe Eggebeen following an All State Wind Ensemble concert at NJPAC
+    Joe Eggebeen and I following an All State Wind Ensemble concert at NJPAC
   </figcaption>
 </figure>
 </div>
@@ -159,7 +173,7 @@ one of the most powerful being his Norton Lecture Series, [<em>The Unanswered Qu
   <figure>
     <img id="margin-photo-small" src="../images/njpac1.jpg" alt="Matt at NJPAC">
     <figcaption>
-      Myself following an All State Wind Ensemble concert at NJPAC
+      Meandering after an All State Wind Ensemble concert at NJPAC
     </figcaption>
   </figure>
 </div>
@@ -181,7 +195,7 @@ Below are the pieces I played for that audition:
   <figure>
     <img id="margin-photo-small" src="../images/old_well.jpg" alt="Matt at the Old Well">
     <figcaption>
-      Myself at the Old Well following my audition for the Kenan Scholarship.
+      At the Old Well following my audition for the Kenan Scholarship.
     </figcaption>
   </figure>
 </div>
@@ -229,27 +243,51 @@ practice at essentially any time I wished without having to walk 15 minutes to a
 ------
 <p class="attribution"><em>- Giuseppe Verdi</em></p>
 <div id="text-with-margin">
-  <p>
+  <p class="portrait-text">
     There are countless period instruments like the ophicleide. Some faded into obscurity, while others continuously evolve, eventually resulting in the modern instruments we see on stage today. One such instrument which evolved is the <em>Cimbasso</em>. The name was used loosely to describe the lowest brass instrument available, and is likely a contraction of <em>corno basso</em> (sometimes appearing in scores as  <em>c. in basso</em>). In its earliest form it was likely a patchwork of wood and brass resembling a 
     <a href="https://www.metmuseum.org/art/collection/search504920"><em>bassoon russe</em></a>. This name would go on to extend to several instruments, including the earliest tubas.
-    <br>
-    <br>
-    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.jpg"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
-    <br>
-    Modern Cimbassos are largely a postwar invention. <a href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
-    <br>
-    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the trip back up to Dillon's
   </p>
-  <figure>
-    <img id="margin-photo-small" src="../images/MW_Liane_Hansen.png" alt="Matt with Liane Hansen">
+  <figure class="portrait">
+    <img class="portrait" src="../images/bassoon_russe.jpg" alt="Bassoon Russe">
     <figcaption>
-      Myself with Liane Hansen, former host of NPR's award winning <em>Weekend Edition Sunday</em> after our performance of 
-      <em>Tubby</em>
+      <em>Bassoon Russe</em>. Image courtesy of <a href="https://www.metmuseum.org/art/collection/search/504920">The MET</a>
     </figcaption>
   </figure>
 </div>
 
+<br>
 
+<div id="text-with-margin">
+  <p class="portrait-text">
+    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.jpg"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
+    <br><br>
+    Modern Cimbassos are largely a postwar invention. <a href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
+  </p>
+  <figure class="portrait">
+    <img class="portrait" src="../images/Stowasser-trb-verdi.jpg" alt="Trombone Basso Verdi">
+    <figcaption>
+      <em>Stowasser Trombone basso Verdi</em>, by University of Edinburgh, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=131947489
+    </figcaption>
+  </figure>
+</div>
+
+<br>
+<br>
+<br>
+
+<div id="text-with-margin">
+  <p>
+    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it a <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/5 the price of the Rudy Meinl equivalent.
+    <br>
+    This instrument quickly became, and still is, my favorite instrument to play.
+  </p>
+  <figure>
+    <img src="../images/STS_cimbasso.jpg" alt="My Cimbasso">
+    <figcaption>
+      Here I am in rehearsal at the Southeast Trombone Symposium with my cimbasso.
+    </figcaption>
+  </figure>
+</div>
 
 <em>Sacked</em>
 ------
