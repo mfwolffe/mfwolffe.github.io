@@ -21,11 +21,20 @@ author_profile: true
   h2#larger-heading {
     font-size: 125%;
   }
+
   h2 {
     font-size: 100%
   }
 
-    div#text-with-margin {
+  p.attribution {
+    margin-top: 0rem;
+    size: 0.2rem;
+    color: #BABABA;
+    margin-left: 1rem;
+    font-weight: lighter
+  }
+
+  div#text-with-margin {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -33,9 +42,28 @@ author_profile: true
     gap: 2rem;
   }
 
+  div#text-with-margin-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2rem;
+  }
+
   div#text-with-margin > p {
     height: 20rem;
     width: 45rem;
+    margin: auto;
+  }
+
+  div#text-with-margin-center > ul {
+    height: 20rem;
+    width: 45rem;
+    margin: auto;
+  }
+
+  div#text-with-margin-center > figure {
+    width: 20rem;
     margin: auto;
   }
 
@@ -100,7 +128,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
     <img id="margin-photo-small" src="../images/6th_grade_regions.jpeg" alt="6th grade Matt"> 
     <figcaption>
       Taken during a regionals rehearsal. The photographer told me to pretend to play. Smiling like that while playing is a huge no-no
-    </figcaption>`
+    </figcaption>
   </figure>
 </div>
 
@@ -142,11 +170,21 @@ affordable. Somehow UNC Chapel Hill got on to my radar due to the William R. Ken
 pure luck, I was awarded the scholarship after auditioning.
 
 Below are the pieces I played for that audition:
-<ul>
-    <li>Horn Concerto No. 1 (Richard Strauss; transc. John Anderson)</li>
-    <li>Concerto for Bass Tuba and Orchestra (R. Vaughan Williams; edited by David Matthews)</li>
-    <li><em>C'era una volta il West</em> (Ennio Morricone; solo part transc. Wolffe)</li>
-</ul>
+<div id="text-with-margin-center">
+  <ul>
+      <li>Horn Concerto No. 1 (Richard Strauss; transc. John Anderson)</li>
+      <li>Concerto for Bass Tuba and Orchestra (R. Vaughan Williams; edited by David Matthews)</li>
+      <li>
+        <em>C'era una volta il West</em> (Ennio Morricone; solo part transc. Wolffe)
+      </li>
+  </ul>
+  <figure>
+    <img id="margin-photo-small" src="../images/old_well.jpg" alt="Matt at the Old Well">
+    <figcaption>
+      Myself at the Old Well following my audition for the Kenan Scholarship.
+    </figcaption>
+  </figure>
+</div>
 
 <em>The Ghost of Hill Hall</em>
 ------
@@ -172,12 +210,12 @@ practice at essentially any time I wished without having to walk 15 minutes to a
   </figure>
 </div>
 
-<em>Tubby</em>
+<em>I Went to the Woods to Dance With the Pretty Little Tune</em>
 ------
 
 <div id="text-with-margin">
   <p>
-    Most of the repertoire we performed at NMF was on modern horns, and you can see my contrabass CC tuba in the photo above. Other highlights of NMF were Prokofiev's 7th symphony, and my first time being featured as the soloist in a performance of <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TubbyTheTuba.pdf"><em>Tubby the Tuba</em></a>. Journalist and NPR radio personality Liane Hansen was the narrator for <em>Tubby</em>. Despite the humour of the name, <em>Tubby</em> is sort of a rite of passage among tubists. 
+    Most of the repertoire we performed at NMF I did on modern horns, and you can see my contrabass CC tuba in the photo above. Other highlights of NMF were Prokofiev's 7th symphony, and my first time being featured as the soloist in a performance of <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TubbyTheTuba.pdf"><em>Tubby the Tuba</em></a>. Journalist and NPR radio personality Liane Hansen was the narrator for <em>Tubby</em>. Despite the humour of the name, <em>Tubby</em> is sort of a rite of passage among tubists. 
   </p>
   <figure>
     <img id="margin-photo-small" src="../images/MW_Liane_Hansen.png" alt="Matt with Liane Hansen">
@@ -187,11 +225,39 @@ practice at essentially any time I wished without having to walk 15 minutes to a
   </figure>
 </div>
 
+"That Devilish <em>Bombardone</em>"
+------
+<p class="attribution"><em>- Giuseppe Verdi</em></p>
+<div id="text-with-margin">
+  <p>
+    There are countless period instruments like the ophicleide. Some faded into obscurity, while others continuously evolve, eventually resulting in the modern instruments we see on stage today. One such instrument which evolved is the <em>Cimbasso</em>. The name was used loosely to describe the lowest brass instrument available, and is likely a contraction of <em>corno basso</em> (sometimes appearing in scores as  <em>c. in basso</em>). In its earliest form it was likely a patchwork of wood and brass resembling a 
+    <a href="https://www.metmuseum.org/art/collection/search504920"><em>bassoon russe</em></a>. This name would go on to extend to several instruments, including the earliest tubas.
+    <br>
+    <br>
+    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.jpg"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
+    <br>
+    Modern Cimbassos are largely a postwar invention. <a href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
+    <br>
+    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the trip back up to Dillon's
+  </p>
+  <figure>
+    <img id="margin-photo-small" src="../images/MW_Liane_Hansen.png" alt="Matt with Liane Hansen">
+    <figcaption>
+      Myself with Liane Hansen, former host of NPR's award winning <em>Weekend Edition Sunday</em> after our performance of 
+      <em>Tubby</em>
+    </figcaption>
+  </figure>
+</div>
+
+
+
 <em>Sacked</em>
 ------
 <div id="text-with-margin">
   <p>
-    The next fall I started learning the Bass-Sackbut so I could participate in UNC's Sackbut ensemble. We did a few gigs in Durham that fall, notably a performance of Tomás Luis de Victoria's Requiem with the Duke Vespers at Duke Chapel.
+    The next fall I started learning the Bass-Sackbut so I could participate in UNC's Sackbut ensemble. We did a few gigs in Durham that fall, notably a performance of Tomás Luis de Victoria's Requiem with the Duke Vespers at Duke Chapel. 
+    <br>
+    The name "sackbut", comes from Old French, <em>sacqueboute</em> ("pull-push"). Invented in the 15th century, it's a predecessor to the modern trombone. Compared to modern trombone, the sackbut has a narrower bell and thicker brass. The physics of the instrument beget a soft, vocal timbre, making it well suited for ensembles with vocalists. 
   </p>
   
 <figure>
