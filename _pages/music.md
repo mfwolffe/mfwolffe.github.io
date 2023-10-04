@@ -18,12 +18,61 @@ author_profile: true
 ------
 
 <style> 
-  h2#larger-heading {
-    font-size: 125%;
+  h2.larger-heading {
+    font-size: 135%;
   }
 
   h2 {
     font-size: 100%
+  }
+
+
+  div.rect {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  div.rect > p {
+    height: inherit;
+    padding-top: 0rem;
+    width: 40rem;
+    margin: 0rem;
+  }
+
+  div.rect > figure {
+    width: 25rem;
+    margin: auto;
+  }
+
+  div.rect > figure > img {
+    width: 25rem;
+    margin: auto;
+  }
+
+  div.portrait {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  div.portrait > p {
+    width: 45rem;
+    margin: 0rem;
+  }
+
+  div.portrait > figure {
+    width: 20rem;
+    margin: auto;
+  }
+
+  div.portrait > figure > img {
+    width: 20rem;
+    margin: auto;
   }
 
   p.attribution {
@@ -68,20 +117,17 @@ author_profile: true
     margin: auto;
   }
 
+  div#text-with-margin > figure.nosquare {
+    width: 25rem;
+    margin: auto;
+  }
+
+  div#text-with-margin > p.nosquare {
+    margin: auto;
+  }
+
   div#text-with-margin > figure {
     width: 20rem;
-    margin: auto;
-  }
-
-  .portrait-text {
-    width: 45rem;
-    height: 28rem;
-    margin: auto;
-  }
-
-  .portrait {
-    width: 20rem;
-    height: 28rem;
     margin: auto;
   }
 
@@ -91,13 +137,20 @@ author_profile: true
     margin: auto;
   }
 
+  img.small-no-square {
+    padding: 0rem;
+    width: 25rem;
+    margin: auto;
+    top: 0rem;
+  }
+
   figcaption {
     font-size: 0.8rem;
   }
 
 </style>
 
-<h2 id="larger-heading">Bio and Background</h2>
+<h2 class="larger-heading">Bio and Background</h2>
 
 <em>Einleitung</em>
 ------
@@ -161,7 +214,7 @@ one of the most powerful being his Norton Lecture Series, [<em>The Unanswered Qu
 <em>Pendular Progress</em>
 ------
 
-<div id="text-with-margin">
+<div class="portrait">
   <p>
     I am only speaking for myself, but low brass instruments have a particularly ruthless learning curve,for people like me who not prodigies.
     Initial progress sometimes seems riddled with impassable barriers, but is followed by relatively smooth sailing for a <em>short</em> time before the curve once again spikes.
@@ -171,7 +224,7 @@ one of the most powerful being his Norton Lecture Series, [<em>The Unanswered Qu
     to the anxieties inherent to this process. I can't remember the total number of schools I either sent tapes to or auditioned at, but it was a lot.
   </p>
   <figure>
-    <img id="margin-photo-small" src="../images/njpac1.jpg" alt="Matt at NJPAC">
+    <img src="../images/njpac1.jpg" alt="Matt at NJPAC">
     <figcaption>
       Meandering after an All State Wind Ensemble concert at NJPAC
     </figcaption>
@@ -200,16 +253,54 @@ Below are the pieces I played for that audition:
   </figure>
 </div>
 
+<br>
+
+<div id="text-with-margin">
+  <p>
+    Thanks to this scholarship, my family could finally afford for me to purchase a horn of my own. Professional, hand-made tubas can cost as much as a car. I was told at that time that most orchestral jobs in the United States are won on a B&S PT-6 CC contrabass. This does not seem to be the case in reality, as it seems 6/4 'York' model contrabasses are all the rage. I was very lucky to have lived in New Jersey because a renowned instrument store, Dillon Music, was a short drive from my hometown. It's a brass player's paradise. They did have a PT-6 in stock, but I still spent a few days driving back and forth testing what they had to make up my mind. Ultimately I did choose the PT-6. 
+  </p>
+  <figure>
+    <img id="margin-photo-small" src="../images/pt6.JPG" alt="Matt with his PT-6">
+    <figcaption>
+      At Dillon Music after purchasing my first horn.
+    </figcaption>
+  </figure>
+</div>
+
 <em>The Ghost of Hill Hall</em>
 ------
-UNC was both musically and academically invigorating. My first semester I felt slighltly out of place due to being from New Jersey, but that quickly passed
-thanks to the welcoming atmosphere on campus. During my time there, I performed with the UNC Wind Ensemble, UNC Symphony Orchestra, brass quintet, tuba/euph 
-quartet, Triangle Brass Band, and others.
+<div class="rect">
+  <p>
+    UNC was both musically and academically invigorating. My first semester I felt slighltly out of place due to being from New Jersey, but that quickly passed
+    thanks to the welcoming atmosphere on campus. During my time there, I performed with the UNC Wind Ensemble, UNC Symphony Orchestra, brass quintet, tuba/euph
+    quartet, the Triangle Brass Band, and others.
+  </p>
+  <figure>
+    <img src="../images/quintet_kenan_chap.JPG" alt="Quintet at Kenan Chapel in Wilmington">
+    <figcaption>
+      The UNC brass quintet performing at Kenan Chapel in Wilmington, NC
+    </figcaption>
+  </figure>
+</div>
 
-My freshman year, the tubists majoring in music at UNC had a 'studio' of sorts in the basement of Hill Hall called Studio 9 (we had various names for it at various times. I most frequently referred to it as <em>Nein</em>). 
-That year I was living in Ehringhaus residence hall, which was a hike from any buildings I regularly needed to be in for classes or rehearsals. 
-At some point, and the details are muddy, a couch from the apartment of a recent graduate ended up in Studio 9. My then girlfriend went to Stanford in Palo Alto, CA, and we would often FaceTime until 3am or so. Not wanting to cause conflicts with my roommate, I would sleep on that couch, and in the mornings, walk a short distance to the SRC to shower, etc. A benefit to this was I could 
-practice at essentially any time I wished without having to walk 15 minutes to and from Ehaus. A side effect was people started referring to me as <em>the ghost of hill hall</em>.
+<br>
+
+<div id="text-with-margin">
+  <p>
+    My freshman year, the tubists majoring in music at UNC had a 'studio' of sorts in the basement of Hill Hall called Studio 9 (we had various names for it at various times. I most frequently referred to it as <em>Nein</em>). 
+    That year I was living in Ehringhaus residence hall, which was a hike from any buildings I regularly needed to be in for classes or rehearsals. 
+    At some point, and the details are muddy, a couch from the apartment of a recent graduate ended up in Studio 9. My then girlfriend went to Stanford in Palo Alto, CA, and we would often FaceTime until 3am or so. Not wanting to cause conflicts with my roommate, I would sleep on that couch, and in the mornings, walk a short distance to the SRC to shower, etc. A benefit to this was I could 
+    practice at essentially any time I wished without having to walk 15 minutes to and from Ehaus. A side effect was people started referring to me as <em>the ghost of hill hall</em>.
+  </p>
+  <figure>
+    <img id="margin-photo-small" src="../images/studio95.JPG" alt="Matt in Studio 9">
+    <figcaption>
+      Would sometimes nap in tuba cases.
+    </figcaption>
+  </figure>
+</div>
+
+
 
 <em>An Idée Fixe & How to be HIP</em>
 ------
@@ -242,13 +333,13 @@ practice at essentially any time I wished without having to walk 15 minutes to a
 "That Devilish <em>Bombardone</em>"
 ------
 <p class="attribution"><em>- Giuseppe Verdi</em></p>
-<div id="text-with-margin">
-  <p class="portrait-text">
+<div class="portrait">
+  <p>
     There are countless period instruments like the ophicleide. Some faded into obscurity, while others continuously evolve, eventually resulting in the modern instruments we see on stage today. One such instrument which evolved is the <em>Cimbasso</em>. The name was used loosely to describe the lowest brass instrument available, and is likely a contraction of <em>corno basso</em> (sometimes appearing in scores as  <em>c. in basso</em>). In its earliest form it was likely a patchwork of wood and brass resembling a 
     <a href="https://www.metmuseum.org/art/collection/search504920"><em>bassoon russe</em></a>. This name would go on to extend to several instruments, including the earliest tubas.
   </p>
-  <figure class="portrait">
-    <img class="portrait" src="../images/bassoon_russe.jpg" alt="Bassoon Russe">
+  <figure>
+    <img src="../images/bassoon_russe.jpg" alt="Bassoon Russe">
     <figcaption>
       <em>Bassoon Russe</em>. Image courtesy of <a href="https://www.metmuseum.org/art/collection/search/504920">The MET</a>
     </figcaption>
@@ -257,27 +348,25 @@ practice at essentially any time I wished without having to walk 15 minutes to a
 
 <br>
 
-<div id="text-with-margin">
-  <p class="portrait-text">
+<div class="portrait">
+  <p>
     The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.jpg"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
     <br><br>
     Modern Cimbassos are largely a postwar invention. <a href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
   </p>
-  <figure class="portrait">
-    <img class="portrait" src="../images/Stowasser-trb-verdi.jpg" alt="Trombone Basso Verdi">
+  <figure>
+    <img src="../images/Stowasser-trb-verdi.jpg" alt="Trombone Basso Verdi">
     <figcaption>
-      <em>Stowasser Trombone basso Verdi</em>, by University of Edinburgh, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=131947489
+      <em>Stowasser Trombone basso Verdi</em>, by University of Edinburgh, CC BY 3.0, courtesy of <a href="https://commons.wikimedia.org/w/index.php?curid=131947489">Wikimedia Commons</a>
     </figcaption>
   </figure>
 </div>
 
 <br>
-<br>
-<br>
 
 <div id="text-with-margin">
   <p>
-    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it a <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/5 the price of the Rudy Meinl equivalent.
+    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it a <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/4 the price of the Rudy Meinl equivalent.
     <br>
     This instrument quickly became, and still is, my favorite instrument to play.
   </p>
@@ -304,5 +393,100 @@ practice at essentially any time I wished without having to walk 15 minutes to a
     The Fall 2016 UNC Sackbut Ensemble at Duke chapel. From left to right: myself with bass sackbut, Ben Albano & Katie Rose Hand with tenor sackbuts, and Mike Kris with alto sackbut
   </figcaption>
 </figure>
+</div>
+
+WIP
+
+<h2 class="larger-heading">Gallery</h2>
+
+<style>
+
+  div.section {
+    width: 67.45rem;
+    display: grid;
+    grid-template-columns: 21.5rem 21.5rem 21.5rem;
+    grid-template-rows: repeat(5, 1fr);
+    column-gap: 0.5rem;
+    row-gap: 0rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  div.section > figure, div.section > figure > img {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    width: 21.5rem;
+  }
+
+</style>
+
+<div class="section">
+
+<figure>
+<img src="../images/nmf-tutti.JPG" alt="NMF 2016 tutti orchestra">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/oph-on-stage.jpg" alt="matt on stage with ophicleide">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/nmf-brass.JPG" alt="NMF partial brass section">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/carter-matt-hq.jpg" alt="Myself and Carter">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/lowbrass-stage2.jpg" alt="Low brass at NMF">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/king-carter.jpg" alt="Low brass at NMF">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/brass-atrium.jpg" alt="Festival Opening Ceremony">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/oph-atrium.jpg" alt="Festival Opening Ceremony">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/matt-mike-SF.jpg" alt="Symphonie Fantastique on Ophicleide & Serpent">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/mute-n-apple.jpg" alt="'artsy' mute shot">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/nmf-rehearsal1.JPG" alt="in rehearsal">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/oph-on-stage2.png" alt="SF with oph">
+<figcaption></figcaption>
+</figure>
+
+
+<figure>
+<img src="../images/nmf-low-brass.JPG" alt="The low brass section of NMF 2016">
+<figcaption></figcaption>
+</figure>
+
 </div>
 
