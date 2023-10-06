@@ -26,6 +26,10 @@ author_profile: true
     font-size: 100%
   }
 
+  a:hover {
+    text-shadow: 4px 4px 8px;
+  }
+
   div.square {
     display: flex;
     flex-direction: row;
@@ -82,6 +86,22 @@ author_profile: true
     margin: auto;
   }
 
+  div.rect > figure.vid {
+    overflow: hidden;
+    border-radius: 8px;
+    transform: translateZ(0px);
+    /* border: 2px solid black; */
+    height: 15rem;
+    width: 25rem;
+    margin: auto;
+  }
+
+  div.rect > figure.vid > iframe {
+    height: 15rem;
+    width: 25rem;
+    margin: auto;
+  }
+
   div.portrait {
     display: flex;
     flex-direction: row;
@@ -118,6 +138,14 @@ author_profile: true
     font-size: 0.8rem;
   }
 
+  figcaption > a {
+    text-decoration: none;
+  }
+
+  /* figcaption > a:hover {
+    text-shadow: 4px 4px 8px;
+  } */
+
   section.jump-to {
     font-size: 1rem;
   }
@@ -140,9 +168,9 @@ author_profile: true
     line-height: 55%;
   }
 
-  section.jump-to > ul > li > a:hover {
+  /* section.jump-to > ul > li > a:hover {
     text-shadow: 4px 4px 8px;
-  }
+  } */
 
 </style>
 
@@ -206,15 +234,64 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 
 <em>A Young Person's Guide to the Orchestra</em>
 ------
-In the afternoons after school I was constantly practicing, but acquiring sheet music to noodle on was not the simple process it is today; especially for the instruments I play.
-I quickly learned how to transpose after spending my lawn mowing money on a book of John Williams melodies written for Bb clarinet. At the time, if I wanted to explore new music to listen to 
-it meant spending a fortune on an iPod, CD player, on the iTunes store and on CD's, and headphones. I learned of YouTube, launched a couple years prior, in the 7th grade.
-One of my first searches was, of course, <em>Leonard Bernstein West Side Story</em>. Within minutes I discovered Bernstein's televised [<em>Young People's Concerts</em>](https://leonardbernstein.com/about/educator/young-peoples-concerts) with the New York Philharmonic. While each broadcast was impactful, 
-episodes 8, [<em>Who is Gustav Mahler</em>](https://www.youtube.com/watch?v=pk0itgZ14w0), 34, [<em>A Birthday Tribute to Shostakovich</em>](https://www.youtube.com/watch?v=_Wh6OPybR_Q), 46, [<em>Berlioz Takes a Trip</em>](https://www.youtube.com/watch?v=MjVwM1nRK8Y), and 51 [Thus Spake Richard Strauss](https://www.loc.gov/item/lbypc.0541/), were particularly life-changing. My angsty teenage brain felt as if I alone understood the
-fundamental struggle of Mahler, the defiance of Shostakovich, the rhapsosidic musings & outbursts of Berlioz, and the Nietzschean meditations of Strauss. As I grew older I began to understand such feelings were, of course, not unique to myself and these composers,
-rather an innate part of the human condition. Bernstein's narration also engendered a novel ability to discuss music and musical ideas both eloquently and academically. 
-Also thanks to Bernstein I began to experience the full versatility of the low brass section; that composers employ them for more than just basslines. They can evoke a suffocating sense of foreboding or an executioner laughing like a hyena as the blade falls; but also exude resplendence and an almost celestial blending of timbres.
-I still seek out old clips of Bernstein, whether they're hour long videos of Mahler symphonies or short primers on Beethoven. Every year I rewatch his Norton Lecture Series at Harvard, [<em>The Unanswered Question</em>](https://www.youtube.com/watch?v=8fHi36dvTdE&list=PLKiz0UZowP2V0mwtNv1lc1_zUSB2O65d7).
+
+<div class="square">
+  <p>
+    In the afternoons after school I was constantly practicing, but acquiring sheet music to noodle on was not the simple process it is today; especially for the instruments I play.
+    I quickly learned how to transpose after spending my lawn mowing money on a book of John Williams melodies written for Bb clarinet. At the time, if I wanted to explore new music to listen to 
+    it meant spending a fortune on an iPod, CD player, on the iTunes store and on CD's, and headphones. I learned of YouTube, launched a couple years prior, in the 7th grade.
+  </p>
+
+  <br>
+
+  <figure>
+    <img src="../images/bernstein-mahler.png" alt="mahler bernstein canvas I made"> 
+    <figcaption>
+      A Canvas I made of the album art from <a href="https://store.deutschegrammophon.com/p51-i0028948618767/leonard-bernstein/mahler-complete-symphonies/index.html">Bernstein's Mahler Cycle</a> (Deutsche Grammophon). Artwork by <a href="https://en.wikipedia.org/wiki/Ert%C3%A9">Erté</a>. As a student I could not afford the vinyl box set.
+    </figcaption>
+  </figure>
+</div>
+
+<br>
+
+<div class="square">
+  <p>
+    One of my first searches was, of course, <em>Leonard Bernstein West Side Story</em>. Within minutes I discovered Bernstein's televised
+    <a href="https://leonardbernstein.com/about/educator/young-peoples-concerts"><em>Young People's Concerts</em></a>
+    with the New York Philharmonic. While each broadcast was impactful, 
+    episodes 8, 
+    <a href="https://www.youtube.com/watch?v=pk0itgZ14w0"><em>Who is Gustav Mahler</em></a>, 34, 
+    <a href="https://www.youtube.com/watch?v=_Wh6OPybR_Q"><em>A Birthday Tribute to Shostakovich</em></a>, 46,
+    <a href="https://www.youtube.com/watch?v=MjVwM1nRK8Y"><em>Berlioz Takes a Trip</em></a>, and 51 
+    <a href="https://www.loc.gov/item/lbypc.0541/"><em>Thus Spake Richard Strauss</em></a>, were particularly life-changing. My angsty teenage brain felt as if I alone understood the
+    fundamental struggle of Mahler, the defiance of Shostakovich, the rhapsosidic musings & outbursts of Berlioz, and the Nietzschean meditations of Strauss. As I grew older I began to understand such feelings were, of course, not unique to myself and these composers,
+    rather an innate part of the human condition. Bernstein's narration also engendered a novel ability to discuss music and musical ideas both eloquently and academically. 
+  </p>
+
+  <figure>
+    <img src="../images/mahler-bernstein-wall.png" alt="6th grade Matt"> 
+    <figcaption>
+      Nearly a decade later, and still a student, but with money from working as a TA and tutor, I bought that box set, and used the record sleeves as wall art (The records are still protected).
+    </figcaption>
+  </figure>
+</div>
+
+<br>
+
+<div class="rect">
+  <p>
+    Also thanks to Bernstein I began to experience the full versatility of the low brass section; that composers employ them for more than just basslines. They can evoke a suffocating sense of foreboding or an executioner laughing like a hyena as the blade falls; but also exude resplendence and an almost celestial blending of timbres.
+    I still seek out old clips of Bernstein, whether they're hour long videos of Mahler symphonies or short primers on Beethoven. Every year I rewatch his Norton Lecture Series at Harvard, 
+    <a href="https://www.youtube.com/watch?v=8fHi36dvTdE&list=PLKiz0UZowP2V0mwtNv1lc1_zUSB2O65d7"><em>The Unanswered Question</em></a>
+  </p>
+
+  <figure class="vid">
+      <iframe src="https://www.youtube.com/embed/OWeQXTnv_xU?si=sLV_rwCnQiInY0TM&amp;start=93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption>
+      The final lecture of Bernstein's Norton Lecture Series, titled, <em>The Poetry of Earth</em>. Uploaded by Youtube user <a href="https://www.youtube.com/@caginn">caginn</a>
+    </figcaption>
+  </figure>
+</div>
 
 <em>Pendular Progress</em>
 ------
