@@ -26,6 +26,26 @@ author_profile: true
     font-size: 100%
   }
 
+  div.square {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  div.square > p {
+    width: 45rem;
+    height: inherit;
+    margin: 0rem;
+    padding-top: 0rem;
+  }
+
+  div.square > ul {
+    height: 20rem;
+    width: 45rem;
+    margin: auto;
+  }
 
   div.rect {
     display: flex;
@@ -33,6 +53,16 @@ author_profile: true
     justify-content: flex-start;
     align-items: flex-start;
     gap: 2rem;
+  }
+
+  div.square > figure {
+    width: 20rem;
+    margin: auto;
+  }
+
+  div.square > figure > img {
+    width: 20rem;
+    margin: auto;
   }
 
   div.rect > p {
@@ -84,66 +114,6 @@ author_profile: true
     font-weight: lighter
   }
 
-  div#text-with-margin {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: start;
-    gap: 2rem;
-  }
-
-  div#text-with-margin-center {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 2rem;
-  }
-
-  div#text-with-margin > p {
-    height: 20rem;
-    width: 45rem;
-    margin: auto;
-  }
-
-  div#text-with-margin-center > ul {
-    height: 20rem;
-    width: 45rem;
-    margin: auto;
-  }
-
-  div#text-with-margin-center > figure {
-    width: 20rem;
-    margin: auto;
-  }
-
-  div#text-with-margin > figure.nosquare {
-    width: 25rem;
-    margin: auto;
-  }
-
-  div#text-with-margin > p.nosquare {
-    margin: auto;
-  }
-
-  div#text-with-margin > figure {
-    width: 20rem;
-    margin: auto;
-  }
-
-  img#margin-photo-small {
-    padding: 0rem;
-    width: 20rem;
-    margin: auto;
-  }
-
-  img.small-no-square {
-    padding: 0rem;
-    width: 25rem;
-    margin: auto;
-    top: 0rem;
-  }
-
   figcaption {
     font-size: 0.8rem;
   }
@@ -152,15 +122,27 @@ author_profile: true
     font-size: 1rem;
   }
 
+  section.jump-to > p {
+    margin-bottom: 0rem;
+  }
+
   section.jump-to > ul > li > a {
     font-size: 0.8rem;
     text-decoration: none;
   }
 
+  section.jump-to > ul {
+    margin-top: 0.4rem;
+    line-height: 55%;
+  }
+
+  section.jump-to > ul > li {
+    line-height: 55%;
+  }
+
   section.jump-to > ul > li > a:hover {
     text-shadow: 4px 4px 8px;
   }
-
 
 </style>
 
@@ -186,7 +168,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 <em>Eggs & Beens</em>
 ------
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     In my first rehearsals I was somewhat disappointed to learn that in a typical middle school band program, the low brass (and tuba(s) particularly)
     don't get to play the 'fun parts' very often. After discussing this with the director, she suggested taking private lessons so I cold explore some
@@ -204,17 +186,18 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 </figure>
 </div>
 
+
 <em>When You're a Jet</em>
 ------
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     Had I not won that spot in that particular year, my life trajectory would have been entirely different.
     I remember being awestruck by the first chord we sounded, thinking we collectively sounded like a pipe organ. It was the music specifically though that left an indelible mark, and one piece in particular: a medley of songs from Leonard Bernstein's score to <em>West Side Story</em>. For two or three weeks I begged my mom to buy me a copy of West Side Story on DVD, and when she finally acquiesced I watched the movie every day after school through the rest of the sixth grade.
   </p>
 
   <figure>
-    <img id="margin-photo-small" src="../images/6th_grade_regions.jpeg" alt="6th grade Matt"> 
+    <img src="../images/6th_grade_regions.jpeg" alt="6th grade Matt"> 
     <figcaption>
       Taken during a regionals rehearsal. The photographer told me to pretend to play. Smiling like that while playing is a huge no-no
     </figcaption>
@@ -223,15 +206,15 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 
 <em>A Young Person's Guide to the Orchestra</em>
 ------
-Daily practice never seemed to be enough to sate my 'musical appetite'. Moreover acquiring sheet music to noodle on was not the simple process it is today, and especially for the instruments I play.
-I learned quickly how to transpose after spending my lawn mowing money on a book of John Williams melodies written for Bb clarinet. Also at the time, if I wanted to explore new music to listen to, 
-it meant spending a fortune on an iPod, CD player, on the iTunes store and on CD's, and headphones. I learned of YouTube, which launched a couple of years earlier, late during 7th grade and it was a game-changer.
+In the afternoons after school I was constantly practicing, but acquiring sheet music to noodle on was not the simple process it is today; especially for the instruments I play.
+I quickly learned how to transpose after spending my lawn mowing money on a book of John Williams melodies written for Bb clarinet. At the time, if I wanted to explore new music to listen to 
+it meant spending a fortune on an iPod, CD player, on the iTunes store and on CD's, and headphones. I learned of YouTube, launched a couple years prior, in the 7th grade.
 One of my first searches was, of course, <em>Leonard Bernstein West Side Story</em>. Within minutes I discovered Bernstein's televised [<em>Young People's Concerts</em>](https://leonardbernstein.com/about/educator/young-peoples-concerts) with the New York Philharmonic. While each broadcast was impactful, 
 episodes 8, [<em>Who is Gustav Mahler</em>](https://www.youtube.com/watch?v=pk0itgZ14w0), 34, [<em>A Birthday Tribute to Shostakovich</em>](https://www.youtube.com/watch?v=_Wh6OPybR_Q), 46, [<em>Berlioz Takes a Trip</em>](https://www.youtube.com/watch?v=MjVwM1nRK8Y), and 51 [Thus Spake Richard Strauss](https://www.loc.gov/item/lbypc.0541/), were particularly life-changing. My angsty teenage brain felt as if I alone understood the
-fundamental struggle of Mahler, the defiance of Shostakovich, the rhapsosidic musings of Berlioz, and the Nietzschean meditations of Strauss. As I grew older I began to understand such feelings were, of course, not unique to myself and these composers,
-rather an innate part of the human condition. Bernstein's narration also engendered a novel ability to discuss music and musical ideas both eloquently and academically. Also thanks to Bernstein I began to grasp even
-of the versatility of low brass instruments, being able to exude demonic airs, as in Berlioz's Parody of the [Dies Irae](https://www.youtube.com/watch?v=DmOFplgWzyk) plainchant from the Requiem Mass, evoke one man's fretful [march to the guillotine](https://youtu.be/Zl9S5D3BLMA?si=MnxIdBJ0zx9i-QCh&t=2255), the executioner's laughter as the blade falls, and solemn resignation followed by a resurgence of hope lifting you to ["the highest heights on angels' wings, only to be clubbed down once again by fate"](https://www.youtube.com/watch?v=vzbsVlG8ips). 'Doors' such as these would continue to open throughout high school by old clips of Bernstein,
-one of the most powerful being his Norton Lecture Series, [<em>The Unanswered Question</em>](https://www.youtube.com/watch?v=8fHi36dvTdE&list=PLKiz0UZowP2V0mwtNv1lc1_zUSB2O65d7).
+fundamental struggle of Mahler, the defiance of Shostakovich, the rhapsosidic musings & outbursts of Berlioz, and the Nietzschean meditations of Strauss. As I grew older I began to understand such feelings were, of course, not unique to myself and these composers,
+rather an innate part of the human condition. Bernstein's narration also engendered a novel ability to discuss music and musical ideas both eloquently and academically. 
+Also thanks to Bernstein I began to experience the full versatility of the low brass section; that composers employ them for more than just basslines. They can evoke a suffocating sense of foreboding or an executioner laughing like a hyena as the blade falls; but also exude resplendence and an almost celestial blending of timbres.
+I still seek out old clips of Bernstein, whether they're hour long videos of Mahler symphonies or short primers on Beethoven. Every year I rewatch his Norton Lecture Series at Harvard, [<em>The Unanswered Question</em>](https://www.youtube.com/watch?v=8fHi36dvTdE&list=PLKiz0UZowP2V0mwtNv1lc1_zUSB2O65d7).
 
 <em>Pendular Progress</em>
 ------
@@ -253,13 +236,15 @@ one of the most powerful being his Norton Lecture Series, [<em>The Unanswered Qu
   </figure>
 </div>
 
+<br>
+
 While attending a conservatory was an attractive idea,
 they were, generally speaking, not financially viable for me and my family. So most schools I applied had either full music scholarships available or scholarships substantial enough to make the tuition 
 affordable. Somehow UNC Chapel Hill got on to my radar due to the William R. Kenan Jr. Music Scholarship. UNC seemed like it would be a good fit both academically and musically, and In 2014, through a stroke of
 pure luck, I was awarded the scholarship after auditioning.
 
 Below are the pieces I played for that audition:
-<div id="text-with-margin-center">
+<div class="square">
   <ul>
       <li>Horn Concerto No. 1 (Richard Strauss; transc. John Anderson)</li>
       <li>Concerto for Bass Tuba and Orchestra (R. Vaughan Williams; edited by David Matthews)</li>
@@ -277,7 +262,7 @@ Below are the pieces I played for that audition:
 
 <br>
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     Thanks to this scholarship, my family could finally afford for me to purchase a horn of my own. Professional, hand-made tubas can cost as much as a car. I was told at that time that most orchestral jobs in the United States are won on a B&S PT-6 CC contrabass. This does not seem to be the case in reality, as it seems 6/4 'York' model contrabasses are all the rage. I was very lucky to have lived in New Jersey because a renowned instrument store, Dillon Music, was a short drive from my hometown. It's a brass player's paradise. They did have a PT-6 in stock, but I still spent a few days driving back and forth testing what they had to make up my mind. Ultimately I did choose the PT-6. 
   </p>
@@ -307,7 +292,7 @@ Below are the pieces I played for that audition:
 
 <br>
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     My freshman year, the tubists majoring in music at UNC had a 'studio' of sorts in the basement of Hill Hall called Studio 9 (we had various names for it at various times. I most frequently referred to it as <em>Nein</em>). 
     That year I was living in Ehringhaus residence hall, which was a hike from any buildings I regularly needed to be in for classes or rehearsals. 
@@ -322,12 +307,10 @@ Below are the pieces I played for that audition:
   </figure>
 </div>
 
-
-
 <em>An Idée Fixe & How to be HIP</em>
 ------
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     Thanks to Mike's research/presence in the early music sphere, I was able to learn some period instruments and perform on them too. Mike applied to be a mentor at the National Music Festival in 2016, and I auditioned for the tuba spot after learning about it. The music director was interested in having Ophicleides for that summer's performance of Berlioz's <em>Symphonie Fantastique</em>, and I thought it would be fun/a challenge to learn the instrument. We borrowed a B♭ ophicleide (which was constructed in the mid 19th century) from Duke's museum/collection of early instruments. The horn was falling apart however, and so I had to MacGyver it together with hair ties. You could essentially play any pitch with any key combination, and so preventing the intonation from being atrocious was a struggle. Mike played the second "tuba" part on a Serpent in B♭.
   </p>
@@ -337,10 +320,11 @@ Below are the pieces I played for that audition:
   </figure>
 </div>
 
+
 <em>I Went to the Woods to Dance With the Pretty Little Tune</em>
 ------
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     Most of the repertoire we performed at NMF I did on modern horns, and you can see my contrabass CC tuba in the photo above. Other highlights of NMF were Prokofiev's 7th symphony, and my first time being featured as the soloist in a performance of <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TubbyTheTuba.pdf"><em>Tubby the Tuba</em></a>. Journalist and NPR radio personality Liane Hansen was the narrator for <em>Tubby</em>. Despite the humour of the name, <em>Tubby</em> is sort of a rite of passage among tubists. 
   </p>
@@ -351,6 +335,7 @@ Below are the pieces I played for that audition:
     </figcaption>
   </figure>
 </div>
+
 
 "That Devilish <em>Bombardone</em>"
 ------
@@ -386,7 +371,7 @@ Below are the pieces I played for that audition:
 
 <br>
 
-<div id="text-with-margin">
+<div class="square">
   <p>
     Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it a <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/4 the price of the Rudy Meinl equivalent.
     <br>
@@ -400,9 +385,11 @@ Below are the pieces I played for that audition:
   </figure>
 </div>
 
+<br>
+
 <em>Sacked</em>
 ------
-<div id="text-with-margin">
+<div class="square">
   <p>
     The next fall I started learning the Bass-Sackbut so I could participate in UNC's Sackbut ensemble. We did a few gigs in Durham that fall, notably a performance of Tomás Luis de Victoria's Requiem with the Duke Vespers at Duke Chapel. 
     <br>
