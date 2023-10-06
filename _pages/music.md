@@ -148,9 +148,31 @@ author_profile: true
     font-size: 0.8rem;
   }
 
+  section.jump-to {
+    font-size: 1rem;
+  }
+
+  section.jump-to > ul > li > a {
+    font-size: 0.8rem;
+    text-decoration: none;
+  }
+
+  section.jump-to > ul > li > a:hover {
+    text-shadow: 4px 4px 8px;
+  }
+
+
 </style>
 
-<h2 class="larger-heading">Bio and Background</h2>
+<section class="jump-to">
+  <p>Jump to:</p>
+  <ul>
+    <li><a href="#Bio">Bio and Background</a></li>
+    <li><a href="#photo-gallery">Gallery</a></li>
+  </ul>
+</section>
+
+<h2 class="larger-heading" id="Bio">Bio and Background</h2>
 
 <em>Einleitung</em>
 ------
@@ -310,7 +332,7 @@ Below are the pieces I played for that audition:
     Thanks to Mike's research/presence in the early music sphere, I was able to learn some period instruments and perform on them too. Mike applied to be a mentor at the National Music Festival in 2016, and I auditioned for the tuba spot after learning about it. The music director was interested in having Ophicleides for that summer's performance of Berlioz's <em>Symphonie Fantastique</em>, and I thought it would be fun/a challenge to learn the instrument. We borrowed a B♭ ophicleide (which was constructed in the mid 19th century) from Duke's museum/collection of early instruments. The horn was falling apart however, and so I had to MacGyver it together with hair ties. You could essentially play any pitch with any key combination, and so preventing the intonation from being atrocious was a struggle. Mike played the second "tuba" part on a Serpent in B♭.
   </p>
   <figure>
-  <img id="margin-photo-small" src="../images/UNC@NMF.png" alt="UNC music @NMF 2016">
+  <img id="margin-photo-small" src="../images/UNC-NMF.png" alt="UNC music @NMF 2016">
   <figcaption>After the final concert of NMF 2016. Left to right: Emily Farmer, Katie Rose Hand, Mike Kris, and myself</figcaption>
   </figure>
 </div>
@@ -397,7 +419,7 @@ Below are the pieces I played for that audition:
 
 WIP
 
-<h2 class="larger-heading">Gallery</h2>
+<h2 class="larger-heading" id="photo-gallery">Gallery</h2>
 
 <style>
 
@@ -405,11 +427,23 @@ WIP
     width: 67.45rem;
     display: grid;
     grid-template-columns: 21.5rem 21.5rem 21.5rem;
-    grid-template-rows: repeat(5, 1fr);
+    /* grid-template-rows: repeat(4, 1fr); */
     column-gap: 0.5rem;
-    row-gap: 0rem;
+    row-gap: 2rem;
     align-items: center;
     justify-content: center;
+  }
+
+  div.last-row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    width: 67.45rem;
+  }
+
+  div.last-row > figure, div.last-row > figure > img {
+    width: 26rem;
+    margin: auto;
   }
 
   div.section > figure, div.section > figure > img {
@@ -418,8 +452,122 @@ WIP
     width: 21.5rem;
   }
 
+  figure.span-full, img.span-full {
+    grid-column: 2;
+    width: 28rem;
+  }
+
+  summary.gallery {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  summary.gallery:hover {
+    text-shadow: 4px 4px 8px;
+  }
+
+  hr.darker {
+    color: black;
+    opacity: 100%;
+  }
+
 </style>
 
+<details open>
+<summary class="gallery">Pre-UNC</summary>
+
+<div class="section">
+
+<figure>
+<img src="../images/mattEggebeen.JPG" alt="Viewing the Symphonic Band with Eggebeen after my performance in the Wind Ensemble">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/ASO5.JPG" alt="ASO tutti orchestra + choir">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/FTM1.JPG" alt="Contemporary music group performance in NYC">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/mattNJPAC.JPG" alt="In the lobby at NJPAC">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/AS-WE-senior.jpg" alt="final all state performance">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/govaward9.JPG" alt="Contemporary music group performance in NYC">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/pepBand.JPG" alt="MHS pep band on Thanksgiving">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/ftmPT6.JPG" alt="Contemporary music group performance in NYC">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/govaward2.JPG" alt="receiving the NJ governor's award in arts education">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/nycTuba.JPG" alt="tuba + subway = bad time?">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/mattStevieTapes.JPG" alt="Recording audition tapes with my uncle Stevie">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/pt64.JPG" alt="Taking the PT6 home">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/twoba.png" alt="mirafone hegemony at nationals">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/njpac-onstage.jpg" alt="ASO onstage">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/regions3.JPG" alt="post regions">
+<figcaption></figcaption>
+</figure>
+
+</div>
+
+<div class="last-row">
+  <figure>
+  <img src="../images/njpac-blur.jpg" alt="njpac accidental panning">
+  <figcaption></figcaption>
+  </figure>
+</div>
+
+</details>
+
+<hr class="darker">
+
+<details open>
+<summary class="gallery">NMF 2016</summary>
 <div class="section">
 
 <figure>
@@ -482,11 +630,125 @@ WIP
 <figcaption></figcaption>
 </figure>
 
+</div>
+
+<div class="last-row">
+  <figure>
+  <img src="../images/nmf-low-brass.JPG" alt="The low brass section of NMF 2016">
+  <figcaption></figcaption>
+  </figure>
+</div>
+
+</details>
+
+<hr class="darker">
+
+<details open>
+
+<summary class="gallery">UNC</summary>
+
+<div class="section">
 
 <figure>
-<img src="../images/nmf-low-brass.JPG" alt="The low brass section of NMF 2016">
+<img src="../images/UNCSO1.PNG" alt="UNCSO">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/duke-chapel-color-diff.PNG" alt="UNCSO">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/WarRequiem.JPG" alt="UNCSO">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/matt-ben-recital.JPG" alt="Matt and Ben post recital">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/UNCSO2.PNG" alt="UNCSO Low brass (partial) closeup">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/bronto-mitt-matt.PNG" alt="matt and his pal bronto">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/UNCSO1.PNG" alt="UNCSO">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/matt-andrew-belltower.PNG" alt="UNCSO">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/bruckner4.JPG" alt="Post-Bruckner 4">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/quartet-memorial.jpg" alt="Tuba/Euph Quartet at Memorial">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/falstaffiade.jpg" alt="Recital - Koetsier Falstaffiade">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/quintet-matt.jpg" alt="Quintet in Person Recital">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/uncso-full-brass.jpg" alt="UNCSO Full Brass">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/sackbut_spitvalve.png" alt="Lowest brass">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/sackbut-durham.JPG" alt="Lowest brass">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/UNCSO3.PNG" alt="Lowest brass">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/pma.jpg" alt="Lowest brass">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/mattEJ2.JPG" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 </div>
+
+<div class="last-row">
+  <figure class="span-full">
+    <img src="../images/uncso-rear.jpg" alt="UNCSO low brass from behind">
+  <figcaption></figcaption>
+  </figure>
+</div>
+
+</details>
+
+
 
