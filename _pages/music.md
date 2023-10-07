@@ -90,10 +90,11 @@ author_profile: true
     overflow: hidden;
     border-radius: 8px;
     transform: translateZ(0px);
-    /* border: 2px solid black; */
+    border: 2px solid black;
     height: 15rem;
     width: 25rem;
     margin: auto;
+    margin-bottom: 0rem;
   }
 
   div.rect > figure.vid > iframe {
@@ -271,7 +272,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   <figure>
     <img src="../images/mahler-bernstein-wall.png" alt="6th grade Matt"> 
     <figcaption>
-      Nearly a decade later, and still a student, but with money from working as a TA and tutor, I bought that box set, and used the record sleeves as wall art (The records are still protected).
+      Nearly a decade later, with money from working as a TA and tutor, I bought that box set and used the record sleeves as wall art (The records are still protected).
     </figcaption>
   </figure>
 </div>
@@ -287,8 +288,8 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 
   <figure class="vid">
       <iframe src="https://www.youtube.com/embed/OWeQXTnv_xU?si=sLV_rwCnQiInY0TM&amp;start=93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption>
-      The final lecture of Bernstein's Norton Lecture Series, titled, <em>The Poetry of Earth</em>. Uploaded by Youtube user <a href="https://www.youtube.com/@caginn">caginn</a>
+      <figcaption>
+        The final lecture of Bernstein's Norton Lecture Series, titled, <em>The Poetry of Earth</em>. Uploaded by Youtube user <a href="https://www.youtube.com/@caginn">caginn</a>
     </figcaption>
   </figure>
 </div>
@@ -450,7 +451,7 @@ Below are the pieces I played for that audition:
 
 <div class="square">
   <p>
-    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it a <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/4 the price of the Rudy Meinl equivalent.
+    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/4 the price of the Rudy Meinl equivalent.
     <br>
     This instrument quickly became, and still is, my favorite instrument to play.
   </p>
@@ -744,7 +745,7 @@ WIP
 </figure>
 
 <figure>
-<img src="../images/UNCSO1.PNG" alt="UNCSO">
+<img src="../images/brso.JPG" alt="Stay busy">
 <figcaption></figcaption>
 </figure>
 
@@ -803,6 +804,132 @@ WIP
 <figcaption></figcaption>
 </figure>
 
+<figure>
+<img src="../images/unc-grad.jpg" alt="Playing at graduation">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/cimbasso-pit.png" alt="Meat in the Pit">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/duke-ch-rcm.png" alt="RCM & UNC">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/baadsvik-matt.png" alt="With Øystein Baadsvik">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/durham-bb.png" alt="from the choir loft">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/cimbasso-standing.png" alt="Playing cimbasso while standing">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/artsy-tuben.png" alt="tuben">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/jon-matt.png" alt="goofin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/ITEF.png" alt="at ITEF">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/durham-bb2.png" alt="at the altar">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/mahler8.png" alt="Mahler 8">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/liminal.png" alt="cramped">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/WE-matt-andrew.png" alt="Wind Ensemble ft. Andrew">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/tuben-moben.png" alt="Moby-action valve">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/requiem.png" alt="Victoria Requiem">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/spodermin.png" alt="with great power comes great electricity">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/quintet-on-the-road.PNG" alt="It's...alive!">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/bronto-in-a-rut.png" alt="bronto propulsion lab">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/mahler10.png" alt="Mahler 10">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/thumbwar.png" alt="Stay busy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/durham-bb3.png" alt="Slip n' Slide">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/ITEF2.png" alt="changeup">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/mattEJ3.JPG" alt="EJ & Myself - bell tower">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/unc/flwrs.png" alt="Someone gave me flowers">
+<figcaption></figcaption>
+</figure>
+
+<!-- 
+<figure>
+<img src="../images/unc/sbut-no-mike.png" alt="w/out mike">
+<figcaption></figcaption>
+</figure> -->
+
 </div>
 
 <div class="last-row">
@@ -814,5 +941,13 @@ WIP
 
 </details>
 
+<hr class="darker">
 
+<details open>
+
+<summary class="gallery">Europe</summary>
+
+<div class="section">
+
+</div>
 
