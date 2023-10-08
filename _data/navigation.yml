@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Moby & Friends"
+    url: /moby_friends/
     
   - title: "Outreach"
     url: /outreach/
