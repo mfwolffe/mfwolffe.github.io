@@ -234,7 +234,7 @@ author_profile: true
 
 <div class="rect">
   <p>
-    My mother picked up a part time job as a bookkeeper a few years after her 'official' retirement from Accenture. She worked (and still works, but in a greater capacity) for NYC (now NC) based photographer, <a href="https://monicastevenson.com/">Monica Stevenson</a>. I did a bit of summer work for her as well, and got to spend time with her Dachshunds. Ziggy was the first of her dogs I met. He seemed to be in a constant state of Joy whenever I saw him. Ziggy would spend a fair bit of time at our house.
+    My mother picked up a part time job as a bookkeeper a few years after her 'official' retirement from Accenture. She worked (and still works, but in a greater capacity) for NYC (now NC) based photographer, <a href="https://monicastevenson.com/">Monica Stevenson</a>. I did a bit of summer work for her as well, and got to spend time with her Dachshunds. Ziggy was the first of her dogs I met. He seemed to be in a constant state of joy whenever I saw him. Ziggy would spend a fair bit of time at our house.
   </p>
 
 <figure>
@@ -316,3 +316,364 @@ author_profile: true
 <h2 class="larger-heading" id="photo-gallery">Gallery</h2>
 ------
 
+<style>
+
+  div.section {
+    width: 67.45rem;
+    display: grid;
+    grid-template-columns: 21.5rem 21.5rem 21.5rem;
+    /* grid-template-rows: repeat(4, 1fr); */
+    column-gap: 0.5rem;
+    row-gap: 2rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  div.last-row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    width: 67.45rem;
+  }
+
+  div.last-row > figure, div.last-row > figure > img {
+    width: 26rem;
+    margin: auto;
+  }
+
+  div.section > figure, div.section > figure > img {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    width: 21.5rem;
+  }
+
+  figure.span-full, img.span-full {
+    grid-column: 2;
+    width: 28rem;
+  }
+
+  summary.gallery {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  summary.gallery:hover {
+    text-shadow: 4px 4px 8px;
+  }
+
+  hr.darker {
+    color: black;
+    opacity: 100%;
+  }
+
+  summary.gallery {
+    margin-bottom: 0.8rem;
+  }
+
+</style>
+
+<details open>
+<summary class="gallery">Twinky, Bart, and the Dachshunds</summary>
+
+<div class="section">
+
+<figure>
+<img src="../images/moby/maggie_ziggy.JPG" alt="dachshund attack">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/Bart1.JPG" alt="Bart-o">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/dadTwinky.JPG" alt="squirrel-monk">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/maggie_twinky.JPG" alt="monica, maggie, and twinky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/maggie3.JPG" alt="subway-dawg">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/mattZiggy.JPG" alt="matt and ziggy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/MaxTwinky.JPG" alt="cousin max and twinky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/monicaTwinky.JPG" alt="monica and twinky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/twinkyBaby.JPG" alt="twinky and baby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ziggyPuppy6.JPG" alt="puppy ziggy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ziggyMaggie3.JPG" alt="it's what makes a subaru, a subaru">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/twinkyMatt2.JPG" alt="nappin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/twinkyRachel.JPG" alt="twinky and rachel">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/TwinkySnow.JPG" alt="snow day">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/twinkyGlasses.JPG" alt="twinky in glasses">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/Twinky2.JPG" alt="twinky in the car">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/Twinky3.JPG" alt="watchdog twinky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/maggie2.JPG" alt="puppy maggie in bed">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/maggieZiggieDad.JPG" alt="dachshund party">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ziggyPuppy5.jpg" alt="ziggy puppy outdoors">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/maggie1.JPG" alt="puppy maggie">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ziggyPuppy1.jpg" alt="ziggy and Matt">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ziggyPuppy2.JPG" alt="ziggy and oscar">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ZiggyOscar.JPG" alt="ziggy and oscar in bed">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/ziggyPuppy3.JPG" alt="puppy ziggy in the kitchen">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/twinkyZiggy.JPG" alt="sleepy twinky and ziggy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/twinkyUnderRock.JPG" alt="twinky in a crevace">
+<figcaption></figcaption>
+</figure>
+
+</div>
+
+</details>
+
+<br>
+
+<details open>
+<summary class="gallery">Moby</summary>
+
+<div class="section">
+
+<figure>
+<img src="../images/moby/artsy-moby.png" alt="moby being artsy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka-moby.png" alt="babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka9.png" alt="HQ babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/burrito.png" alt="burrito boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka9.png" alt="HQ babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/carpet-boy.png" alt="layin on the carpet">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/belly-boy.png" alt="belly boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka8.png" alt="more babushka boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/bisous.png" alt="bisous pour moi">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka2.png" alt="another babushka">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/backpack-pillow.png" alt="anything's a pillow if you're tired enough">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-at-dawn.png" alt="moby in the morning">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/happy-flappy.png" alt="happy boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/burrito3.png" alt="standing burrito boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/lazy-evenings.png" alt="lazy boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/first-snow.png" alt="first snow">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/lazy-mornings.png" alt="sleeping in">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/b-w-moby.png" alt="glamor shot">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/hark.png" alt="hark">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/wilson-d.png" alt="moby in front of Wilson Library">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/iconic2.png" alt="at the beach">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/hotdog-moby.png" alt="hot dawg">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/iconic.png" alt="relaxin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/guardian.png" alt="relaxin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/glonky-face.png" alt="glonky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/go-for-a-ride.png" alt="going for a ride">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/socks-and-dogs.png" alt="socks and dogs">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/mignon.png" alt="moby's minion">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-matt.png" alt="matt and moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/railroad-dawg.png" alt="railroad dawg">
+<figcaption></figcaption>
+</figure>
+
+
+</div>
+
+</details>
