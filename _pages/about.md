@@ -16,15 +16,7 @@ Beginning in high school I self-taught C++ out of a beat-up old textbook my high
 
 I am most proficient in Java & Python. I am refamiliarizing myself with C/C++, and learning more Javascript/starting to learn Max MSP. I have experience with SQL, and HTML/CSS, but no formal training in the latter (taking Web-Dev currently).
 
-<!-- <iframe width="300" height="560"
-    src="https://youtube.com/embed/81sWr58K6Gc?si=YVPcCaXf-iB-LaTx"
-    title="YouTube video player" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-    gyroscope; picture-in-picture;
-    web-share" allowfullscreen>
-</iframe> -->
-
-Current Interests in Computing
+Interests in Computing
 ------
 <ul>
     <li>Quantum computing</li>
@@ -32,7 +24,7 @@ Current Interests in Computing
     <li>Computer science pedagogy</li>
     <li>Writing software that can begin to bridge the gap in outcomes for individuals disenfranchised by structural violence</li>
     <li>Distributed Computing Systems like the projects mentioned above</li>
-    <li>Learning management systems/software as a productive educational tool</li>
+    <li>Learning management systems/software as productive educational tools</li>
     <li>Applications of CS in the fields of chemistry, mathematics, music, and cosmology</li>
     <li>Ethical concerns of Large Language Models</li>
 </ul>

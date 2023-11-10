@@ -373,6 +373,340 @@ author_profile: true
 </style>
 
 <details open>
+<summary class="gallery">Moby</summary>
+
+<div class="section">
+
+<figure>
+<img src="../images/moby/artsy-moby.png" alt="moby being artsy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka-moby.png" alt="babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka9.png" alt="HQ babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/burrito.png" alt="burrito boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/iconic.png" alt="HQ babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/carpet-boy.png" alt="layin on the carpet">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/belly-boy.png" alt="belly boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka8.png" alt="more babushka boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/bisous.png" alt="bisous pour moi">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/babushka2.png" alt="another babushka">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/backpack-pillow.png" alt="anything's a pillow if you're tired enough">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-at-dawn.png" alt="moby in the morning">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/happy-flappy.png" alt="happy boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/burrito3.png" alt="standing burrito boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/lazy-evenings.png" alt="lazy boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/first-snow.png" alt="first snow">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/lazy-mornings.png" alt="sleeping in">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/b-w-moby.png" alt="glamor shot">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/hark.png" alt="hark">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/wilson-d.png" alt="moby in front of Wilson Library">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/iconic2.png" alt="at the beach">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/hotdog-moby.png" alt="hot dawg">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/lazy-evenings.png" alt="relaxin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/guardian.png" alt="relaxin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/glonky-face.png" alt="glonky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/go-for-a-ride.png" alt="going for a ride">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/socks-and-dogs.png" alt="socks and dogs">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/mignon.png" alt="moby's minion">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-matt.png" alt="matt and moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/railroad-dawg.png" alt="railroad dawg">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/king-moby.png" alt="king moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/sneeze-incoming.png" alt="sneeze incoming">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/king-mobys-domain.png" alt="king moby & his domain">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/puppy-eyes.png" alt="king moby & his domain">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/lazin-around.png" alt="perpetually sleepy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby_1yr.png" alt="1 year old moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-and-moby.png" alt="moby and...moby?">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-dj.png" alt="DJ Moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-belly2.png" alt="belly boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-campus.png" alt="on campus">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-chessie.png" alt="on the chessie trail">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-below-moby.png" alt="he sees you when you're sleeping">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-coming-home.png" alt="taking moby home">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-in-köln.png" alt="shady moby in Köln, Germany">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-grandma.png" alt="moby and grandma @OBX">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-sled-dog.png" alt="sleddin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-wilson3.png" alt="on the quad">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-the-gray.png" alt="balrog">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/moby-wilson.png" alt="moby & Wilson">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/snowly-rolly-poly.jpg" alt="rolly polly in the snowly'">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/new-digs.png" alt="Moby in his new apartment">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/pillow-talk.png" alt="Pillow talk">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/rays.png" alt="sunrays">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait2.png" alt="Unparalleled">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait8.png" alt="Glamor shot">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/reunited-after-2-min.png" alt="reunited after 2 minutes">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait14.png" alt="king of the couch">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait69.png" alt="driver">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait52.png" alt="expressive boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait34.png" alt="bandana boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/rollin-on-the-quad.jpg" alt="rollin around the quad">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/portrait16.png" alt="floppy ear boy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/moby/schnoz.png" alt="sleepy schnoz">
+<figcaption></figcaption>
+</figure>
+
+<!-- <figure>
+<img src="../images/moby/portrait15.png" alt="everything is better when I'm upside down">
+<figcaption></figcaption>
+</figure> -->
+
+<!-- <figure>
+<img src="../images/moby/lounging.png" alt="lounging in autumn">
+<figcaption></figcaption>
+</figure> -->
+
+</div>
+
+</details>
+
+<details open>
 <summary class="gallery">Twinky, Bart, and the Dachshunds</summary>
 
 <div class="section">
@@ -516,163 +850,115 @@ author_profile: true
 
 </details>
 
-<br>
-
 <details open>
-<summary class="gallery">Moby</summary>
+<summary class="gallery">Tilly</summary>
 
 <div class="section">
 
 <figure>
-<img src="../images/moby/artsy-moby.png" alt="moby being artsy">
+<img src="../images/tilly/tilly-vday.png" alt="tilly bday">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka-moby.png" alt="babushka moby">
+<img src="../images/tilly/tilly-dock.png" alt="tilly on the dock">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka9.png" alt="HQ babushka moby">
+<img src="../images/tilly/flower-tilly.jpg" alt="wildflower tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/burrito.png" alt="burrito boy">
+<img src="../images/tilly/tilly-snow-dock.jpg" alt="snowy dock tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka9.png" alt="HQ babushka moby">
+<img src="../images/tilly/tilly-schnoz.jpg" alt="tilly schnoz">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/carpet-boy.png" alt="layin on the carpet">
+<img src="../images/tilly/hallow-tilly.png" alt="spooky tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/belly-boy.png" alt="belly boy">
+<img src="../images/tilly/christmas-tilly.jpg" alt="tilly christmas">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka8.png" alt="more babushka boy">
+<img src="../images/tilly/tilly-submerged.jpg" alt="tilly going for a dip">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/bisous.png" alt="bisous pour moi">
+<img src="../images/tilly/tilly-snow.jpg" alt="tilly in the snow">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka2.png" alt="another babushka">
+<img src="../images/tilly/tilly-bandana.jpg" alt="tilly in a bandana">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/backpack-pillow.png" alt="anything's a pillow if you're tired enough">
+<img src="../images/tilly/vicious-tilly.jpg" alt="vicious tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-at-dawn.png" alt="moby in the morning">
+<img src="../images/tilly/tilly-grass.jpg" alt="tilly in the grass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/happy-flappy.png" alt="happy boy">
+<img src="../images/tilly/tilly-lake.jpg" alt="tilly by the lake">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/burrito3.png" alt="standing burrito boy">
+<img src="../images/tilly/tilly-sleepy.jpg" alt="tilly falling asleep">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/lazy-evenings.png" alt="lazy boy">
+<img src="../images/tilly/tilly-lred.jpg" alt="tilly at the drive in">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/first-snow.png" alt="first snow">
+<img src="../images/tilly/chessie-tilly.jpg" alt="tilly on the trail">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/lazy-mornings.png" alt="sleeping in">
+<img src="../images/tilly/tilly-beach-frolick.png" alt="tilly frolicking">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/b-w-moby.png" alt="glamor shot">
+<img src="../images/tilly/soph-tilly-river.png" alt="tilly and soph down by the river">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/hark.png" alt="hark">
+<img src="../images/tilly/tilly-tongue.jpg" alt="tilly's tongue">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/wilson-d.png" alt="moby in front of Wilson Library">
+<img src="../images/tilly/tilly-christmas-first.jpg" alt="tilly's first christmas">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/iconic2.png" alt="at the beach">
+<img src="../images/tilly/capn-tilly.png" alt="tilly bday">
 <figcaption></figcaption>
 </figure>
-
-<figure>
-<img src="../images/moby/hotdog-moby.png" alt="hot dawg">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/iconic.png" alt="relaxin">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/guardian.png" alt="relaxin">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/glonky-face.png" alt="glonky">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/go-for-a-ride.png" alt="going for a ride">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/socks-and-dogs.png" alt="socks and dogs">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/mignon.png" alt="moby's minion">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/moby-matt.png" alt="matt and moby">
-<figcaption></figcaption>
-</figure>
-
-<figure>
-<img src="../images/moby/railroad-dawg.png" alt="railroad dawg">
-<figcaption></figcaption>
-</figure>
-
 
 </div>
 
