@@ -8,9 +8,9 @@ main:
 
   - title: "Tutoring"
     url: /teaching/    
-    
+
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   - title: "Moby & Friends"
     url: /moby_friends/
