@@ -438,6 +438,10 @@ and
       <input type="radio" id="jav" name="isPrime" value="jav_block">
       <label for="jav">Java</label>
     </div>
+    <div class="input">
+      <input type="radio" id="cs" name="isPrime" value="cs_block">
+      <label for="jav">C#</label>
+    </div>
   </div>
 </fieldset>
 </form>
@@ -448,7 +452,6 @@ and
       #include &lt;stdbool.h&gt;
   
       bool isPrime(int p) {
-
         if (p &lt;= 1)
           return false;
   
@@ -458,10 +461,9 @@ and
         if (p % 2 == 0 || p % 3 == 0)
             return false;
   
-        for (int i = 5; (i * i) &lt;= p; i += 6) {
-            if (p % i == 0 || p % (i + 2) == 0)
-                return false;
-        }
+        for (int i = 5; (i * i) &lt;= p; i += 6)
+          if (p % i == 0 || p % (i + 2) == 0)
+            return false;
   
         return true;
       }
@@ -480,35 +482,61 @@ and
           return true;
   
         if (p % 2 == 0 || p % 3 == 0)
+          return false;
+
+        for (int i = 5; i <= Math.sqrt(p); i += 6)
+          if (p % i == 0 || p % (i + 2) == 0)
             return false;
 
-          for (int i = 5; i <= Math.sqrt(p); i += 6) {
-              if (p % i == 0 || p % (i + 2) == 0)
-                  return false;
-          }
-
-          return true;
-        }
+        return true;
+      }
   </code>
   </pre>
   
   </div>
 
-  <div class="box" id="py_block" style="display: none; width: 56rem;">
+  <div class="box" id="py_block" style="display: none; width: 60rem;">
     <pre>
       <code class="language-python line-numbers" data-prismjs-copy="Copy">from math import sqrt
 
-        def isPrime(p):
-          if p <= 1:
-            return False
+      def isPrime(p):
+        if p &lt;= 1:
+          return False
 
-          if p <= 3:
-            return False
+        if p &lt;= 3:
+          return False
 
-          if p % 2 == 0 or p % 3 == 0:
-            return False
+        if p % 2 == 0 or p % 3 == 0:
+          return False
 
-          return not(any(p % i == 0 or p % (i + 2) == 0 for i in range(5, int(sqrt(p)), 6)))
+        return not(any(p % i == 0 or p % (i + 2) == 0 for i in range(5, int(sqrt(p)), 6)))
+  </code>
+  </pre>
+  
+  </div>
+
+  <div class="box" id="cs_block" style="display: none; width: 64rem;">
+    <pre>
+      <code class="language-python line-numbers" data-prismjs-copy="Copy">using System;
+      using System.Linq;
+
+      class Primality {
+
+        static bool isPrime(int p) {
+          if (p &lt;= 1)
+            return false;
+
+          if (p &lt;= 3)
+            return true;
+
+          if (p % 2 == 0 || p % 3 == 0)
+            return false;
+
+          return !(Array.Exists(Enumerable.Range(5, (int)Math.Sqrt(p))
+            .Where(i => (i - 24) % 6 == 0).ToArray&lt;int&gt;(),
+              (int x) =&gt; p % x == 0 || p % (x + 1) == 0));
+        }
+      }
   </code>
   </pre>
   
