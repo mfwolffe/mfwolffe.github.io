@@ -508,10 +508,7 @@ and
           if p % 2 == 0 or p % 3 == 0:
             return False
 
-          if (any(p % i == 0 or p % (i + 2) == 0 for i in range(5, int(sqrt(p)), 6))):
-            return False
-            
-          return True
+          return not(any(p % i == 0 or p % (i + 2) == 0 for i in range(5, int(sqrt(p)), 6)))
   </code>
   </pre>
   

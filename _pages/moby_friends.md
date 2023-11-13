@@ -204,7 +204,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/moby-post.PNG" alt="moby first day">
+  <img src="../images/webp-moby/moby-post.webp" alt="moby first day">
   <figcaption>
     The earliest picture I have of Moby
   </figcaption>
@@ -221,7 +221,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/tongues-out.png" alt="Tilly glonky">
+  <img src="../images/webp-moby/tongues-out.webp" alt="Tilly glonky">
   <figcaption>
     Nobody understands what goes on in Tilly's brain
   </figcaption>
@@ -238,7 +238,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/ziggyPuppy4.JPG" alt="Mischievous Ziggy">
+  <img src="../images/webp-moby/ziggyPuppy4.webp" alt="Mischievous Ziggy">
   <figcaption>
     Ziggy being mischievous
   </figcaption>
@@ -254,7 +254,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/maggie.jpg" alt="Maggie as a pup">
+  <img src="../images/webp-moby/maggie.webp" alt="Maggie as a pup">
   <figcaption>
     Maggie as a young puppy
   </figcaption>
@@ -270,7 +270,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/twinky-disheveled.png" alt="Post-nap twinky">
+  <img src="../images/webp-moby/twinky-disheveled.webp" alt="Post-nap twinky">
   <figcaption>
     Twinky and Tilly look somewhat alike, though Twinky was a little stockier
   </figcaption>
@@ -288,7 +288,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/bart.png" alt="Pensive bart">
+  <img src="../images/webp-moby/bart.webp" alt="Pensive bart">
   <figcaption>
     Pensive Bart
   </figcaption>
@@ -305,7 +305,7 @@ author_profile: true
   </p>
 
 <figure>
-  <img src="../images/moby/hannah_gma.JPG" alt="Hannah & Grandma B.">
+  <img src="../images/webp-moby/hannah_gma.webp" alt="Hannah & Grandma B.">
   <figcaption>
     Hannah with my Grandma
   </figcaption>
@@ -377,328 +377,331 @@ author_profile: true
 
 <div class="section">
 
+
+<!-- peekaboo -->
+
 <figure>
-<img src="../images/moby/artsy-moby.png" alt="moby being artsy">
+<img src="../images/webp-moby/artsy-moby.webp" alt="moby being artsy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka-moby.png" alt="babushka moby">
+<img src="../images/webp-moby/babushka-moby.webp" alt="babushka moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka9.png" alt="HQ babushka moby">
+<img src="../images/webp-moby/babushka9.webp" alt="HQ babushka moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/burrito.png" alt="burrito boy">
+<img src="../images/webp-moby/burrito.webp" alt="burrito boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/iconic.png" alt="HQ babushka moby">
+<img src="../images/webp-moby/iconic.webp" alt="HQ babushka moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/carpet-boy.png" alt="layin on the carpet">
+<img src="../images/webp-moby/carpet-boy.webp" alt="layin on the carpet">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/belly-boy.png" alt="belly boy">
+<img src="../images/webp-moby/belly-boy.webp" alt="belly boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka8.png" alt="more babushka boy">
+<img src="../images/webp-moby/babushka8.webp" alt="more babushka boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/bisous.png" alt="bisous pour moi">
+<img src="../images/webp-moby/bisous.webp" alt="bisous pour moi">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/babushka2.png" alt="another babushka">
+<img src="../images/webp-moby/babushka2.webp" alt="another babushka">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/backpack-pillow.png" alt="anything's a pillow if you're tired enough">
+<img src="../images/webp-moby/backpack-pillow.webp" alt="anything's a pillow if you're tired enough">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-at-dawn.png" alt="moby in the morning">
+<img src="../images/webp-moby/moby-at-dawn.webp" alt="moby in the morning">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/happy-flappy.png" alt="happy boy">
+<img src="../images/webp-moby/happy-flappy.webp" alt="happy boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/burrito3.png" alt="standing burrito boy">
+<img src="../images/webp-moby/burrito3.webp" alt="standing burrito boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/lazy-evenings.png" alt="lazy boy">
+<img src="../images/webp-moby/lazy-evenings.webp" alt="lazy boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/first-snow.png" alt="first snow">
+<img src="../images/webp-moby/first-snow.webp" alt="first snow">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/lazy-mornings.png" alt="sleeping in">
+<img src="../images/webp-moby/lazy-mornings.webp" alt="sleeping in">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/b-w-moby.png" alt="glamor shot">
+<img src="../images/webp-moby/b-w-moby.webp" alt="glamor shot">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/hark.png" alt="hark">
+<img src="../images/webp-moby/hark.webp" alt="hark">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/wilson-d.png" alt="moby in front of Wilson Library">
+<img src="../images/webp-moby/wilson-d.webp" alt="moby in front of Wilson Library">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/iconic2.png" alt="at the beach">
+<img src="../images/webp-moby/iconic2.webp" alt="at the beach">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/hotdog-moby.png" alt="hot dawg">
+<img src="../images/webp-moby/hotdog-moby.webp" alt="hot dawg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/lazy-evenings.png" alt="relaxin">
+<img src="../images/webp-moby/lazy-evenings.webp" alt="relaxin">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/guardian.png" alt="relaxin">
+<img src="../images/webp-moby/guardian.webp" alt="relaxin">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/glonky-face.png" alt="glonky">
+<img src="../images/webp-moby/glonky-face.webp" alt="glonky">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/go-for-a-ride.png" alt="going for a ride">
+<img src="../images/webp-moby/go-for-a-ride.webp" alt="going for a ride">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/socks-and-dogs.png" alt="socks and dogs">
+<img src="../images/webp-moby/socks-and-dogs.webp" alt="socks and dogs">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/mignon.png" alt="moby's minion">
+<img src="../images/webp-moby/mignon.webp" alt="moby's minion">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-matt.png" alt="matt and moby">
+<img src="../images/webp-moby/moby-matt.webp" alt="matt and moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/railroad-dawg.png" alt="railroad dawg">
+<img src="../images/webp-moby/railroad-dawg.webp" alt="railroad dawg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/king-moby.png" alt="king moby">
+<img src="../images/webp-moby/king-moby.webp" alt="king moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/sneeze-incoming.png" alt="sneeze incoming">
+<img src="../images/webp-moby/sneeze-incoming.webp" alt="sneeze incoming">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/king-mobys-domain.png" alt="king moby & his domain">
+<img src="../images/webp-moby/king-mobys-domain.webp" alt="king moby & his domain">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/puppy-eyes.png" alt="king moby & his domain">
+<img src="../images/webp-moby/puppy-eyes.webp" alt="king moby & his domain">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/lazin-around.png" alt="perpetually sleepy">
+<img src="../images/webp-moby/lazin-around.webp" alt="perpetually sleepy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby_1yr.png" alt="1 year old moby">
+<img src="../images/webp-moby/moby_1yr.webp" alt="1 year old moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-and-moby.png" alt="moby and...moby?">
+<img src="../images/webp-moby/moby-and-moby.webp" alt="moby and...moby?">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-dj.png" alt="DJ Moby">
+<img src="../images/webp-moby/moby-dj.webp" alt="DJ Moby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-belly2.png" alt="belly boy">
+<img src="../images/webp-moby/moby-belly2.webp" alt="belly boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-campus.png" alt="on campus">
+<img src="../images/webp-moby/moby-campus.webp" alt="on campus">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-chessie.png" alt="on the chessie trail">
+<img src="../images/webp-moby/moby-chessie.webp" alt="on the chessie trail">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-below-moby.png" alt="he sees you when you're sleeping">
+<img src="../images/webp-moby/moby-below-moby.webp" alt="he sees you when you're sleeping">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-coming-home.png" alt="taking moby home">
+<img src="../images/webp-moby/moby-coming-home.webp" alt="taking moby home">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-in-köln.png" alt="shady moby in Köln, Germany">
+<img src="../images/webp-moby/moby-in-köln.webp" alt="shady moby in Köln, Germany">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-grandma.png" alt="moby and grandma @OBX">
+<img src="../images/webp-moby/moby-grandma.webp" alt="moby and grandma @OBX">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-sled-dog.png" alt="sleddin">
+<img src="../images/webp-moby/moby-sled-dog.webp" alt="sleddin">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-wilson3.png" alt="on the quad">
+<img src="../images/webp-moby/moby-wilson3.webp" alt="on the quad">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-the-gray.png" alt="balrog">
+<img src="../images/webp-moby/moby-the-gray.webp" alt="balrog">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/moby-wilson.png" alt="moby & Wilson">
+<img src="../images/webp-moby/moby-wilson.webp" alt="moby & Wilson">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/snowly-rolly-poly.jpg" alt="rolly polly in the snowly'">
+<img src="../images/webp-moby/snowly-rolly-poly.webp" alt="rolly polly in the snowly'">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/new-digs.png" alt="Moby in his new apartment">
+<img src="../images/webp-moby/new-digs.webp" alt="Moby in his new apartment">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/pillow-talk.png" alt="Pillow talk">
+<img src="../images/webp-moby/pillow-talk.webp" alt="Pillow talk">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/rays.png" alt="sunrays">
+<img src="../images/webp-moby/rays.webp" alt="sunrays">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait2.png" alt="Unparalleled">
+<img src="../images/webp-moby/portrait2.webp" alt="Unparalleled">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait8.png" alt="Glamor shot">
+<img src="../images/webp-moby/portrait8.webp" alt="Glamor shot">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/reunited-after-2-min.png" alt="reunited after 2 minutes">
+<img src="../images/webp-moby/reunited-after-2-min.webp" alt="reunited after 2 minutes">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait14.png" alt="king of the couch">
+<img src="../images/webp-moby/portrait14.webp" alt="king of the couch">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait69.png" alt="driver">
+<img src="../images/webp-moby/portrait69.webp" alt="driver">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait52.png" alt="expressive boy">
+<img src="../images/webp-moby/portrait52.webp" alt="expressive boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait34.png" alt="bandana boy">
+<img src="../images/webp-moby/portrait34.webp" alt="bandana boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/rollin-on-the-quad.jpg" alt="rollin around the quad">
+<img src="../images/webp-moby/rollin-on-the-quad.webp" alt="rollin around the quad">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/portrait16.png" alt="floppy ear boy">
+<img src="../images/webp-moby/portrait16.webp" alt="floppy ear boy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/schnoz.png" alt="sleepy schnoz">
+<img src="../images/webp-moby/schnoz.webp" alt="sleepy schnoz">
 <figcaption></figcaption>
 </figure>
 
 <!-- <figure>
-<img src="../images/moby/portrait15.png" alt="everything is better when I'm upside down">
+<img src="../images/webp-moby/portrait15.webp" alt="everything is better when I'm upside down">
 <figcaption></figcaption>
 </figure> -->
 
 <!-- <figure>
-<img src="../images/moby/lounging.png" alt="lounging in autumn">
+<img src="../images/webp-moby/lounging.webp" alt="lounging in autumn">
 <figcaption></figcaption>
 </figure> -->
 
@@ -712,137 +715,137 @@ author_profile: true
 <div class="section">
 
 <figure>
-<img src="../images/moby/maggie_ziggy.JPG" alt="dachshund attack">
+<img src="../images/webp-moby/maggie_ziggy.webp" alt="dachshund attack">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/Bart1.JPG" alt="Bart-o">
+<img src="../images/webp-moby/Bart1.webp" alt="Bart-o">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/dadTwinky.JPG" alt="squirrel-monk">
+<img src="../images/webp-moby/dadTwinky.webp" alt="squirrel-monk">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/maggie_twinky.JPG" alt="monica, maggie, and twinky">
+<img src="../images/webp-moby/maggie_twinky.webp" alt="monica, maggie, and twinky">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/maggie3.JPG" alt="subway-dawg">
+<img src="../images/webp-moby/maggie3.webp" alt="subway-dawg">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/mattZiggy.JPG" alt="matt and ziggy">
+<img src="../images/webp-moby/mattZiggy.webp" alt="matt and ziggy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/MaxTwinky.JPG" alt="cousin max and twinky">
+<img src="../images/webp-moby/MaxTwinky.webp" alt="cousin max and twinky">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/monicaTwinky.JPG" alt="monica and twinky">
+<img src="../images/webp-moby/monicaTwinky.webp" alt="monica and twinky">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/twinkyBaby.JPG" alt="twinky and baby">
+<img src="../images/webp-moby/twinkyBaby.webp" alt="twinky and baby">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ziggyPuppy6.JPG" alt="puppy ziggy">
+<img src="../images/webp-moby/ziggyPuppy6.webp" alt="puppy ziggy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ziggyMaggie3.JPG" alt="it's what makes a subaru, a subaru">
+<img src="../images/webp-moby/ziggyMaggie3.webp" alt="it's what makes a subaru, a subaru">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/twinkyMatt2.JPG" alt="nappin">
+<img src="../images/webp-moby/twinkyMatt2.webp" alt="nappin">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/twinkyRachel.JPG" alt="twinky and rachel">
+<img src="../images/webp-moby/twinkyRachel.webp" alt="twinky and rachel">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/TwinkySnow.JPG" alt="snow day">
+<img src="../images/webp-moby/TwinkySnow.webp" alt="snow day">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/twinkyGlasses.JPG" alt="twinky in glasses">
+<img src="../images/webp-moby/twinkyGlasses.webp" alt="twinky in glasses">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/Twinky2.JPG" alt="twinky in the car">
+<img src="../images/webp-moby/Twinky2.webp" alt="twinky in the car">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/Twinky3.JPG" alt="watchdog twinky">
+<img src="../images/webp-moby/Twinky3.webp" alt="watchdog twinky">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/maggie2.JPG" alt="puppy maggie in bed">
+<img src="../images/webp-moby/maggie2.webp" alt="puppy maggie in bed">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/maggieZiggieDad.JPG" alt="dachshund party">
+<img src="../images/webp-moby/maggieZiggieDad.webp" alt="dachshund party">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ziggyPuppy5.jpg" alt="ziggy puppy outdoors">
+<img src="../images/webp-moby/ziggyPuppy5.webp" alt="ziggy puppy outdoors">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/maggie1.JPG" alt="puppy maggie">
+<img src="../images/webp-moby/maggie1.webp" alt="puppy maggie">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ziggyPuppy1.jpg" alt="ziggy and Matt">
+<img src="../images/webp-moby/ziggyPuppy1.webp" alt="ziggy and Matt">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ziggyPuppy2.JPG" alt="ziggy and oscar">
+<img src="../images/webp-moby/ziggyPuppy2.webp" alt="ziggy and oscar">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ZiggyOscar.JPG" alt="ziggy and oscar in bed">
+<img src="../images/webp-moby/ZiggyOscar.webp" alt="ziggy and oscar in bed">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/ziggyPuppy3.JPG" alt="puppy ziggy in the kitchen">
+<img src="../images/webp-moby/ziggyPuppy3.webp" alt="puppy ziggy in the kitchen">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/twinkyZiggy.JPG" alt="sleepy twinky and ziggy">
+<img src="../images/webp-moby/twinkyZiggy.webp" alt="sleepy twinky and ziggy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/moby/twinkyUnderRock.JPG" alt="twinky in a crevace">
+<img src="../images/webp-moby/twinkyUnderRock.webp" alt="twinky in a crevace">
 <figcaption></figcaption>
 </figure>
 
@@ -856,107 +859,107 @@ author_profile: true
 <div class="section">
 
 <figure>
-<img src="../images/tilly/tilly-vday.png" alt="tilly bday">
+<img src="../images/tilly-webp/tilly-vday.webp" alt="tilly bday">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-dock.png" alt="tilly on the dock">
+<img src="../images/tilly-webp/tilly-dock.webp" alt="tilly on the dock">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/flower-tilly.jpg" alt="wildflower tilly">
+<img src="../images/tilly-webp/flower-tilly.webp" alt="wildflower tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-snow-dock.jpg" alt="snowy dock tilly">
+<img src="../images/tilly-webp/tilly-snow-dock.webp" alt="snowy dock tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-schnoz.jpg" alt="tilly schnoz">
+<img src="../images/tilly-webp/tilly-schnoz.webp" alt="tilly schnoz">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/hallow-tilly.png" alt="spooky tilly">
+<img src="../images/tilly-webp/hallow-tilly.webp" alt="spooky tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/christmas-tilly.jpg" alt="tilly christmas">
+<img src="../images/tilly-webp/christmas-tilly.webp" alt="tilly christmas">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-submerged.jpg" alt="tilly going for a dip">
+<img src="../images/tilly-webp/tilly-submerged.webp" alt="tilly going for a dip">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-snow.jpg" alt="tilly in the snow">
+<img src="../images/tilly-webp/tilly-snow.webp" alt="tilly in the snow">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-bandana.jpg" alt="tilly in a bandana">
+<img src="../images/tilly-webp/tilly-bandana.webp" alt="tilly in a bandana">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/vicious-tilly.jpg" alt="vicious tilly">
+<img src="../images/tilly-webp/vicious-tilly.webp" alt="vicious tilly">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-grass.jpg" alt="tilly in the grass">
+<img src="../images/tilly-webp/tilly-grass.webp" alt="tilly in the grass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-lake.jpg" alt="tilly by the lake">
+<img src="../images/tilly-webp/tilly-lake.webp" alt="tilly by the lake">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-sleepy.jpg" alt="tilly falling asleep">
+<img src="../images/tilly-webp/tilly-sleepy.webp" alt="tilly falling asleep">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-lred.jpg" alt="tilly at the drive in">
+<img src="../images/tilly-webp/tilly-lred.webp" alt="tilly at the drive in">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/chessie-tilly.jpg" alt="tilly on the trail">
+<img src="../images/tilly-webp/chessie-tilly.webp" alt="tilly on the trail">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-beach-frolick.png" alt="tilly frolicking">
+<img src="../images/tilly-webp/tilly-beach-frolick.webp" alt="tilly frolicking">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/soph-tilly-river.png" alt="tilly and soph down by the river">
+<img src="../images/tilly-webp/soph-tilly-river.webp" alt="tilly and soph down by the river">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-tongue.jpg" alt="tilly's tongue">
+<img src="../images/tilly-webp/tilly-tongue.webp" alt="tilly's tongue">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/tilly-christmas-first.jpg" alt="tilly's first christmas">
+<img src="../images/tilly-webp/tilly-christmas-first.webp" alt="tilly's first christmas">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/tilly/capn-tilly.png" alt="tilly bday">
+<img src="../images/tilly-webp/capn-tilly.webp" alt="tilly bday">
 <figcaption></figcaption>
 </figure>
 
