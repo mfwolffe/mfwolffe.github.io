@@ -5,4 +5,3 @@ excerpt: "Out of the JMU Center for Inclusive Music Education.<br>A Web Based LM
 collection: portfolio
 ---
 
-I joined Music CPR as a collaborator in August, 2023. 

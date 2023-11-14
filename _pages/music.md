@@ -361,7 +361,7 @@ Below are the pieces I played for that audition:
     quartet, the Triangle Brass Band, and others.
   </p>
   <figure>
-    <img src="../images/music-misc-webp/quintet_kenan_chap.webp" alt="Quintet at Kenan Chapel in Wilmington">
+    <img src="../images/webp-unc/quintet_kenan_chap.webp" alt="Quintet at Kenan Chapel in Wilmington">
     <figcaption>
       The UNC brass quintet performing at Kenan Chapel in Wilmington, NC
     </figcaption>
@@ -475,7 +475,7 @@ Below are the pieces I played for that audition:
   </p>
   
 <figure>
-  <img id="margin-photo-small" src="..images/webp-unc/Sackbuts_Duke_Chapel.webp" alt="Sackbut Ensemble post Requiem">
+  <img id="margin-photo-small" src="../images/webp-unc/Sackbuts-DC-BW.webp" alt="Sackbut Ensemble post Requiem">
   <figcaption>
     The Fall 2016 UNC Sackbut Ensemble at Duke chapel. From left to right: myself with bass sackbut, Ben Albano & Katie Rose Hand with tenor sackbuts, and Mike Kris with alto sackbut
   </figcaption>
@@ -750,7 +750,7 @@ WIP
 </figure>
 
 <figure>
-<img src="../images/webp-unc/matt-andrew-belltower.webp" alt="UNCSO">
+<img src="../images/webp-unc/matt-andrew-belltower.webp" alt="belltower">
 <figcaption></figcaption>
 </figure>
 
@@ -885,7 +885,7 @@ WIP
 </figure>
 
 <figure>
-<img src="../images/quintet-on-the-road.webp" alt="It's...alive!">
+<img src="../images/webp-unc/quintet-on-the-road.webp" alt="It's...alive!">
 <figcaption></figcaption>
 </figure>
 
@@ -934,7 +934,7 @@ WIP
 
 <div class="last-row">
   <figure class="span-full">
-    <img src="../images/uncso-rear.webp" alt="UNCSO low brass from behind">
+    <img src="../images/webp-unc/uncso-rear.webp" alt="UNCSO low brass from behind">
   <figcaption></figcaption>
   </figure>
 </div>

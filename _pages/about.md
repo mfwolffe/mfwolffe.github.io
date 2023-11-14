@@ -14,7 +14,7 @@ for sale through word of mouth and online. By my senior year I had a collection 
 [Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/)
 Beginning in high school I self-taught C++ out of a beat-up old textbook my high school's CS teacher lent me in response to my quick progression through the basic curriculum.
 
-I am most proficient in Java & Python. I am refamiliarizing myself with C/C++, and learning more Javascript/starting to learn Max MSP. I have experience with SQL, and HTML/CSS, but no formal training in the latter (taking Web-Dev currently).
+I am most proficient in Java & Python. I am refamiliarizing myself with C, C++, & C#, learning more Javascript, and starting to learn Max MSP. I have experience with SQL, and HTML/CSS, but no formal training in the latter (taking Web-Dev currently).
 
 Interests in Computing
 ------
