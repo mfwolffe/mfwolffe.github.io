@@ -475,7 +475,7 @@ Below are the pieces I played for that audition:
   </p>
   
 <figure>
-  <img id="margin-photo-small" src="../music-misc-webp/Sackbuts_Duke_Chapel.webp" alt="Sackbut Ensemble post Requiem">
+  <img id="margin-photo-small" src="..images/webp-unc/Sackbuts_Duke_Chapel.webp" alt="Sackbut Ensemble post Requiem">
   <figcaption>
     The Fall 2016 UNC Sackbut Ensemble at Duke chapel. From left to right: myself with bass sackbut, Ben Albano & Katie Rose Hand with tenor sackbuts, and Mike Kris with alto sackbut
   </figcaption>
@@ -715,102 +715,102 @@ WIP
 <div class="section">
 
 <figure>
-<img src="../images/images/webp-unc/UNCSO1.webp" alt="UNCSO">
+<img src="../images/webp-unc/UNCSO1.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/duke-chapel-color-diff.webp" alt="UNCSO">
+<img src="../images/webp-unc/duke-chapel-color-diff.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/WarRequiem.webp" alt="UNCSO">
+<img src="../images/webp-unc/WarRequiem.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/matt-ben-recital.webp" alt="Matt and Ben post recital">
+<img src="../images/webp-unc/matt-ben-recital.webp" alt="Matt and Ben post recital">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/UNCSO2.webp" alt="UNCSO Low brass (partial) closeup">
+<img src="../images/webp-unc/UNCSO2.webp" alt="UNCSO Low brass (partial) closeup">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/bronto-mitt-matt.webp" alt="matt and his pal bronto">
+<img src="../images/webp-unc/bronto-mitt-matt.webp" alt="matt and his pal bronto">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/brso.webp" alt="Stay busy">
+<img src="../images/webp-unc/brso.webp" alt="Stay busy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/matt-andrew-belltower.webp" alt="UNCSO">
+<img src="../images/webp-unc/matt-andrew-belltower.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/bruckner4.webp" alt="Post-Bruckner 4">
+<img src="../images/webp-unc/bruckner4.webp" alt="Post-Bruckner 4">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/quartet-memorial.webp" alt="Tuba/Euph Quartet at Memorial">
+<img src="../images/webp-unc/quartet-memorial.webp" alt="Tuba/Euph Quartet at Memorial">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/falstaffiade.webp" alt="Recital - Koetsier Falstaffiade">
+<img src="../images/webp-unc/falstaffiade.webp" alt="Recital - Koetsier Falstaffiade">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/quintet-matt.webp" alt="Quintet in Person Recital">
+<img src="../images/webp-unc/quintet-matt.webp" alt="Quintet in Person Recital">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/uncso-full-brass.webp" alt="UNCSO Full Brass">
+<img src="../images/webp-unc/uncso-full-brass.webp" alt="UNCSO Full Brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/sackbut_spitvalve.webp" alt="Lowest brass">
+<img src="../images/webp-unc/sackbut_spitvalve.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/sackbut-durham.webp" alt="Lowest brass">
+<img src="../images/webp-unc/sackbut-durham.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/UNCSO3.webp" alt="Lowest brass">
+<img src="../images/webp-unc/UNCSO3.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/pma.webp" alt="Lowest brass">
+<img src="../images/webp-unc/pma.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/mattEJ2.webp" alt="Lowest brass">
+<img src="../images/webp-unc/mattEJ2.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/unc-grad.webp" alt="Playing at graduation">
+<img src="../images/webp-unc/unc-grad.webp" alt="Playing at graduation">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/images/webp-unc/cimbasso-pit.webp" alt="Meat in the Pit">
+<img src="../images/webp-unc/cimbasso-pit.webp" alt="Meat in the Pit">
 <figcaption></figcaption>
 </figure>
 
