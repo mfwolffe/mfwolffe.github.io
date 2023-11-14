@@ -208,7 +208,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   </p>
 
 <figure>
-  <img src="../images/matt_and_eggebeen.png" alt="Matt and Joe Eggebeen at NJPAC post performance">
+  <img src="../images/music-misc-webp/matt_and_eggebeen.webp" alt="Matt and Joe Eggebeen at NJPAC post performance">
   <figcaption>
     Joe Eggebeen and I following an All State Wind Ensemble concert at NJPAC
   </figcaption>
@@ -226,7 +226,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   </p>
 
   <figure>
-    <img src="../images/6th_grade_regions.jpeg" alt="6th grade Matt"> 
+    <img src="../images/music-misc-webp/6th_grade_regions.webp" alt="6th grade Matt"> 
     <figcaption>
       Taken during a regionals rehearsal. The photographer told me to pretend to play. Smiling like that while playing is a huge no-no
     </figcaption>
@@ -246,7 +246,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   <br>
 
   <figure>
-    <img src="../images/bernstein-mahler.png" alt="mahler bernstein canvas I made"> 
+    <img src="../images/music-misc-webp/bernstein-mahler.webp" alt="mahler bernstein canvas I made"> 
     <figcaption>
       A Canvas I made of the album art from <a href="https://store.deutschegrammophon.com/p51-i0028948618767/leonard-bernstein/mahler-complete-symphonies/index.html">Bernstein's Mahler Cycle</a> (Deutsche Grammophon). Artwork by <a href="https://en.wikipedia.org/wiki/Ert%C3%A9">Erté</a>. As a student I could not afford the vinyl box set.
     </figcaption>
@@ -270,7 +270,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   </p>
 
   <figure>
-    <img src="../images/mahler-bernstein-wall.png" alt="6th grade Matt"> 
+    <img src="../images/music-misc-webp/mahler-bernstein-wall.webp" alt="6th grade Matt"> 
     <figcaption>
       Nearly a decade later, with money from working as a TA and tutor, I bought that box set and used the record sleeves as wall art (The records are still protected).
     </figcaption>
@@ -307,7 +307,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
     to the anxieties inherent to this process. I can't remember the total number of schools I either sent tapes to or auditioned at, but it was a lot.
   </p>
   <figure>
-    <img src="../images/njpac1.jpg" alt="Matt at NJPAC">
+    <img src="../images/music-misc-webp/njpac1.webp" alt="Matt at NJPAC">
     <figcaption>
       Meandering after an All State Wind Ensemble concert at NJPAC
     </figcaption>
@@ -331,7 +331,7 @@ Below are the pieces I played for that audition:
       </li>
   </ul>
   <figure>
-    <img id="margin-photo-small" src="../images/old_well.jpg" alt="Matt at the Old Well">
+    <img id="margin-photo-small" src="../images/music-misc-webp/old_well.webp" alt="Matt at the Old Well">
     <figcaption>
       At the Old Well following my audition for the Kenan Scholarship.
     </figcaption>
@@ -345,7 +345,7 @@ Below are the pieces I played for that audition:
     Thanks to this scholarship, my family could finally afford for me to purchase a horn of my own. Professional, hand-made tubas can cost as much as a car. I was told at that time that most orchestral jobs in the United States are won on a B&S PT-6 CC contrabass. This does not seem to be the case in reality, as it seems 6/4 'York' model contrabasses are all the rage. I was very lucky to have lived in New Jersey because a renowned instrument store, Dillon Music, was a short drive from my hometown. It's a brass player's paradise. They did have a PT-6 in stock, but I still spent a few days driving back and forth testing what they had to make up my mind. Ultimately I did choose the PT-6. 
   </p>
   <figure>
-    <img id="margin-photo-small" src="../images/pt6.JPG" alt="Matt with his PT-6">
+    <img id="margin-photo-small" src="../images/music-misc-webp/pt6.webp" alt="Matt with his PT-6">
     <figcaption>
       At Dillon Music after purchasing my first horn.
     </figcaption>
@@ -361,7 +361,7 @@ Below are the pieces I played for that audition:
     quartet, the Triangle Brass Band, and others.
   </p>
   <figure>
-    <img src="../images/quintet_kenan_chap.JPG" alt="Quintet at Kenan Chapel in Wilmington">
+    <img src="../images/music-misc-webp/quintet_kenan_chap.webp" alt="Quintet at Kenan Chapel in Wilmington">
     <figcaption>
       The UNC brass quintet performing at Kenan Chapel in Wilmington, NC
     </figcaption>
@@ -378,7 +378,7 @@ Below are the pieces I played for that audition:
     practice at essentially any time I wished without having to walk 15 minutes to and from Ehaus. A side effect was people started referring to me as <em>the ghost of hill hall</em>.
   </p>
   <figure>
-    <img id="margin-photo-small" src="../images/studio95.JPG" alt="Matt in Studio 9">
+    <img id="margin-photo-small" src="../images/music-misc-webp/studio95.webp" alt="Matt in Studio 9">
     <figcaption>
       Would sometimes nap in tuba cases.
     </figcaption>
@@ -393,7 +393,7 @@ Below are the pieces I played for that audition:
     Thanks to Mike's research/presence in the early music sphere, I was able to learn some period instruments and perform on them too. Mike applied to be a mentor at the National Music Festival in 2016, and I auditioned for the tuba spot after learning about it. The music director was interested in having Ophicleides for that summer's performance of Berlioz's <em>Symphonie Fantastique</em>, and I thought it would be fun/a challenge to learn the instrument. We borrowed a B♭ ophicleide (which was constructed in the mid 19th century) from Duke's museum/collection of early instruments. The horn was falling apart however, and so I had to MacGyver it together with hair ties. You could essentially play any pitch with any key combination, and so preventing the intonation from being atrocious was a struggle. Mike played the second "tuba" part on a Serpent in B♭.
   </p>
   <figure>
-  <img id="margin-photo-small" src="../images/UNC-NMF.png" alt="UNC music @NMF 2016">
+  <img id="margin-photo-small" src="../images/music-misc-webp/UNC-NMF.webp" alt="UNC music @NMF 2016">
   <figcaption>After the final concert of NMF 2016. Left to right: Emily Farmer, Katie Rose Hand, Mike Kris, and myself</figcaption>
   </figure>
 </div>
@@ -407,7 +407,7 @@ Below are the pieces I played for that audition:
     Most of the repertoire we performed at NMF I did on modern horns, and you can see my contrabass CC tuba in the photo above. Other highlights of NMF were Prokofiev's 7th symphony, and my first time being featured as the soloist in a performance of <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TubbyTheTuba.pdf"><em>Tubby the Tuba</em></a>. Journalist and NPR radio personality Liane Hansen was the narrator for <em>Tubby</em>. Despite the humour of the name, <em>Tubby</em> is sort of a rite of passage among tubists. 
   </p>
   <figure>
-    <img id="margin-photo-small" src="../images/MW_Liane_Hansen.png" alt="Matt with Liane Hansen">
+    <img id="margin-photo-small" src="../images/music-misc-webp/MW_Liane_Hansen.webp" alt="Matt with Liane Hansen">
     <figcaption>
       Myself with Liane Hansen, former host of NPR's award winning <em>Weekend Edition Sunday</em> after our performance of <em>Tubby</em>
     </figcaption>
@@ -424,7 +424,7 @@ Below are the pieces I played for that audition:
     <a href="https://www.metmuseum.org/art/collection/search504920"><em>bassoon russe</em></a>. This name would go on to extend to several instruments, including the earliest tubas.
   </p>
   <figure>
-    <img src="../images/bassoon_russe.jpg" alt="Bassoon Russe">
+    <img src="../images/music-misc-webp/bassoon_russe.webp" alt="Bassoon Russe">
     <figcaption>
       <em>Bassoon Russe</em>. Image courtesy of <a href="https://www.metmuseum.org/art/collection/search/504920">The MET</a>
     </figcaption>
@@ -435,12 +435,12 @@ Below are the pieces I played for that audition:
 
 <div class="portrait">
   <p>
-    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.jpg"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
+    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.webp"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
     <br><br>
     Modern Cimbassos are largely a postwar invention. <a href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
   </p>
   <figure>
-    <img src="../images/Stowasser-trb-verdi.jpg" alt="Trombone Basso Verdi">
+    <img src="../images/music-misc-webp/Stowasser-trb-verdi.webp" alt="Trombone Basso Verdi">
     <figcaption>
       <em>Stowasser Trombone basso Verdi</em>, by University of Edinburgh, CC BY 3.0, courtesy of <a href="https://commons.wikimedia.org/w/index.php?curid=131947489">Wikimedia Commons</a>
     </figcaption>
@@ -456,7 +456,7 @@ Below are the pieces I played for that audition:
     This instrument quickly became, and still is, my favorite instrument to play.
   </p>
   <figure>
-    <img src="../images/STS_cimbasso.jpg" alt="My Cimbasso">
+    <img src="../images/music-misc-webp/STS_cimbasso.webp" alt="My Cimbasso">
     <figcaption>
       Here I am in rehearsal at the Southeast Trombone Symposium with my cimbasso.
     </figcaption>
@@ -475,7 +475,7 @@ Below are the pieces I played for that audition:
   </p>
   
 <figure>
-  <img id="margin-photo-small" src="../images/Sackbuts_Duke_Chapel.png" alt="Sackbut Ensemble post Requiem">
+  <img id="margin-photo-small" src="../music-misc-webp/Sackbuts_Duke_Chapel.webp" alt="Sackbut Ensemble post Requiem">
   <figcaption>
     The Fall 2016 UNC Sackbut Ensemble at Duke chapel. From left to right: myself with bass sackbut, Ben Albano & Katie Rose Hand with tenor sackbuts, and Mike Kris with alto sackbut
   </figcaption>
@@ -544,77 +544,77 @@ WIP
 <div class="section">
 
 <figure>
-<img src="../images/mattEggebeen.JPG" alt="Viewing the Symphonic Band with Eggebeen after my performance in the Wind Ensemble">
+<img src="../images/music-misc-webp/mattEggebeen.webp" alt="Viewing the Symphonic Band with Eggebeen after my performance in the Wind Ensemble">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/ASO5.JPG" alt="ASO tutti orchestra + choir">
+<img src="../images/music-misc-webp/ASO5.webp" alt="ASO tutti orchestra + choir">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/FTM1.JPG" alt="Contemporary music group performance in NYC">
+<img src="../images/music-misc-webp/FTM1.webp" alt="Contemporary music group performance in NYC">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/mattNJPAC.JPG" alt="In the lobby at NJPAC">
+<img src="../images/music-misc-webp/mattNJPAC.webp" alt="In the lobby at NJPAC">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/AS-WE-senior.jpg" alt="final all state performance">
+<img src="../images/music-misc-webp/AS-WE-senior.webp" alt="final all state performance">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/govaward9.JPG" alt="Contemporary music group performance in NYC">
+<img src="../images/music-misc-webp/govaward9.webp" alt="Contemporary music group performance in NYC">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/pepBand.JPG" alt="MHS pep band on Thanksgiving">
+<img src="../images/music-misc-webp/pepBand.webp" alt="MHS pep band on Thanksgiving">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/ftmPT6.JPG" alt="Contemporary music group performance in NYC">
+<img src="../images/music-misc-webp/ftmPT6.webp" alt="Contemporary music group performance in NYC">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/govaward2.JPG" alt="receiving the NJ governor's award in arts education">
+<img src="../images/music-misc-webp/govaward2.webp" alt="receiving the NJ governor's award in arts education">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/nycTuba.JPG" alt="tuba + subway = bad time?">
+<img src="../images/music-misc-webp/nycTuba.webp" alt="tuba + subway = bad time?">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/mattStevieTapes.JPG" alt="Recording audition tapes with my uncle Stevie">
+<img src="../images/music-misc-webp/mattStevieTapes.webp" alt="Recording audition tapes with my uncle Stevie">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/pt64.JPG" alt="Taking the PT6 home">
+<img src="../images/music-misc-webp/pt64.webp" alt="Taking the PT6 home">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/twoba.png" alt="mirafone hegemony at nationals">
+<img src="../images/music-misc-webp/twoba.webp" alt="mirafone hegemony at nationals">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/njpac-onstage.jpg" alt="ASO onstage">
+<img src="../images/music-misc-webp/njpac-onstage.webp" alt="ASO onstage">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/regions3.JPG" alt="post regions">
+<img src="../images/music-misc-webp/regions3.webp" alt="post regions">
 <figcaption></figcaption>
 </figure>
 
@@ -622,7 +622,7 @@ WIP
 
 <div class="last-row">
   <figure>
-  <img src="../images/njpac-blur.jpg" alt="njpac accidental panning">
+  <img src="../images/music-misc-webp/njpac-blur.webp" alt="njpac accidental panning">
   <figcaption></figcaption>
   </figure>
 </div>
@@ -636,62 +636,62 @@ WIP
 <div class="section">
 
 <figure>
-<img src="../images/nmf-tutti.JPG" alt="NMF 2016 tutti orchestra">
+<img src="../images/music-misc-webp/nmf-tutti.webp" alt="NMF 2016 tutti orchestra">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/oph-on-stage.jpg" alt="matt on stage with ophicleide">
+<img src="../images/music-misc-webp/oph-on-stage.webp" alt="matt on stage with ophicleide">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/nmf-brass.JPG" alt="NMF partial brass section">
+<img src="../images/music-misc-webp/nmf-brass.webp" alt="NMF partial brass section">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/carter-matt-hq.jpg" alt="Myself and Carter">
+<img src="../images/music-misc-webp/carter-matt-hq.webp" alt="Myself and Carter">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/lowbrass-stage2.jpg" alt="Low brass at NMF">
+<img src="../images/music-misc-webp/lowbrass-stage2.webp" alt="Low brass at NMF">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/king-carter.jpg" alt="Low brass at NMF">
+<img src="../images/music-misc-webp/king-carter.webp" alt="Low brass at NMF">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/brass-atrium.jpg" alt="Festival Opening Ceremony">
+<img src="../images/music-misc-webp/brass-atrium.webp" alt="Festival Opening Ceremony">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/oph-atrium.jpg" alt="Festival Opening Ceremony">
+<img src="../images/music-misc-webp/oph-atrium.webp" alt="Festival Opening Ceremony">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/matt-mike-SF.jpg" alt="Symphonie Fantastique on Ophicleide & Serpent">
+<img src="../images/music-misc-webp/matt-mike-SF.webp" alt="Symphonie Fantastique on Ophicleide & Serpent">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/mute-n-apple.jpg" alt="'artsy' mute shot">
+<img src="../images/music-misc-webp/mute-n-apple.webp" alt="'artsy' mute shot">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/nmf-rehearsal1.JPG" alt="in rehearsal">
+<img src="../images/music-misc-webp/nmf-rehearsal1.webp" alt="in rehearsal">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/oph-on-stage2.png" alt="SF with oph">
+<img src="../images/music-misc-webp/oph-on-stage2.webp" alt="SF with oph">
 <figcaption></figcaption>
 </figure>
 
@@ -699,7 +699,7 @@ WIP
 
 <div class="last-row">
   <figure>
-  <img src="../images/nmf-low-brass.JPG" alt="The low brass section of NMF 2016">
+  <img src="../images/music-misc-webp/nmf-low-brass.webp" alt="The low brass section of NMF 2016">
   <figcaption></figcaption>
   </figure>
 </div>
@@ -715,218 +715,218 @@ WIP
 <div class="section">
 
 <figure>
-<img src="../images/UNCSO1.PNG" alt="UNCSO">
+<img src="../images/images/webp-unc/UNCSO1.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/duke-chapel-color-diff.PNG" alt="UNCSO">
+<img src="../images/images/webp-unc/duke-chapel-color-diff.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/WarRequiem.JPG" alt="UNCSO">
+<img src="../images/images/webp-unc/WarRequiem.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/matt-ben-recital.JPG" alt="Matt and Ben post recital">
+<img src="../images/images/webp-unc/matt-ben-recital.webp" alt="Matt and Ben post recital">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/UNCSO2.PNG" alt="UNCSO Low brass (partial) closeup">
+<img src="../images/images/webp-unc/UNCSO2.webp" alt="UNCSO Low brass (partial) closeup">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/bronto-mitt-matt.PNG" alt="matt and his pal bronto">
+<img src="../images/images/webp-unc/bronto-mitt-matt.webp" alt="matt and his pal bronto">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/brso.JPG" alt="Stay busy">
+<img src="../images/images/webp-unc/brso.webp" alt="Stay busy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/matt-andrew-belltower.PNG" alt="UNCSO">
+<img src="../images/images/webp-unc/matt-andrew-belltower.webp" alt="UNCSO">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/bruckner4.JPG" alt="Post-Bruckner 4">
+<img src="../images/images/webp-unc/bruckner4.webp" alt="Post-Bruckner 4">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/quartet-memorial.jpg" alt="Tuba/Euph Quartet at Memorial">
+<img src="../images/images/webp-unc/quartet-memorial.webp" alt="Tuba/Euph Quartet at Memorial">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/falstaffiade.jpg" alt="Recital - Koetsier Falstaffiade">
+<img src="../images/images/webp-unc/falstaffiade.webp" alt="Recital - Koetsier Falstaffiade">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/quintet-matt.jpg" alt="Quintet in Person Recital">
+<img src="../images/images/webp-unc/quintet-matt.webp" alt="Quintet in Person Recital">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/uncso-full-brass.jpg" alt="UNCSO Full Brass">
+<img src="../images/images/webp-unc/uncso-full-brass.webp" alt="UNCSO Full Brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/sackbut_spitvalve.png" alt="Lowest brass">
+<img src="../images/images/webp-unc/sackbut_spitvalve.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/sackbut-durham.JPG" alt="Lowest brass">
+<img src="../images/images/webp-unc/sackbut-durham.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/UNCSO3.PNG" alt="Lowest brass">
+<img src="../images/images/webp-unc/UNCSO3.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/pma.jpg" alt="Lowest brass">
+<img src="../images/images/webp-unc/pma.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/mattEJ2.JPG" alt="Lowest brass">
+<img src="../images/images/webp-unc/mattEJ2.webp" alt="Lowest brass">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc-grad.jpg" alt="Playing at graduation">
+<img src="../images/images/webp-unc/unc-grad.webp" alt="Playing at graduation">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/cimbasso-pit.png" alt="Meat in the Pit">
+<img src="../images/images/webp-unc/cimbasso-pit.webp" alt="Meat in the Pit">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/duke-ch-rcm.png" alt="RCM & UNC">
+<img src="../images/webp-unc/duke-ch-rcm.webp" alt="RCM & UNC">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/baadsvik-matt.png" alt="With Øystein Baadsvik">
+<img src="../images/webp-unc/baadsvik-matt.webp" alt="With Øystein Baadsvik">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/durham-bb.png" alt="from the choir loft">
+<img src="../images/webp-unc/durham-bb.webp" alt="from the choir loft">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/cimbasso-standing.png" alt="Playing cimbasso while standing">
+<img src="../images/webp-unc/cimbasso-standing.webp" alt="Playing cimbasso while standing">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/artsy-tuben.png" alt="tuben">
+<img src="../images/webp-unc/artsy-tuben.webp" alt="tuben">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/jon-matt.png" alt="goofin">
+<img src="../images/webp-unc/jon-matt.webp" alt="goofin">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/ITEF.png" alt="at ITEF">
+<img src="../images/webp-unc/ITEF.webp" alt="at ITEF">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/durham-bb2.png" alt="at the altar">
+<img src="../images/webp-unc/durham-bb2.webp" alt="at the altar">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/mahler8.png" alt="Mahler 8">
+<img src="../images/webp-unc/mahler8.webp" alt="Mahler 8">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/liminal.png" alt="cramped">
+<img src="../images/webp-unc/liminal.webp" alt="cramped">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/WE-matt-andrew.png" alt="Wind Ensemble ft. Andrew">
+<img src="../images/webp-unc/WE-matt-andrew.webp" alt="Wind Ensemble ft. Andrew">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/tuben-moben.png" alt="Moby-action valve">
+<img src="../images/webp-unc/tuben-moben.webp" alt="Moby-action valve">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/requiem.png" alt="Victoria Requiem">
+<img src="../images/webp-unc/requiem.webp" alt="Victoria Requiem">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/spodermin.png" alt="with great power comes great electricity">
+<img src="../images/webp-unc/spodermin.webp" alt="with great power comes great electricity">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/quintet-on-the-road.PNG" alt="It's...alive!">
+<img src="../images/quintet-on-the-road.webp" alt="It's...alive!">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/bronto-in-a-rut.png" alt="bronto propulsion lab">
+<img src="../images/webp-unc/bronto-in-a-rut.webp" alt="bronto propulsion lab">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/mahler10.png" alt="Mahler 10">
+<img src="../images/webp-unc/mahler10.webp" alt="Mahler 10">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/thumbwar.png" alt="Stay busy">
+<img src="../images/webp-unc/thumbwar.webp" alt="Stay busy">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/durham-bb3.png" alt="Slip n' Slide">
+<img src="../images/webp-unc/durham-bb3.webp" alt="Slip n' Slide">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/ITEF2.png" alt="changeup">
+<img src="../images/webp-unc/ITEF2.webp" alt="changeup">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/mattEJ3.JPG" alt="EJ & Myself - bell tower">
+<img src="../images/webp-unc/mattEJ3.webp" alt="EJ & Myself - bell tower">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/unc/flwrs.png" alt="Someone gave me flowers">
+<img src="../images/webp-unc/flwrs.webp" alt="Someone gave me flowers">
 <figcaption></figcaption>
 </figure>
 
 <!-- 
 <figure>
-<img src="../images/unc/sbut-no-mike.png" alt="w/out mike">
+<img src="../images/webp-unc/sbut-no-mike.webp" alt="w/out mike">
 <figcaption></figcaption>
 </figure> -->
 
@@ -934,7 +934,7 @@ WIP
 
 <div class="last-row">
   <figure class="span-full">
-    <img src="../images/uncso-rear.jpg" alt="UNCSO low brass from behind">
+    <img src="../images/uncso-rear.webp" alt="UNCSO low brass from behind">
   <figcaption></figcaption>
   </figure>
 </div>
@@ -950,4 +950,3 @@ WIP
 <div class="section">
 
 </div>
-

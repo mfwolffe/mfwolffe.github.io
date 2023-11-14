@@ -515,7 +515,7 @@ and
   
   </div>
 
-  <div class="box" id="cs_block" style="display: none; width: 64rem;">
+  <div class="box" id="cs_block" style="display: none; width: 58rem;">
     <pre>
       <code class="language-python line-numbers" data-prismjs-copy="Copy">using System;
       using System.Linq;
@@ -533,8 +533,9 @@ and
             return false;
 
           return !(Array.Exists(Enumerable.Range(5, (int)Math.Sqrt(p))
-            .Where(i => (i - 24) % 6 == 0).ToArray&lt;int&gt;(),
-              (int x) =&gt; p % x == 0 || p % (x + 1) == 0));
+                        .SkipWhile(i =&gt; i % 6 == 0)
+                        .ToArray&lt;int&gt;(), (int x) =&gt; p % x == 0 || p % (x + 2) == 0));
+          
         }
       }
   </code>
