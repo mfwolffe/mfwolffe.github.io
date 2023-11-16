@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a class="cust" href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
 {% include base_path %}
@@ -26,8 +26,13 @@ author_profile: true
     font-size: 100%
   }
 
-  a:hover {
+  a.cust {
+    text-decoration: none;
+  }
+
+  a.cust:hover {
     text-shadow: 4px 4px 8px;
+    text-decoration: none;
   }
 
   div.square {
@@ -178,8 +183,8 @@ author_profile: true
 <section class="jump-to">
   <p>Jump to:</p>
   <ul>
-    <li><a href="#Bio">Bio and Background</a></li>
-    <li><a href="#photo-gallery">Gallery</a></li>
+    <li><a class="cust" href="#Bio">Bio and Background</a></li>
+    <li><a class="cust" href="#photo-gallery">Gallery</a></li>
   </ul>
 </section>
 
@@ -248,7 +253,7 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   <figure>
     <img src="../images/music-misc-webp/bernstein-mahler.webp" alt="mahler bernstein canvas I made"> 
     <figcaption>
-      A Canvas I made of the album art from <a href="https://store.deutschegrammophon.com/p51-i0028948618767/leonard-bernstein/mahler-complete-symphonies/index.html">Bernstein's Mahler Cycle</a> (Deutsche Grammophon). Artwork by <a href="https://en.wikipedia.org/wiki/Ert%C3%A9">Erté</a>. As a student I could not afford the vinyl box set.
+      A Canvas I made of the album art from <a class="cust" href="https://store.deutschegrammophon.com/p51-i0028948618767/leonard-bernstein/mahler-complete-symphonies/index.html">Bernstein's Mahler Cycle</a> (Deutsche Grammophon). Artwork by <a class="cust" href="https://en.wikipedia.org/wiki/Ert%C3%A9">Erté</a>. As a student I could not afford the vinyl box set.
     </figcaption>
   </figure>
 </div>
@@ -258,13 +263,13 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 <div class="square">
   <p>
     One of my first searches was, of course, <em>Leonard Bernstein West Side Story</em>. Within minutes I discovered Bernstein's televised
-    <a href="https://leonardbernstein.com/about/educator/young-peoples-concerts"><em>Young People's Concerts</em></a>
+    <a class="cust" href="https://leonardbernstein.com/about/educator/young-peoples-concerts"><em>Young People's Concerts</em></a>
     with the New York Philharmonic. While each broadcast was impactful, 
     episodes 8, 
-    <a href="https://www.youtube.com/watch?v=pk0itgZ14w0"><em>Who is Gustav Mahler</em></a>, 34, 
-    <a href="https://www.youtube.com/watch?v=_Wh6OPybR_Q"><em>A Birthday Tribute to Shostakovich</em></a>, 46,
-    <a href="https://www.youtube.com/watch?v=MjVwM1nRK8Y"><em>Berlioz Takes a Trip</em></a>, and 51 
-    <a href="https://www.loc.gov/item/lbypc.0541/"><em>Thus Spake Richard Strauss</em></a>, were particularly life-changing. My angsty teenage brain felt as if I alone understood the
+    <a class="cust" href="https://www.youtube.com/watch?v=pk0itgZ14w0"><em>Who is Gustav Mahler</em></a>, 34, 
+    <a class="cust" href="https://www.youtube.com/watch?v=_Wh6OPybR_Q"><em>A Birthday Tribute to Shostakovich</em></a>, 46,
+    <a class="cust" href="https://www.youtube.com/watch?v=MjVwM1nRK8Y"><em>Berlioz Takes a Trip</em></a>, and 51 
+    <a class="cust" href="https://www.loc.gov/item/lbypc.0541/"><em>Thus Spake Richard Strauss</em></a>, were particularly life-changing. My angsty teenage brain felt as if I alone understood the
     fundamental struggle of Mahler, the defiance of Shostakovich, the rhapsosidic musings & outbursts of Berlioz, and the Nietzschean meditations of Strauss. As I grew older I began to understand such feelings were, of course, not unique to myself and these composers,
     rather an innate part of the human condition. Bernstein's narration also engendered a novel ability to discuss music and musical ideas both eloquently and academically. 
   </p>
@@ -283,13 +288,13 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
   <p>
     Also thanks to Bernstein I began to experience the full versatility of the low brass section; that composers employ them for more than just basslines. They can evoke a suffocating sense of foreboding or an executioner laughing like a hyena as the blade falls; but also exude resplendence and an almost celestial blending of timbres.
     I still seek out old clips of Bernstein, whether they're hour long videos of Mahler symphonies or short primers on Beethoven. Every year I rewatch his Norton Lecture Series at Harvard, 
-    <a href="https://www.youtube.com/watch?v=8fHi36dvTdE&list=PLKiz0UZowP2V0mwtNv1lc1_zUSB2O65d7"><em>The Unanswered Question</em></a>
+    <a class="cust" href="https://www.youtube.com/watch?v=8fHi36dvTdE&list=PLKiz0UZowP2V0mwtNv1lc1_zUSB2O65d7"><em>The Unanswered Question</em></a>
   </p>
 
   <figure class="vid">
       <iframe src="https://www.youtube.com/embed/OWeQXTnv_xU?si=sLV_rwCnQiInY0TM&amp;start=93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <figcaption>
-        The final lecture of Bernstein's Norton Lecture Series, titled, <em>The Poetry of Earth</em>. Uploaded by Youtube user <a href="https://www.youtube.com/@caginn">caginn</a>
+        The final lecture of Bernstein's Norton Lecture Series, titled, <em>The Poetry of Earth</em>. Uploaded by Youtube user <a class="cust" href="https://www.youtube.com/@caginn">caginn</a>
     </figcaption>
   </figure>
 </div>
@@ -404,7 +409,7 @@ Below are the pieces I played for that audition:
 
 <div class="square">
   <p>
-    Most of the repertoire we performed at NMF I did on modern horns, and you can see my contrabass CC tuba in the photo above. Other highlights of NMF were Prokofiev's 7th symphony, and my first time being featured as the soloist in a performance of <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TubbyTheTuba.pdf"><em>Tubby the Tuba</em></a>. Journalist and NPR radio personality Liane Hansen was the narrator for <em>Tubby</em>. Despite the humour of the name, <em>Tubby</em> is sort of a rite of passage among tubists. 
+    Most of the repertoire we performed at NMF I did on modern horns, and you can see my contrabass CC tuba in the photo above. Other highlights of NMF were Prokofiev's 7th symphony, and my first time being featured as the soloist in a performance of <a class="cust" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TubbyTheTuba.pdf"><em>Tubby the Tuba</em></a>. Journalist and NPR radio personality Liane Hansen was the narrator for <em>Tubby</em>. Despite the humour of the name, <em>Tubby</em> is sort of a rite of passage among tubists. 
   </p>
   <figure>
     <img id="margin-photo-small" src="../images/music-misc-webp/MW_Liane_Hansen.webp" alt="Matt with Liane Hansen">
@@ -421,12 +426,12 @@ Below are the pieces I played for that audition:
 <div class="portrait">
   <p>
     There are countless period instruments like the ophicleide. Some faded into obscurity, while others continuously evolve, eventually resulting in the modern instruments we see on stage today. One such instrument which evolved is the <em>Cimbasso</em>. The name was used loosely to describe the lowest brass instrument available, and is likely a contraction of <em>corno basso</em> (sometimes appearing in scores as  <em>c. in basso</em>). In its earliest form it was likely a patchwork of wood and brass resembling a 
-    <a href="https://www.metmuseum.org/art/collection/search504920"><em>bassoon russe</em></a>. This name would go on to extend to several instruments, including the earliest tubas.
+    <a class="cust" href="https://www.metmuseum.org/art/collection/search504920"><em>bassoon russe</em></a>. This name would go on to extend to several instruments, including the earliest tubas.
   </p>
   <figure>
     <img src="../images/music-misc-webp/bassoon_russe.webp" alt="Bassoon Russe">
     <figcaption>
-      <em>Bassoon Russe</em>. Image courtesy of <a href="https://www.metmuseum.org/art/collection/search/504920">The MET</a>
+      <em>Bassoon Russe</em>. Image courtesy of <a class="cust" href="https://www.metmuseum.org/art/collection/search/504920">The MET</a>
     </figcaption>
   </figure>
 </div>
@@ -435,14 +440,14 @@ Below are the pieces I played for that audition:
 
 <div class="portrait">
   <p>
-    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.webp"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
+    The naming began to diverge however thanks to Giuseppe Verdi's hatred for the conical sound of the bombardone (an early valved tuba). An instrument maker known as Pelitti constructed the <a class="cust" href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cimbasso_in_Bb_by_Stowasser_SCCHMM-95928_%28white_bg%29.webp"><em>trombone basso Verdi</em></a>, in B♭. It was compact and had rotors rather than a slide. The Pelitti <em>trombone basso Verdi</em> is the closest early instrument to the modern cimbasso.
     <br><br>
-    Modern Cimbassos are largely a postwar invention. <a href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
+    Modern Cimbassos are largely a postwar invention. <a class="cust" href="https://thein-brass.de/en/">Thein brass</a> of Bremen, Germany, began manufacturing the newly developed contrabass trombone in F, but in the form of a Pelitti <em>trombone basso Verdi</em>. Thein named the new instrument "Cimbasso". It has been continously developed since its inception.
   </p>
   <figure>
     <img src="../images/music-misc-webp/Stowasser-trb-verdi.webp" alt="Trombone Basso Verdi">
     <figcaption>
-      <em>Stowasser Trombone basso Verdi</em>, by University of Edinburgh, CC BY 3.0, courtesy of <a href="https://commons.wikimedia.org/w/index.php?curid=131947489">Wikimedia Commons</a>
+      <em>Stowasser Trombone basso Verdi</em>, by University of Edinburgh, CC BY 3.0, courtesy of <a class="cust" href="https://commons.wikimedia.org/w/index.php?curid=131947489">Wikimedia Commons</a>
     </figcaption>
   </figure>
 </div>
@@ -451,7 +456,7 @@ Below are the pieces I played for that audition:
 
 <div class="square">
   <p>
-    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it <a href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/4 the price of the Rudy Meinl equivalent.
+    Why all this info? Well it is rare for a tubist to own their own cimbasso. Major symphony/opera orchestras will sometimes have a cimbasso for their tubists to play when called for. Depending on the music director, performing Verdi may necessitate a cimbasso on stage, or not. After NMF concluded, and knowing the UNCSO was slated to perform the Verdi Requiem the following spring, I made the drive up to Dillon Music in New Jersey. Dillon had started manufacuring their own cimbassos, and they were charging about 1/3 the price of the major instrument makers. It's essentially a "copy" of a Rudy Meinl Cimbasso. Chris Olka, principal tubist of the Cincinnati Symphony gave it <a class="cust" href="https://www.youtube.com/watch?v=mEa4VqsXBug">his endorsement</a>. Given I had bought 3 professional model tubas at Dillon in the years prior, I was able to buy the horn for 1/4 the price of the Rudy Meinl equivalent.
     <br>
     This instrument quickly became, and still is, my favorite instrument to play.
   </p>

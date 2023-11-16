@@ -84,13 +84,14 @@ author_profile: true
     margin: 0 auto;
   }
 
-  details.doc, details.proof {
+  details.doc, details.proof, details.arr {
     margin-left: 0.8rem;
   }
 
-  details.doc > summary, details.proof > summary {
-    font-size: 0.9rem;
-    font-weight: 300rem;
+  details.doc > summary, details.proof > summary, details.arr > summary {
+    font-size: 1rem;
+    font-weight: 400rem;
+    margin-bottom: 1rem;
   }
 
   div.code {
@@ -110,6 +111,19 @@ author_profile: true
     margin-bottom:: 0rem;
     margin-top: 0.45rem;
   }
+
+  div.arr-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
+
+  div.arr-list > * {
+    max-width: fit-content;
+  }
+
+
 
 </style>
 
@@ -152,7 +166,7 @@ author_profile: true
 <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://mfwolffe.github.io/improved-atan2/">Link</a></p>
 
   <p>A personal project I made as practice for learning javascript, and to save myself time when working with math students who need to get a positive angle in any quadrant.</p>
-  <p>The styling is <em>very</em> basic. I plan to relocate as a page on this site, or just use a framework such as bootstrap to make it less...ugly.</p>
+  <p>The styling is <em>very</em> basic, perhaps even ugly.</p>
 
 </details>
 
@@ -160,7 +174,13 @@ author_profile: true
 <summary class="project">GUI General Chemistry Toolkit (WIP)</summary>
 <p class="roles"><em>Author</em></p>
 
-  <p>JavaFX GenChem Toolkit. Started in 2022, but due to work and school, can only work on it intermittently. Contains various chemistry tools, like limiting reagent calculator & gas law calculators.</p>
+  <p>
+    JavaFX GenChem Toolkit. Started in 2022, but due to work and school, can only work on it intermittently. Contains various chemistry tools, like limiting reagent calculator & gas law calculators.
+  </p>
+
+  <p>
+    The plan for this project is to migrate to either another framework or language altogether. While JavaFX can meet a lot of my goals for the app, there are certain tasks which prove to be such a headache it may be worth switching paradigms.
+  </p>
 
 </details>
 
@@ -565,6 +585,104 @@ and
 
 </details>
 
+<details open>
+<summary class="project">Arrangements</summary>
+<p class="roles"><em>Arranger</em></p>
+
+  <p>
+    I have been arranging/transcribing/transposing since middle school. Finding a medley of John Williams film score tracks written for my instruments is generally a bit harder than for say, a trumpet player, so I learned to transpose early. A lot of the music is not public domain however, and so if I want to put together an arrangement, I often have to do it by ear. Here is a list of some recent arrangements I enjoyed putting together:
+  </p>
+
+  <details class="arr">
+  <summary class="doc">Recent Arrangements</summary>
+    <div class="arr-list">
+      <ul>
+        <li>
+        <em>Goodbye</em><br>
+          <cite>
+            Bo Burnham
+          </cite>
+        </li>
+        <li>
+        <em>Without You</em><br>
+          <cite>
+            Evans & Ham (Nilsson version)
+          </cite>
+        </li>
+        <li>
+        <em>Froh Wie Seine Sonnen Fliegen</em><br>
+          <cite>
+            (tenor solo from <em>Symphony No. 9</em>) Beethoven
+          </cite>
+        </li>
+        <li>
+        <em>O Bella Ciao</em><br>
+          <cite>
+            Traditional
+          </cite>
+        </li>
+        <li>
+        <em>We'll Meet Again</em><br>
+          <cite>
+            Vera Lynn
+          </cite>
+        </li>
+      </ul>
+      <ul>
+        <li>
+        <em>That Funny Feeling</em><br>
+          <cite>
+            Bo Burnham
+          </cite>
+        </li>
+        <li>
+        <em>Who's Side Are You On</em><br>
+          <cite>
+            Pete Seeger
+          </cite>
+        </li>
+        <li>
+        <em>Grandma on the Roof</em><br>
+          <cite>
+            Alex Weston
+          </cite>
+        </li>
+        <li>
+        <em>Six Day War</em><br>
+          <cite>
+            Colonel Bagshot
+          </cite>
+        </li>
+        <li>
+        <em>Waiting for Hasan</em><br>
+          <cite>
+            Lily Ki
+          </cite>
+        </li>
+      </ul>
+    </div>
+  </details>
+
+</details>
+
+<h2 class="larger-heading">Audio-Visual</h2>
+------
+
+<details open>
+<summary class="project">20th Century Crisis</summary>
+<p class="roles"><em>Author</em></p>
+
+  <p>
+    This project is an antiwar retrospective on the 20th century; specifically the pendulum swinging from, to paraphrase Leonard Bernstein, inequality disguised as progress, to war, hysteria, and finally fascism. 
+  </p>
+  <p>
+    The 'Pendulum Theory' of human history, the third law of German philosopher Georg Wilhelm Friedrich Hegel's Dialectic, describes the periodic shifts from thesis to antithesis before synthesis. In other words, the swing from one extreme to the other, before coming to rest.
+  </p>
+  <p>
+    The project directs viewers/listeners to reflect on the swings of the 20th century and ask themselves, have we ever reached synthesis? <em>Is it even possible?</em> If so, is that period doomed to transience? Is injustice perpetual or is it liminal?
+  </p>
+
+</details>
 
 <script src="/docs/prism(okaida).js"></script>
 

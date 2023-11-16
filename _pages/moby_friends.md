@@ -377,9 +377,6 @@ author_profile: true
 
 <div class="section">
 
-
-<!-- peekaboo -->
-
 <figure>
 <img src="../images/webp-moby/artsy-moby.webp" alt="moby being artsy">
 <figcaption></figcaption>
@@ -709,6 +706,8 @@ author_profile: true
 
 </details>
 
+<hr>
+
 <details open>
 <summary class="gallery">Twinky, Bart, and the Dachshunds</summary>
 
@@ -852,6 +851,8 @@ author_profile: true
 </div>
 
 </details>
+
+<hr>
 
 <details open>
 <summary class="gallery">Tilly</summary>
