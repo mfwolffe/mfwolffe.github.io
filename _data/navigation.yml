@@ -3,20 +3,21 @@ main:
   - title: "Music"
     url: /music/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Tutoring"
-    url: /teaching/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Projects"
     url: /projects/
         
   - title: "Moby & Friends"
     url: /moby_friends/
+
+  - title: "Tutoring"
+    url: /teaching/    
+
     
   - title: "Outreach"
     url: /outreach/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

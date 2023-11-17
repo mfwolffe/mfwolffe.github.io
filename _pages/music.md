@@ -293,9 +293,9 @@ I blew a note, felt the instrument, the chair, and my own body resonating with i
 
   <figure class="vid">
       <iframe src="https://www.youtube.com/embed/OWeQXTnv_xU?si=sLV_rwCnQiInY0TM&amp;start=93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <figcaption>
+      <!-- <figcaption>
         The final lecture of Bernstein's Norton Lecture Series, titled, <em>The Poetry of Earth</em>. Uploaded by Youtube user <a class="cust" href="https://www.youtube.com/@caginn">caginn</a>
-    </figcaption>
+    </figcaption> -->
   </figure>
 </div>
 

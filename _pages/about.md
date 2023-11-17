@@ -9,22 +9,20 @@ redirect_from:
 ---
 
 My name is Matt Wolffe, and I'm currently a student at James Madison University in Harrisonburg, VA, where I am studying computer science.
-My fascination with computer hardware and software germinated at a very young age, and in my teens I began building computers both for myself and family members, and also
-for sale through word of mouth and online. By my senior year I had a collection of machines participating in distributed computing projects such as
-[Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/)
+My fascination with computer hardware and software germinated at a very young age thanks to my parents allowing me to play Pajama Sam computer games as a three year old when I couldn't sleep. I built my first (inexpensive) computer in middle school, and by my senior year of high school I had a collection of machines participating in distributed computing projects such as
+[Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/).
 Beginning in high school I self-taught C++ out of a beat-up old textbook my high school's CS teacher lent me in response to my quick progression through the basic curriculum.
 
-I am most proficient in Java & Python. I am refamiliarizing myself with C, C++, & C#, learning more Javascript, and starting to learn Max MSP. I have experience with SQL, and HTML/CSS, but no formal training in the latter (taking Web-Dev currently).
+I am most proficient in Java, Python, and C. I am refamiliarizing myself with C++ and C#, learning more Javascript every day, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
 
 Interests in Computing
 ------
 <ul>
     <li>Quantum computing</li>
     <li>Software for musicians such as DAW's, instrument virtualization, notation software, etc.</li>
-    <li>Computer science pedagogy</li>
-    <li>Writing software that can begin to bridge the gap in outcomes for individuals disenfranchised by structural violence</li>
+    <li>Computer science pedagogy, learning management systems, and other educational tools</li>
+    <li>Software that can help to bridge the gap in outcomes for individuals disenfranchised by structural violence</li>
     <li>Distributed Computing Systems like the projects mentioned above</li>
-    <li>Learning management systems/software as productive educational tools</li>
     <li>Applications of CS in the fields of chemistry, mathematics, music, and cosmology</li>
     <li>Ethical concerns of Large Language Models</li>
 </ul>
@@ -37,8 +35,8 @@ Thanks to Professor Kris I was able to make a foray into the world of historical
 
 Educational Work
 ------
-I currently work as a tutor/teaching assistant in and around the Shenandoah Valley area. I cover college-level courses in chemistry, computer science, mathematics, and others. I thoroughly enjoy teaching, and hope to one day be able to work as a professor.
-In the past I have provided inexpensive private tuba and euphonium lessons to students who enjoy music making, but are unsure of whether they wish to study formally.
+I currently work as a tutor/teaching assistant in and around the Shenandoah Valley area. I cover college-level courses in chemistry, computer science, and mathematics. I thoroughly enjoy teaching, and hope to one day be able to work as a professor.
+In the past I have provided inexpensive private tuba and euphonium lessons to students who enjoy music making, but are unsure of whether they wish to study music formally.
 
 <!-- Create content & metadata
 ------

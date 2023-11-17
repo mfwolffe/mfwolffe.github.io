@@ -42,7 +42,7 @@ author_profile: true
     font-weight: 300rem;
   }
 
-    summary:hover {
+  summary:hover {
     text-shadow: 4px 4px 8px;
   }
 
@@ -84,13 +84,13 @@ author_profile: true
     margin: 0 auto;
   }
 
-  details.doc, details.proof, details.arr {
+  details.doc, details.proof, details.arr, details.audio {
     margin-left: 0.8rem;
   }
 
-  details.doc > summary, details.proof > summary, details.arr > summary {
-    font-size: 1rem;
-    font-weight: 400rem;
+  details.doc > summary, details.proof > summary, details.arr > summary, details.audio > summary {
+    font-size: 1.1rem;
+    font-weight: 500;
     margin-bottom: 1rem;
   }
 
@@ -123,13 +123,42 @@ author_profile: true
     max-width: fit-content;
   }
 
+  div.sib {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
 
+  div.av {
+    margin-top: 1rem;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  figcaption {
+    caption-side: top;
+  }
+
+  figure {
+    display: block;
+  }
+
+  audio {
+    border-radius: 8px;
+  }
+
+  figure {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
 
 </style>
 
 <link rel="stylesheet" href="/docs/prism(okaida).css">
-
-<h2>WIP</h2>
 
 <h2 class="larger-heading">Computer Science</h2>
 ------
@@ -575,8 +604,71 @@ and
 <p class="roles"><em>Arranger</em></p>
 
   <p>
-    Italian composer Ennio Morricone, made famous by his sonically expansive film scores, sadly passed away in 2020. I have long loved his music and decided in 2023 to start arranging a tribute to Maestro Morricone, similar to the live concerts he would conduct throughout the world.
+    Italian composer Ennio Morricone, made famous by his sonically expansive film scores and distinctive style, sadly passed away in 2020. In my eyes Maestro Morricone superlatively captured the sound of the west and single handedly defined the sound of an era. I have long loved his music and decided in 2023 to start arranging a tribute to the Maestro, similar to the live concerts he would conduct throughout the world. 
   </p>
+
+  <p>
+    Maestro Morricone's oeuvre is of course not public domain, so the majority of my score is transcribed by ear. I have been working on this project for about 6 months, and have about 40 minutes worth of completed arrangements to show for it.
+  </p>
+
+  <p>
+    The tribute is scored for extended orchestra and choir. I have began to teach myself harmonica and stone flute (acquired from <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a>) so that I can contribute more than just brass to an eventual overdub (live performance is out of the question due to scope).
+  </p>
+
+  <details class="audio">
+    <summary>Audio snippets</summary>
+    <p>
+      The following are brief audio clips (Sibelius Sounds 7) of certain tracks within the tribute. 
+      Balance and timbre can be better controlled in Pro Tools, but I don't plan on adjusting with such granularity in 
+      Pro Tools until I have completed the tribute.
+    </p>
+      <div class="sib">
+        <figure>
+          <figcaption>from <em>Il Clan dei Siciliani</em></figcaption>
+          <audio controls src="/audio/il_clan_dei_siciliani.mp3"></audio>
+        </figure>
+        <figure>
+          <figcaption>from <em>le vent le cri</em></figcaption>
+          <audio controls src="/audio/le_vent_le_cri.mp3"></audio>
+        </figure>
+      </div>
+      <div class="sib">
+        <figure>
+          <figcaption>from <em>C'era una volta il West</em></figcaption>
+          <audio controls src="/audio/cera_una_volta_il_west.mp3"></audio>
+        </figure>
+        <figure>
+          <figcaption>from <em>Giù la testa</em></figcaption>
+          <audio controls src="/audio/giu_la_testa.mp3"></audio>
+        </figure>
+      </div>
+      <div class="sib">
+        <figure>
+          <figcaption>from <em>Come una sentenza</em></figcaption>
+          <audio controls src="/audio/come_una_sentenza.mp3"></audio>
+        </figure>
+        <figure>
+          <figcaption>from <em>le vent le cri (reprise)</em></figcaption>
+          <audio controls src="/audio/le_vent_le_cri_reprise.mp3"></audio>
+        </figure>
+      </div>
+      <div class="sib">
+        <figure>
+          <figcaption>from <em>Addio a Cheyenne</em></figcaption>
+          <audio controls src="/audio/addio_a_cheyenne.mp3"></audio>
+        </figure>
+        <figure>
+          <figcaption>from <em>Here's to You</em></figcaption>
+          <audio controls src="/audio/heres_to_you.mp3"></audio>
+        </figure>
+      </div>
+      <div class="sib">
+        <figure>
+          <figcaption>from <em>il triello</em></figcaption>
+          <audio controls src="/audio/il_triello.mp3"></audio>
+        </figure>
+      </div>
+  </details>
 
   <details class="doc">
     <summary>Title Page</summary>
@@ -673,14 +765,25 @@ and
 <p class="roles"><em>Author</em></p>
 
   <p>
-    This project is an antiwar retrospective on the 20th century; specifically the pendulum swinging from, to paraphrase Leonard Bernstein, inequality disguised as progress, to war, hysteria, and finally fascism. 
+    This project is an antiwar retrospective on the 20th century, specifically examining the periodicity of greed and hypocrisy sparking global conflict, followed by injustice and hysteria on that same scale, and concluding with fascism.
   </p>
   <p>
-    The 'Pendulum Theory' of human history, the third law of German philosopher Georg Wilhelm Friedrich Hegel's Dialectic, describes the periodic shifts from thesis to antithesis before synthesis. In other words, the swing from one extreme to the other, before coming to rest.
+     A 'Pendulum Theory' of human history, expressed in the third law of German philosopher Georg Wilhelm Friedrich Hegel's Dialectic, describes the observation of periodic shifts from thesis to antithesis before finally reaching synthesis. In layman's terms, popular mood has a tendency to swing from one extreme to another over time, before eventually coming to rest.
   </p>
   <p>
-    The project directs viewers/listeners to reflect on the swings of the 20th century and ask themselves, have we ever reached synthesis? <em>Is it even possible?</em> If so, is that period doomed to transience? Is injustice perpetual or is it liminal?
+    The project directs viewers/listeners to reflect on the swings of the 20th century and ask themselves, have we as a species ever really reached a synthesis? <em>Is it even possible?</em> If so, is that period doomed to transience? Additionally, is gross injustice liminal, or is it perpetual - is our synthesis as a species in actuality those periods of mass suffering, with peace and harmony being an extreme of the arc? Finally, it asks viewers to examine the world today and consider whether the displacement from synthesis is decreasing as it should, or increasing. In other words, are things doomed to get worse?
   </p>
+
+  <p>
+    It features poignant stock footage from events and conflicts of the 20th century, my own arrangements of music, and narration.
+  </p>
+
+
+  <div class="av">
+    <img src="/images/AV_201.gif" alt="clip from 20th Century Crisis" width="250px">
+    <img src="/images/AV_202.gif" alt="clip from 20th Century Crisis" width="250px">
+    <img src="/images/AV_203.gif" alt="clip from 20th Century Crisis" width="250px">
+  </div>
 
 </details>
 
