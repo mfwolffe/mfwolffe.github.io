@@ -1,23 +1,25 @@
 # main links links
 main:
-  - title: "Music"
-    url: /music/
-
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Projects"
     url: /projects/
+
+  - title: "Music"
+    url: /music/
+
+  - title: "Outreach"
+    url: /outreach/
         
   - title: "Moby & Friends"
     url: /moby_friends/
 
-  - title: "Tutoring"
-    url: /teaching/    
+  # - title: "Tutoring"
+  #   url: /teaching/  
 
-    
-  - title: "Outreach"
-    url: /outreach/
-    
+  - title: "Lessons"
+    url: /lessons/
+
   # - title: "Guide"
   #   url: /markdown/

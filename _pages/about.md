@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  a {
+    text-decoration: none !important;
+  }
+
+  a:hover {
+    text-decoration: none !important;
+    text-shadow: 4px 4px 8px;
+  }
+
+</style>
+
+
 My name is Matt Wolffe, and I'm currently a student at James Madison University in Harrisonburg, VA, where I am studying computer science.
 My fascination with computer hardware and software germinated at a very young age thanks to my parents allowing me to play Pajama Sam computer games as a three year old when I couldn't sleep. I built my first (inexpensive) computer in middle school, and by my senior year of high school I had a collection of machines participating in distributed computing projects such as
 [Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/).
