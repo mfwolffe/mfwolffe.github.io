@@ -599,7 +599,7 @@ and
 <h2 class="larger-heading">Music</h2>
 ------
 
-<details open>
+<details  open>
 <summary class="project">A Tribute to Ennio Morricone</summary>
 <p class="roles"><em>Arranger</em></p>
 

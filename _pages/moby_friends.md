@@ -387,8 +387,13 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<figure>
+<!-- <figure>
 <img src="../images/webp-moby/babushka9.webp" alt="HQ babushka moby">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/baskin-2.webp" alt="basking">
 <figcaption></figcaption>
 </figure>
 
@@ -413,7 +418,7 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/babushka8.webp" alt="more babushka boy">
+<img src="../images/webp-moby/basket-case.webp" alt="basket case">
 <figcaption></figcaption>
 </figure>
 
@@ -422,8 +427,13 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<figure>
+<!-- <figure>
 <img src="../images/webp-moby/babushka2.webp" alt="another babushka">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/curio.webp" alt="curio">
 <figcaption></figcaption>
 </figure>
 
@@ -438,12 +448,37 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/happy-flappy.webp" alt="happy boy">
+<img src="../images/webp-moby/former-fav-couch.webp" alt="couch of the day">
 <figcaption></figcaption>
 </figure>
 
 <figure>
+<img src="../images/webp-moby/obx.webp" alt="in the outer banks">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/porch-guard.webp" alt="guardian of the front porch">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/happy-flappy.webp" alt="happy boy">
+<figcaption></figcaption>
+</figure>
+
+<!-- <figure>
 <img src="../images/webp-moby/burrito3.webp" alt="standing burrito boy">
+<figcaption></figcaption>
+</figure> -->
+
+<!-- <figure>
+<img src="../images/webp-moby/blue-bars.webp" alt="sur la plage">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/sunrise-at-the-well.webp" alt="moby in the morning">
 <figcaption></figcaption>
 </figure>
 
@@ -451,6 +486,27 @@ author_profile: true
 <img src="../images/webp-moby/lazy-evenings.webp" alt="lazy boy">
 <figcaption></figcaption>
 </figure>
+
+<figure>
+<img src="../images/webp-moby/blue-bars.webp" alt="sur la plage">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/uv-protecc.webp" alt="need suncreen">
+<figcaption></figcaption>
+</figure>
+
+
+<figure>
+<img src="../images/webp-moby/subawoof.webp" alt="subAWOO">
+<figcaption></figcaption>
+</figure>
+
+
+
+
+
 
 <figure>
 <img src="../images/webp-moby/first-snow.webp" alt="first snow">
@@ -498,7 +554,7 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/glonky-face.webp" alt="glonky">
+<img src="../images/webp-moby/couch-party.webp" alt="sharing is caring">
 <figcaption></figcaption>
 </figure>
 
@@ -691,6 +747,8 @@ author_profile: true
 <img src="../images/webp-moby/schnoz.webp" alt="sleepy schnoz">
 <figcaption></figcaption>
 </figure>
+
+
 
 <!-- <figure>
 <img src="../images/webp-moby/portrait15.webp" alt="everything is better when I'm upside down">
