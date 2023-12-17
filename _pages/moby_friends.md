@@ -341,6 +341,18 @@ author_profile: true
     margin: auto;
   }
 
+  div.gif {
+    display: block;
+    margin: auto;
+    width: inherit;
+    margin-bottom: 1.5rem;
+  }
+
+  figure.gif, figure.gif > img {
+    margin: auto;
+    width: 44rem;
+  }
+
   div.section > figure, div.section > figure > img {
     margin-top: 0rem;
     margin-bottom: 0rem;
@@ -387,6 +399,8 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<!-- SQUARE -->
+
 <!-- <figure>
 <img src="../images/webp-moby/babushka9.webp" alt="HQ babushka moby">
 <figcaption></figcaption>
@@ -397,20 +411,46 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<figure>
+<!-- RECT -->
+
+<!-- <figure>
 <img src="../images/webp-moby/burrito.webp" alt="burrito boy">
 <figcaption></figcaption>
-</figure>
+</figure> -->
 
 <figure>
-<img src="../images/webp-moby/iconic.webp" alt="HQ babushka moby">
+<img src="../images/webp-moby/auld-lang-moby-rect.webp" alt="burrito boy">
 <figcaption></figcaption>
 </figure>
 
+
 <figure>
+<img src="../images/webp-moby/iconic.webp" alt="Iconic moby">
+<figcaption></figcaption>
+</figure>
+
+<!-- RECT -->
+
+<!-- <figure>
 <img src="../images/webp-moby/carpet-boy.webp" alt="layin on the carpet">
 <figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/belly-jelly.webp" alt="layin on the carpet">
+<figcaption></figcaption>
 </figure>
+
+<div class="gif">
+  <figure class="gif">
+    <img src="../images/webp-moby/gif/snowplay.gif" alt="once upon a snowy eve">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
 
 <figure>
 <img src="../images/webp-moby/belly-boy.webp" alt="belly boy">
@@ -427,10 +467,18 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+
+
+
+
+<!-- RECT -->
+
 <!-- <figure>
 <img src="../images/webp-moby/babushka2.webp" alt="another babushka">
 <figcaption></figcaption>
 </figure> -->
+
+
 
 <figure>
 <img src="../images/webp-moby/curio.webp" alt="curio">
@@ -438,7 +486,7 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/backpack-pillow.webp" alt="anything's a pillow if you're tired enough">
+<img src="../images/webp-moby/chessie-pups.webp" alt="anything's a pillow if you're tired enough">
 <figcaption></figcaption>
 </figure>
 
@@ -457,8 +505,42 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<!-- SQUARE -->
+
+<!-- 
 <figure>
 <img src="../images/webp-moby/porch-guard.webp" alt="guardian of the front porch">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/conquest-2.webp" alt="squirrels won't know what hit em">
+<figcaption></figcaption>
+</figure>
+
+<div class="gif">
+  <figure class="gif">
+    <img src="../images/webp-moby/gif/what-looking-at-SWAN.gif" alt="once upon a snowy eve">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
+<figure>
+<img src="../images/webp-moby/yard-appreciator.webp" alt="yard appreciator">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/schnoz-examination.webp" alt="quarterly schnoz exam">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/suns-out-tongues-out.webp" alt="leetle tongue">
 <figcaption></figcaption>
 </figure>
 
@@ -467,13 +549,10 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<!-- <figure>
-<img src="../images/webp-moby/burrito3.webp" alt="standing burrito boy">
-<figcaption></figcaption>
-</figure> -->
+<!-- SQUARE -->
 
 <!-- <figure>
-<img src="../images/webp-moby/blue-bars.webp" alt="sur la plage">
+<img src="../images/webp-moby/burrito3.webp" alt="standing burrito boy">
 <figcaption></figcaption>
 </figure> -->
 
@@ -493,20 +572,65 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/uv-protecc.webp" alt="need suncreen">
+<img src="../images/webp-moby/hotel-moby.webp" alt="sur la bed">
 <figcaption></figcaption>
 </figure>
-
 
 <figure>
 <img src="../images/webp-moby/subawoof.webp" alt="subAWOO">
 <figcaption></figcaption>
 </figure>
 
+<!-- HERE!!!! -->
+
+<div class="gif">
+  <figure class="gif">
+    <img src="../images/webp-moby/gif/yoga-mad.gif" alt="yoga make mad">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<!-- RECT -->
+
+<!-- <figure>
+<img src="../images/webp-moby/uv-protecc.webp" alt="need suncreen">
+<figcaption></figcaption>
+</figure> -->
 
 
+<div class="section">
 
+<figure>
+<img src="../images/webp-moby/rolling-hills-of-snow.webp" alt="rolling hills of snow">
+<figcaption></figcaption>
+</figure>
 
+<figure>
+<img src="../images/webp-moby/babushka4.webp" alt="cozy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/gimme.webp" alt="wants moar">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/enthralled.webp" alt="bingewatching">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/grandma-moby-dock.webp" alt="on-the-dock">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/couch-licker.webp" alt="couch taste good">
+<figcaption></figcaption>
+</figure>
 
 <figure>
 <img src="../images/webp-moby/first-snow.webp" alt="first snow">
@@ -514,12 +638,19 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/lazy-mornings.webp" alt="sleeping in">
+<img src="../images/webp-moby/moby-and-carter.webp" alt="grandma and moby">
 <figcaption></figcaption>
 </figure>
 
-<figure>
+<!-- SQUARE -->
+
+<!-- <figure>
 <img src="../images/webp-moby/b-w-moby.webp" alt="glamor shot">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/crazy-face2.webp" alt="wild thang">
 <figcaption></figcaption>
 </figure>
 
@@ -614,7 +745,7 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/moby-and-moby.webp" alt="moby and...moby?">
+<img src="../images/webp-moby/capn-heel.webp" alt="supahero">
 <figcaption></figcaption>
 </figure>
 
@@ -639,12 +770,12 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/moby-below-moby.webp" alt="he sees you when you're sleeping">
+<img src="../images/webp-moby/garden2.webp" alt="moby's old favorite spot">
 <figcaption></figcaption>
 </figure>
 
 <figure>
-<img src="../images/webp-moby/moby-coming-home.webp" alt="taking moby home">
+<img src="../images/webp-moby/chirstmas-couch.webp" alt="taking moby home">
 <figcaption></figcaption>
 </figure>
 
@@ -663,8 +794,15 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<figure>
+<!-- RECT -->
+
+<!-- <figure>
 <img src="../images/webp-moby/moby-wilson3.webp" alt="on the quad">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/toitle.webp" alt="turtle frand">
 <figcaption></figcaption>
 </figure>
 
@@ -689,7 +827,7 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/pillow-talk.webp" alt="Pillow talk">
+<img src="../images/webp-moby/both-bridge.webp" alt="Two pups on a bridge">
 <figcaption></figcaption>
 </figure>
 
@@ -703,8 +841,15 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<figure>
+<!-- RECT -->
+
+<!-- <figure>
 <img src="../images/webp-moby/portrait8.webp" alt="Glamor shot">
+<figcaption></figcaption>
+</figure> -->
+
+<figure>
+<img src="../images/webp-moby/path-guard3.webp" alt="yardian">
 <figcaption></figcaption>
 </figure>
 
@@ -719,9 +864,56 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/portrait69.webp" alt="driver">
+<img src="../images/webp-moby/cheer-up.webp" alt="cheer up pls">
 <figcaption></figcaption>
 </figure>
+
+<figure>
+<img src="../images/webp-moby/moby-tilly-happy.webp" alt="happy pups">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/minions.webp" alt="happy pups">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/squirrel-rider.webp" alt="got a passenger">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/moby-med-deli1.webp" alt="at the med deli">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/yard-afar.webp" alt="the world is yours">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/get-it-off.webp" alt="not pleased">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/weinachts-sweater.webp" alt="something something ugly sweater">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/halloweeb.webp" alt="halloweeb">
+<figcaption></figcaption>
+</figure>
+
+<!-- SQUARE -->
+
+<!-- <figure>
+<img src="../images/webp-moby/portrait69.webp" alt="driver">
+<figcaption></figcaption>
+</figure> -->
 
 <figure>
 <img src="../images/webp-moby/portrait52.webp" alt="expressive boy">
@@ -739,7 +931,17 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/portrait16.webp" alt="floppy ear boy">
+<img src="../images/webp-moby/babushka9.webp" alt="HQ babushka moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/glonky-face.webp" alt="glonky">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/on-the-river3.webp" alt="moby and the maury">
 <figcaption></figcaption>
 </figure>
 
@@ -748,17 +950,134 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<figure>
+<img src="../images/webp-moby/portrait16.webp" alt="floppy ear boy">
+<figcaption></figcaption>
+</figure>
 
+<figure>
+<img src="../images/webp-moby/peekaboo.webp" alt="peek-a-boo">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/chin2.webp" alt="not on the hair of my chinny chin chin">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/cooling-down.webp" alt="coolin down in a hole">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/vmi-pups4.webp" alt="weinachtsfoto">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/grandma-happymoby.webp" alt="grandma and moby">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/pointy-noses.webp" alt="car duo">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/baskin.webp" alt="car duo">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/backpack-pillow.webp" alt="anything's a pillow if you're tired enough">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/sleepy-green.webp" alt="vinyl make sleep">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/exterior-cat.webp" alt="lemme in or lemme out">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/quirky-smiler.webp" alt="quirky boi">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/peebie-deebie.webp" alt="peanut butter flavored">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/lighting.webp" alt="basking in his chair">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/sleeping-in.webp" alt="babushka in a blue blanket">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/nappin.webp" alt="we love our naps">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/pork-chop.webp" alt="pork chops">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/new-couch-who-dis.webp" alt="new couch new napping spot">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/greetings.webp" alt="hallo">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/brief-case.webp" alt="off to work">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/red-bowtie.webp" alt="bow tai">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/sleepy-couch.webp" alt="moby the napper">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/we-watch-at-dawn.webp" alt="dawn(guard)">
+<figcaption></figcaption>
+</figure>
+
+<!-- RECT -->
 
 <!-- <figure>
 <img src="../images/webp-moby/portrait15.webp" alt="everything is better when I'm upside down">
 <figcaption></figcaption>
 </figure> -->
 
-<!-- <figure>
-<img src="../images/webp-moby/lounging.webp" alt="lounging in autumn">
-<figcaption></figcaption>
-</figure> -->
+<div class="gif">
+  <figure class="gif">
+    <img src="../images/webp-moby/gif/attaboy.gif" alt="attaboy">
+    <figcaption></figcaption>
+  </figure>
+</div>
 
 </div>
 

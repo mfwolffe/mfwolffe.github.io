@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Matthew Forrester Wolffe"
   avatar           : "matt-duke-chapel.png"
-  bio              : "Computer science student at James Madison University, 
-                      college-level CS, mathematics, and chemistry tutor/teaching assistant,
-                      and performing low-brass musician"
+  bio              : "Computer science student at JMU;
+                      CS TA, mathematics and chemistry tutor;
+                      performing low-brass musician"
   location         : "Harrisonburg, VA"
-  employer         :
+  employer         : "James Madison University"
   pubmed           : 
   googlescholar    : 
   email            : "wolffemf@dukes.jmu.edu"
@@ -96,12 +96,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/matt.wolffe/"
   foursquare       :
   github           : "mfwolffe"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/mfwolffe/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
