@@ -260,6 +260,8 @@ author_profile: true
   <ul>
     <li><a class="cust" href="#Bio">Bio and Background</a></li>
     <li><a class="cust" href="#photo-gallery">Gallery</a></li>
+    <li><a class="cust" href="#recordings">Recordings</a></li>
+
   </ul>
 </section>
 
@@ -811,29 +813,139 @@ author_profile: true
 <style>
   div.record-container {
     width: 67.45rem;
-    display: grid;
-    grid-template-columns: 21.5rem 21.5rem 21.5rem;
+    display: flex;
+    /* grid-template-columns: 21.5rem 21.5rem; */
     column-gap: 0.5rem;
     row-gap: 2rem;
     align-items: center;
     justify-content: center;
   }
 
+  figure.rect {
+    position: relative;
+    width: 24rem;
+    height: 18rem;
+    margin-bottom: 2rem;
+  }
+
+  iframe.rect {
+    width: 24rem;
+  }
+
+  figure.short {
+    position: relative;
+    width: 20rem;
+    height: 44rem;
+    margin-bottom: 2rem;
+  }
+
+  iframe.short {
+    width: 20rem;
+  }
+
+  div.single {
+    display: block;
+    margin: auto;
+    width: inherit;
+    margin-bottom: 1.5rem;
+  }
+
+  figure.single, figure.single > iframe {
+    margin: auto;
+    width: 28rem;
+  }
+
+  figcaption.short {
+    position: absolute;
+    top: 37.6rem;
+    margin-top: 0rem;
+  }
+
+  figcaption.rect {
+    position: absolute;
+    top: 13.5rem;
+    margin-top: 0rem;
+  }
+
 </style>
 
 <h2 id="recordings">Misc Recordings</h2>
 <p>
-  Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Here's some of the recordings that I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera & mic.
+  Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Here's some of the recordings I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera/mic.
 </p>
 
 <div class="record-container">
+  <figure class="rect">
+    <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/2_uWm7Qw8SE?si=794Q6Q5IWEoFf9-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect">Bruckner 8 in Ram's parking deck to give the folks at light night a show.</figcaption>
+  </figure>
+  
+  <figure class="rect">
+    <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/2DOZoixFfyY?si=71czVarOlJyvMP-R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect">Some early music. Title unknown. Youtube seems to think it's an original composition from a film, but the melody and bassline were pulled out of a pre-classical music history textbook</figcaption>
+  </figure>
+</div>
 
-<figure>
-  <iframe width="300" height="560" src="https://youtube.com/embed/EdqeiqruZrk?si=rkknyKxhfKXU4r6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-  </iframe>
-  <figcaption>First rehearsal on my cimbasso. Was still very much getting the feel for it. Excuse the omitted notes</figcaption>
+<div class="record-container">
+  <figure class="short">
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/EdqeiqruZrk?si=rkknyKxhfKXU4r6E" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">First rehearsal on my cimbasso. Was still very much getting the feel for it. Excuse the omitted notes</figcaption>
+  </figure>
+
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/jUn5pLqAroA?si=fv9frxi9aCKzU-v7" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">Rehearsal of my arrangement of Bo Burnham's <em>Goodbye</em>. The show including this track marked the end of a 5 year hiatus from performing - and worse, practicing at all. Chops were still regaining their strength.</figcaption>
+  </figure>
+
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/81sWr58K6Gc?si=nTANxBLwkUeN_BZ3" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">Attempting the triplet varation of Carnival of Venice on...cimbasso? Why not.</figcaption>
+  </figure>
+</div>
+
+<div class="record-container">
+  <figure class="rect">
+    <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/ORGNAatIIbY?si=fE-hC5KnzSYPzIJg" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect"><em>Symphonie Fantastique</em> rehearsal clip, on ophicleide (we called this oph the (awful)cleide because it was falling apart and nigh impossible to get in tune. I had about a month and a half to learn how to play it. I thought following NMF I would never play it again, but that thing kept haunting me.</figcaption>
+  </figure>
+
+<figure class="rect">
+  <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/UjwaBo3YsWs?si=7WBEeRSiY502VXk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <figcaption class="rect">reconvening after summer break to aggressively blast excerpts at midnight is a bad habit, but it's fun</figcaption>
 </figure>
+</div>
 
-<div>
+<div class="record-container">
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/W3Q-wKn8yOc?si=xWnLrwBdXhOj2N2c" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">First rehearsal using my F horn. Quintet had a yearly gig at the white-coating ceremony and Holst was always a fan-favorite (aka nobody paid attention to us)</figcaption>
+  </figure>
+
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/tuK_QbsmjnA?si=E9qUSy6LD_zvoBqn" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">Goofin around</figcaption>
+  </figure>
+
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://www.youtube.com/embed/pP1aE5UQ3bk" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">During that same white-coat rehearsal. My good pal Danny likes this folk tune.</figcaption>
+  </figure>
+</div>
+
+<div class="record-container">
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/shorts/OB-tpZYnxXs?si=p14SfIibSfnf554l" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short"><em>Symphonie Fantastique</em> finale excerpt (not on ophicleide though thank gawd). I had realized there's an alternate fingering which makes the bursts of maniacal laughter easier and wanted to check the sound. Notes were missed, but I played more than was necessary anyway.</figcaption>
+  </figure>
+</div>
+
 
 
