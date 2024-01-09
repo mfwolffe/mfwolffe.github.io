@@ -17,16 +17,16 @@ redirect_from:
     text-decoration: none !important;
     text-shadow: 4px 4px 8px;
   }
-
 </style>
 
 
-My name is Matt Wolffe, and I'm currently a student at James Madison University in Harrisonburg, VA, where I am studying computer science.
-My fascination with computer hardware and software germinated at a very young age thanks to my parents allowing me to play Pajama Sam computer games as a three year old when I couldn't sleep. I built my first (inexpensive) computer in middle school, and by my senior year of high school I had a collection of machines participating in distributed computing projects such as
-[Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/).
-Beginning in high school I self-taught C++ out of a beat-up old textbook my high school's CS teacher lent me in response to my quick progression through the basic curriculum.
+My name is Matt Wolffe. I'm currently a student at James Madison University where I am studying computer science.
+My fascination with computer hardware and software germinated at a very young age thanks to my parents allowing me to play computer games like <em>Pajama Sam</em> whenever I couldn't sleep as a kid in the late 90's.
+I built my first (inexpensive) computer in middle school, and by my senior year of high school I had a collection of machines participating in distributed computing projects such as
+[Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/) (the latter mostly for CPU stress testing).
+Beginning in high school I self-taught C++ out of a beat-up old textbook my high school's CS teacher lent me as I wasn't interested in spending an entire year learning visual basic.
 
-I am most proficient in Java, Python, and C. I am refamiliarizing myself with C++ and C#, learning more Javascript every day, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
+I am most proficient in Java, Python, and C. I am refamiliarizing myself with C++ and C#, learning more Javascript/React every day, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
 
 Interests in Computing
 ------
@@ -34,7 +34,6 @@ Interests in Computing
     <li>Quantum computing</li>
     <li>Software for musicians such as DAW's, instrument virtualization, notation software, etc.</li>
     <li>Computer science pedagogy, learning management systems, and other educational tools</li>
-    <li>Software that can help to bridge the gap in outcomes for individuals disenfranchised by structural violence</li>
     <li>Distributed Computing Systems like the projects mentioned above</li>
     <li>Applications of CS in the fields of chemistry, mathematics, music, and cosmology</li>
     <li>Ethical concerns of Large Language Models</li>
@@ -42,7 +41,7 @@ Interests in Computing
 
 Music
 ------
-I am a classically trained musician, having performed and studied music for nearly two decades. I studied low-brass performance for several years at the University of North Carolina at Chapel Hill, where I had been awarded the Kenan Music Scholarship in 2014. 
+I am a 'classically trained' musician, having performed and studied music for nearly two decades. I studied low-brass performance for several years at the University of North Carolina at Chapel Hill, where I had been awarded the Kenan Music Scholarship in 2014. 
 I studied under retired principal trombonist of the North Carolina Symphony, Michael Kris. I play bass & contrabass tubas, [Cimbasso](https://cso.org/experience/article/3130/whats-a-cimbasso), euphonium, & bass trombone. 
 Thanks to Professor Kris I was able to make a foray into the world of historically informed performance, learning how to play and perform on instruments such as the [Ophicleide](http://www.contrabass.com/pages/ophicleide.html) and [Bass Sackbut](https://caslabs.case.edu/medren/renaissance-instruments/sackbut-renaissance/). I have traveled extensively to supplement my studies by taking lessons with principal performers in orchestras throughout Europe and the eastern United States. I did not, however, complete my degree at UNC due to rather serious burgeoning health issues.
 

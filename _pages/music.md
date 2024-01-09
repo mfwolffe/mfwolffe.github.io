@@ -286,7 +286,7 @@ author_profile: true
         I continued taking auditions throughout high school, so while my classmates at MHS were busy competing over AP qualifiers, I was traveling for performances. I remember during my sophomore year of high school, a friend's mother told me that I needed to stop focusing on music, otherwise I wouldn't get into any colleges. When my senior year rolled around though, I was honored to reeceive a New Jersey Governor's Award in Arts Education, followed by the William R. Kenan Jr. Music Scholarship, a four year, full scholarship to the University of North Carolina at Chapel Hill.
         </p>
         <p>
-          At UNC I studied under retired principal trombonist of the North Carolina Symphony, Michael Kris. I performed frequently with the Symphony Orchestra, Wind Ensemble, Brass Quintet, Tuba/Euph Quartet, Sackbut Ensemble, and trombone choir. I also played in a local brass band, and in festivals during the summers. Thanks to professor Kris, I was able to explore the world of historically informed performance, learning and performing on instruments such as the Sackbut and Ophicleide.
+          During my time at UNC, I studied under retired principal trombonist of the North Carolina Symphony, Michael Kris. I performed frequently with the Symphony Orchestra, Wind Ensemble, Brass Quintet, Tuba/Euph Quartet, Sackbut Ensemble, and trombone choir. I also played in a local brass band, and in festivals during the summers. Thanks to professor Kris, I was able to explore the world of historically informed performance, learning and performing on instruments such as the Sackbut and Ophicleide.
         </p>
      </div>
      <div>
@@ -299,10 +299,10 @@ author_profile: true
   <div class="rectfix">
     <div>
       <p>
-        I supplemented my studies by traveling and taking lessons with principal tubists of major orchestras up and down the east coast, and used the stipend included with my scholarship to study with principals throughout the UK and EU. Ultimately however, I chose to leave UNC before graduating due to persistent health issues and a combination of rather unforgiving imposter syndrome and constant ruminations about my future as a musician. I still practice and perform my own arrangements/transcriptions of today. 
+        I supplemented my studies by traveling and taking lessons with principal tubists of major orchestras up and down the east coast, and used the stipend included with my scholarship to study with principals throughout the UK and EU. Ultimately however, I chose to leave UNC before graduating due to persistent health issues and a combination of rather unforgiving imposter syndrome and constant ruminations about my future as a musician. I still practice and perform my own arrangements/transcriptions today. 
       </p>
       <p>
-        Favorite composers include Mahler, Shostakovich, R. Strauss, Sibelius, Tchaikovsky, Bruckner, Berlioz, as well as film composers like Ennio Morricone. I am currently teaching myself the harmonica & various <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a> clay flutes for a larger tribute to Ennio Morricone I have been working on for about half a year.
+        Favorite composers include Mahler, Shostakovich, R. Strauss, Sibelius, G. Gabrieli, Tchaikovsky, Bruckner, Berlioz, Verdi as well as film composers like Ennio Morricone. I am currently teaching myself the harmonica & various <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a> clay flutes for a larger tribute to Ennio Morricone I have been working on for about half a year.
       </p>
     </div>
     <div>
