@@ -826,7 +826,13 @@ author_profile: true
   Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Here's some of the recordings that I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera & mic.
 </p>
 
-<div>
+<div class="record-container">
+
+<figure>
+  <iframe width="300" height="560" src="https://youtube.com/embed/EdqeiqruZrk?si=rkknyKxhfKXU4r6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+  </iframe>
+  <figcaption>First rehearsal on my cimbasso. Was still very much getting the feel for it. Excuse the omitted notes</figcaption>
+</figure>
 
 <div>
 

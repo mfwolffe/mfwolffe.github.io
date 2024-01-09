@@ -443,7 +443,7 @@ author_profile: true
 
 <div class="gif">
   <figure class="gif">
-    <img src="../images/webp-moby/gif/snowplay.gif" alt="once upon a snowy eve">
+    <img src="https://d.img.vision/mfwolffe/snowplay-10.gif" alt="once upon a snowy eve">
     <figcaption></figcaption>
   </figure>
 </div>
@@ -520,7 +520,7 @@ author_profile: true
 
 <div class="gif">
   <figure class="gif">
-    <img src="../images/webp-moby/gif/what-looking-at-SWAN.gif" alt="once upon a snowy eve">
+    <img src="https://d.img.vision/mfwolffe/garden-roll-10-2.gif" alt="garden rollies">
     <figcaption></figcaption>
   </figure>
 </div>
@@ -581,11 +581,9 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
-<!-- HERE!!!! -->
-
 <div class="gif">
   <figure class="gif">
-    <img src="../images/webp-moby/gif/yoga-mad.gif" alt="yoga make mad">
+    <img src="https://d.img.vision/mfwolffe/yoga-mad-10.gif" alt="yoga make mad">
     <figcaption></figcaption>
   </figure>
 </div>
@@ -684,6 +682,17 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/tilly-walk.gif" alt="tilly walks moby">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
 <figure>
 <img src="../images/webp-moby/couch-party.webp" alt="sharing is caring">
 <figcaption></figcaption>
@@ -741,6 +750,32 @@ author_profile: true
 
 <figure>
 <img src="../images/webp-moby/moby_1yr.webp" alt="1 year old moby">
+<figcaption></figcaption>
+</figure>
+
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/beach-diglet-10.gif" alt="diglet go plop">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
+<figure>
+<img src="../images/webp-moby/matt-mob-crop.webp" alt="frands">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/obx2-crop.webp" alt="sur la plage avec mes amis">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/leopard-crop.webp" alt="leopard-print-aussie">
 <figcaption></figcaption>
 </figure>
 
@@ -811,6 +846,17 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/snowlicker-10.gif" alt="tastysnow">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
 <figure>
 <img src="../images/webp-moby/moby-wilson.webp" alt="moby & Wilson">
 <figcaption></figcaption>
@@ -854,7 +900,7 @@ author_profile: true
 </figure>
 
 <figure>
-<img src="../images/webp-moby/reunited-after-2-min.webp" alt="reunited after 2 minutes">
+<img src="../images/webp-moby/silly-smile.webp" alt="quirk and lurk">
 <figcaption></figcaption>
 </figure>
 
@@ -908,12 +954,23 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/basket-case-10.gif" alt="basket case">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
 <!-- SQUARE -->
 
 <!-- <figure>
 <img src="../images/webp-moby/portrait69.webp" alt="driver">
 <figcaption></figcaption>
 </figure> -->
+
+<div class="section">
 
 <figure>
 <img src="../images/webp-moby/portrait52.webp" alt="expressive boy">
@@ -975,6 +1032,32 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/bed-roll-10.gif" alt="always rolling">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
+<figure>
+<img src="../images/webp-moby/funny-paw.webp" alt="got a scratch">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/overlook-the-kingdom.webp" alt="everything the light touches">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/flight-goggles.webp" alt="boutta hunt the red baron">
+<figcaption></figcaption>
+</figure>
+
 <figure>
 <img src="../images/webp-moby/grandma-happymoby.webp" alt="grandma and moby">
 <figcaption></figcaption>
@@ -1002,6 +1085,32 @@ author_profile: true
 
 <figure>
 <img src="../images/webp-moby/exterior-cat.webp" alt="lemme in or lemme out">
+<figcaption></figcaption>
+</figure>
+
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/itchy-couch-10.gif" alt="itchy couch">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
+<figure>
+<img src="../images/webp-moby/road-trip.webp" alt="on the road again">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/squizschy.webp" alt="schnoz squish">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/wittle-footses.webp" alt="mini-paws">
 <figcaption></figcaption>
 </figure>
 
@@ -1035,6 +1144,32 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/garden-zoomies-10.gif" alt="zoomies all around">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
+<figure>
+<img src="../images/webp-moby/is-that-mine.webp" alt="I only shed two seasons...">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/slow-morning.webp" alt="slow morning eh">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/new-bed.webp" alt="new bed. how long before I destroy it">
+<figcaption></figcaption>
+</figure>
+
 <figure>
 <img src="../images/webp-moby/new-couch-who-dis.webp" alt="new couch new napping spot">
 <figcaption></figcaption>
@@ -1051,6 +1186,32 @@ author_profile: true
 </figure>
 
 <figure>
+<img src="../images/webp-moby/where-we-goin.webp" alt="time to go!">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/squishy-face.webp" alt="squishy face on the arm">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/protecc-ze-bone.webp" alt="treasures">
+<figcaption></figcaption>
+</figure>
+
+<div class="gif">
+  <figure class="gif">
+    <img src="https://d.img.vision/mfwolffe/flapjack-10.gif" alt="so itchy">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
+</div>
+
+<div class="section">
+
+<figure>
 <img src="../images/webp-moby/red-bowtie.webp" alt="bow tai">
 <figcaption></figcaption>
 </figure>
@@ -1065,6 +1226,37 @@ author_profile: true
 <figcaption></figcaption>
 </figure>
 
+<figure>
+<img src="../images/webp-moby/in-a-rut.webp" alt="in a rut">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/bokeh-boi.webp" alt="depth of field but make it sleepy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/portrait60.webp" alt="just so squishy">
+<figcaption></figcaption>
+</figure>
+
+
+<figure>
+<img src="../images/webp-moby/on-a-bench.webp" alt="not so comfy">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/sweatpant-pillow.webp" alt="sweatpants as a pillow">
+<figcaption></figcaption>
+</figure>
+
+<figure>
+<img src="../images/webp-moby/night-rider.webp" alt="night rider">
+<figcaption></figcaption>
+</figure>
+
 <!-- RECT -->
 
 <!-- <figure>
@@ -1074,7 +1266,7 @@ author_profile: true
 
 <div class="gif">
   <figure class="gif">
-    <img src="../images/webp-moby/gif/attaboy.gif" alt="attaboy">
+    <img src="https://d.img.vision/mfwolffe/porch-sd-12.gif" alt="attaboy">
     <figcaption></figcaption>
   </figure>
 </div>
