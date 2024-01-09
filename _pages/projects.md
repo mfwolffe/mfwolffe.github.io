@@ -238,38 +238,8 @@ author_profile: true
     <mn>1</mn>
   </mrow>
   </math></p>
-  <p>Symbolically, this can be shown as: <math display="block" class="tml-display" style="display:block math;">
-  <mrow>
-    <mi>∀</mi>
-    <mspace width="0.5em"></mspace>
-    <mi>p</mi>
-    <mo>&gt;</mo>
-    <mn>3</mn>
-    <mo>∈</mo>
-    <mtext>PRIMES, </mtext>
-    <mi>∃</mi>
-    <mspace width="0.5em"></mspace>
-    <mi>n</mi>
-    <mo>∈</mo>
-    <mi>ℤ</mi>
-    <mo separator="true"></mo>
-    <mspace width="0.5em"></mspace>
-    <mi>s</mi>
-    <mi>.</mi>
-    <mi>t</mi>
-    <mspace width="0.5em"></mspace>
-    <mi>p</mi>
-    <mo>=</mo>
-    <mn>6</mn>
-    <mi>n</mi>
-    <mo>±</mo>
-    <mn>1</mn>
-  </mrow>
-</math>
-</p>
-
 <p>
-  Rather humorously, searching for who first observed this yields forum posts from all across the internet, with an OP claiming they have discovered something <em>incredible</em> about primes. Only for a commenter to state it has been well known for some time.
+  Rather humorously, searching for who first observed this yields forum posts from all across the web, with an OP claiming they have discovered something <em>incredible</em> about primes. Only for a commenter to quickly put the kibosh on OP's dream of standing alongside Euler in the annuls of mathematics by pointing out that this realization is not a new one. 
 </p>
 
 <p>
@@ -281,12 +251,12 @@ author_profile: true
     <mn>1</mn>
   </mrow>
 </math>
-Primality algorithm is compared to a brute-force approach on modern hardware with compiler optimizations.
+Primality algorithm is compared to a brute-force approach on modern hardware with compiler optimizations. Dr. Michael Lam provided the impetus to try my hand at instrumenting these functions while I was in his Systems/Architecture class, along with suggestions of tools to use.
 </p>
 
 <details class="proof">
 <summary>Logic and Algorithm</summary>
-<p>The algorithm under consideration follows the below logic</p>
+<p>The algorithm under consideration follows the below logic; this is of course not a formal proof.</p>
 <p>Observe that <em>any</em> integer can be written in the form,<math display="block" class="tml-display" style="display:block math;">
   <mrow>
     <mn>6</mn>
@@ -472,6 +442,7 @@ and
 
 <br>
 <h3>Code</h3>
+<p>Instrumentation will be done on functions written in C. Other languages shown below for no reason really other than to show the one line versions for python and C#</p>
 <form id="radio" action="">
 <fieldset>
   <div class="code">
@@ -495,26 +466,43 @@ and
 </fieldset>
 </form>
 
+<style>
+  .comment::after {
+    clear: both;
+    display: inline !important;
+  }
+
+  .comment {
+    border-bottom: 0px !important;
+  }
+</style>
+
   <div class="box" id="c_block">
-    <pre>
-      <code class="language-C line-numbers" data-prismjs-copy="Copy">#include &lt;stdio.h&gt;
+    <pre class="language-clike">
+      <code class="language-clike line-numbers" data-prismjs-copy="Copy">#include &lt;stdio.h&gt;
       #include &lt;stdbool.h&gt;
   
       bool isPrime(int p) {
         if (p &lt;= 1)
-          return false;
-  
+          return false;   // 1 is not prime
+
         if (p &lt;= 3)
-          return true;
-  
+          return true;    // 2 and 3 are prime
+
+        /* the loop below this leaves a gap b/c of the increment and
+         * starting point
+         * i.e., 4, 6, 7, 8, 9, and 10 will not be examined with just
+         * the loop and so 4, 6, 8, 9, and 10 would be incorrectly 
+         * flagged as prime without the check below */
         if (p % 2 == 0 || p % 3 == 0)
-            return false;
-  
+          return false;
+
+        // check all numbers between 5 and sqrt(n) with step=6
         for (int i = 5; (i * i) &lt;= p; i += 6)
           if (p % i == 0 || p % (i + 2) == 0)
             return false;
   
-        return true;
+        return true;    // if you've made it this far, you're prime
       }
   </code>
   </pre>
