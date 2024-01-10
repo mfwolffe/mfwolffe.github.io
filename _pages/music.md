@@ -339,7 +339,6 @@ author_profile: true
 <h2 class="larger-heading" id="photo-gallery">Gallery</h2>
 
 <style>
-
   div.section {
     width: 67.45rem;
     display: grid;
@@ -821,22 +820,48 @@ author_profile: true
     justify-content: center;
   }
 
-  figure.rect {
+  figure.rect-rec {
+    /* position: relative; */
+    width: 28rem;
+    /* height: 22rem; */
+    /* margin-bottom: 1rem; */
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+  }
+
+  iframe.rect-rec {
+    width: 28rem;
+  }
+
+  figure.rect-large {
+    /* position: relative; */
+    width: 48rem;
+    /* margin-bottom: 1rem; */
+    margin-top: 0rem;
+    margin-bottom: 0.8rem;
+  }
+
+  iframe.rect-large {
+    width: 48rem;
+  }
+
+  figure.rect-triple {
     position: relative;
-    width: 24rem;
-    height: 18rem;
+    width: 18rem;
+    height: 12rem;
     margin-bottom: 2rem;
   }
 
-  iframe.rect {
-    width: 24rem;
+  iframe.rect-triple {
+    width: 18rem;
   }
 
   figure.short {
-    position: relative;
+    /* position: relative; */
     width: 20rem;
-    height: 44rem;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
+    margin-top: 0rem;
+    margin-bottom: 0rem;
   }
 
   iframe.short {
@@ -856,80 +881,171 @@ author_profile: true
   }
 
   figcaption.short {
-    position: absolute;
+    /* position: absolute; */
     top: 37.6rem;
     margin-top: 0rem;
   }
 
-  figcaption.rect {
-    position: absolute;
-    top: 13.5rem;
+  figcaption.rect-rec {
+    /* position: absolute; */
+    /* top: 16rem; */
     margin-top: 0rem;
   }
 
+  figcaption.rect-triple {
+    /* position: absolute; */
+    /* top: 10rem; */
+    margin-top: 0rem;
+  }
+
+  figcaption.rect-large {
+    margin-top: 0.2rem;
+  }
+
+/* div.record-section {
+  width: 67.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+div.record-section {
+	width: 67.45rem;
+	display: flex;
+	justify-content: center;
+	height: fit-content !important;
+	flex-direction: row;
+	align-items: start;
+	gap: 2rem;
+}
+
+div.record-section-short {
+  width: 67.45rem;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: space-around;
+  margin-top: 0.4rem;
+  margin-bottom: 2rem;
+}
+
+div.fluid-width-video-wrapper {
+  margin-bottom: 0.4rem !important;
+}
+
 </style>
 
-<h2 id="recordings">Misc Recordings</h2>
+<details id="recordings" open>
+<summary class="gallery">Misc Recordings</summary>
 <p>
-  Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Here's some of the recordings I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera/mic.
+  Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Here's some of the recordings I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera/mic. Others are YouTube videos of live performances.
 </p>
 
-<div class="record-container">
-  <figure class="rect">
-    <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/2_uWm7Qw8SE?si=794Q6Q5IWEoFf9-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect">Bruckner 8 in Ram's parking deck to give the folks at light night a show.</figcaption>
-  </figure>
-  
-  <figure class="rect">
-    <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/2DOZoixFfyY?si=71czVarOlJyvMP-R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect">Some early music. Title unknown. Youtube seems to think it's an original composition from a film, but the melody and bassline were pulled out of a pre-classical music history textbook</figcaption>
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/9xN6CouzZ70?si=LLDh5VrVgvU_NiQa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Bruckner Symphony No. 4, <em>Romantische</em>. I'm torn on linking just the low brass highlights from the performance. The piece is monumental; lush, brooding, expansive. Words do no justice.</figcaption>
   </figure>
 </div>
 
-<div class="record-container">
+<div class="record-section">
+<figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/2_uWm7Qw8SE?si=794Q6Q5IWEoFf9-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Bruckner 8 in Ram's parking deck to give the folks at light night a show. I'm out of frame, but the this was of course on the contrabass (silver)</figcaption>
+  </figure>
+  
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/2DOZoixFfyY?si=71czVarOlJyvMP-R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Some early music. Title unknown. Youtube seems to think it's an original composition from a film, but the melody and bassline were pulled out of a pre-classical music history textbook</figcaption>
+  </figure>
+</div>
+
+<div class="record-section-short">
   <figure class="short">
     <iframe class="short" width="300" height="560" src="https://youtube.com/embed/EdqeiqruZrk?si=rkknyKxhfKXU4r6E" title="YouTube video player"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <figcaption class="short">First rehearsal on my cimbasso. Was still very much getting the feel for it. Excuse the omitted notes</figcaption>
   </figure>
 
-  <figure class="short" >
+  <figure class="short">
     <iframe class="short" width="300" height="560" src="https://youtube.com/embed/jUn5pLqAroA?si=fv9frxi9aCKzU-v7" title="YouTube video player"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <figcaption class="short">Rehearsal of my arrangement of Bo Burnham's <em>Goodbye</em>. The show including this track marked the end of a 5 year hiatus from performing - and worse, practicing at all. Chops were still regaining their strength.</figcaption>
   </figure>
+</div>
 
-  <figure class="short" >
-    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/81sWr58K6Gc?si=nTANxBLwkUeN_BZ3" title="YouTube video player"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="short">Attempting the triplet varation of Carnival of Venice on...cimbasso? Why not.</figcaption>
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/Wa08EktDEwc?si=nx8QPxeaCY_eWayN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">"Danse bacchanale" from <em>Samson et Dalila</em> with UNCSO. Frenetic, sublime, explosive, as a bacchanale should be I suppose.</figcaption>
   </figure>
 </div>
 
-<div class="record-container">
-  <figure class="rect">
-    <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/ORGNAatIIbY?si=fE-hC5KnzSYPzIJg" title="YouTube video player"
+<div class="record-section">
+<figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/2E93Jvaykdo?si=Rtv86TVdc-WHAjPi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Scherzo from Shostakovich 10 arranged for brass band. Was still getting used to Eb bass transposition, did a stand recording to check pitches. Half decent I'd wager. </figcaption>
+  </figure>
+  
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/ovOGb0LrOOM?si=fDQfYPTE5rYjvDGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">As Mr. DNA would say, <a class="noul" href="https://www.reddit.com/r/JurassicPark/comments/9166bh/thanks_to_the_original_movie_i_cant_say_dinosaur/?rdt=43163">Dino<em>sawr</em></a>. This was at ITEF 2018, Dr. Adam Frey conducting a 300 piece tuba/euph choir, with myself on Cimbasso.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/9hLF8JwjTCQ?si=S29KBUAiPRhD_pZj&amp;start=273" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Verdi sans cimbasso. The whole overture is great, linked ~halfway through here.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/ORGNAatIIbY?si=fE-hC5KnzSYPzIJg" title="YouTube video player"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect"><em>Symphonie Fantastique</em> rehearsal clip, on ophicleide (we called this oph the (awful)cleide because it was falling apart and nigh impossible to get in tune. I had about a month and a half to learn how to play it. I thought following NMF I would never play it again, but that thing kept haunting me.</figcaption>
+    <figcaption class="rect-rec"><em>Symphonie Fantastique</em> rehearsal clip, on ophicleide (we called this oph the (awful)cleide because it was falling apart and nigh impossible to get in tune. I had about a month and a half to learn how to play it. I thought following NMF I would never play it again, but that thing kept haunting me).</figcaption>
   </figure>
 
-<figure class="rect">
-  <iframe class="rect" width="560" height="315" src="https://www.youtube.com/embed/UjwaBo3YsWs?si=7WBEeRSiY502VXk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <figcaption class="rect">reconvening after summer break to aggressively blast excerpts at midnight is a bad habit, but it's fun</figcaption>
-</figure>
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/UjwaBo3YsWs?si=7WBEeRSiY502VXk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">reconvening after summer break to aggressively blast excerpts at midnight is a bad habit, but it's fun</figcaption>
+  </figure>
 </div>
 
-<div class="record-container">
-  <figure class="short" >
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/eAbvQAYtOZg?si=TRTO2fRJbEispnee&amp;start=1274" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Clip from the final phrases of Hindemith's <em>Nobilissima visione</em> with UNCSO. We had a saying for when the trombones and I let loose: <em>run the meat</em></figcaption>
+  </figure>
+</div>
+
+<div class="record-section-short">
+  <figure class="short">
     <iframe class="short" width="300" height="560" src="https://youtube.com/embed/W3Q-wKn8yOc?si=xWnLrwBdXhOj2N2c" title="YouTube video player"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="short">First rehearsal using my F horn. Quintet had a yearly gig at the white-coating ceremony and Holst was always a fan-favorite (aka nobody paid attention to us)</figcaption>
+    <figcaption class="short">First rehearsal using the <em>Elektra</em>. Quintet had a yearly gig at the white-coating ceremony and Holst was always a fan-favorite (aka nobody paid attention to us)</figcaption>
   </figure>
 
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/OB-tpZYnxXs?si=p14SfIibSfnf554l" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short"><em>Symphonie Fantastique</em> finale excerpt (not on ophicleide though thank gawd). I had realized there's an alternate fingering which makes the bursts of maniacal laughter easier and wanted to check the sound. Notes were missed, but I played more than was necessary to make check</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/wKJTnt2PGNs?si=Mu4-pDqvC5R0kEFI&amp;start=451" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Some Berlioz with UNCSO. Something something 'all music is love music, pirate music, or both'</figcaption>
+  </figure>
+</div>
+
+<div class="record-section-short">
   <figure class="short" >
     <iframe class="short" width="300" height="560" src="https://youtube.com/embed/tuK_QbsmjnA?si=E9qUSy6LD_zvoBqn" title="YouTube video player"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="short">Goofin around</figcaption>
+    <figcaption class="short">Goofin around. Simply a scale; I can't recall if the phrase is from Miklos Rozsa's film score to <em>The Thief of Bagdad</em> or one of the other pieces we did at NMF</figcaption>
   </figure>
 
   <figure class="short" >
@@ -940,12 +1056,42 @@ author_profile: true
 </div>
 
 <div class="record-container">
-  <figure class="short" >
-    <iframe class="short" width="300" height="560" src="https://youtube.com/shorts/OB-tpZYnxXs?si=p14SfIibSfnf554l" title="YouTube video player"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="short"><em>Symphonie Fantastique</em> finale excerpt (not on ophicleide though thank gawd). I had realized there's an alternate fingering which makes the bursts of maniacal laughter easier and wanted to check the sound. Notes were missed, but I played more than was necessary anyway.</figcaption>
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/zvaSX1aJ6MU?si=vW6JBAmfqb3JpcEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">A wild ophicleide appeared - cover your ears. Nah at this point I was slightly better on oph, so maybe just partially cover (Oph is tacit for most of this so most would probably get bored and check out by the time the ophicleide (me) enters. Either they're startled awake by the atrocious sound, or bissfully unaware of the crimes against tonality propagating past them).</figcaption>
   </figure>
 </div>
+
+<div class="record-section-short">
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/81sWr58K6Gc?si=nTANxBLwkUeN_BZ3" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">Attempting the triplet varation of Carnival of Venice on...cimbasso? Why not.</figcaption>
+  </figure>
+
+  <figure class="short" >
+    <iframe class="short" width="300" height="560" src="https://youtube.com/embed/8y0B7OQHQUc?si=oAInmCGfRwQ-lH0J" title="YouTube video player"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="short">Carnival of Venice triplet variation again, but on bass tuba. Only linked to demo the differences in sound, I forgot to turn the page, and got butterfingers to boot. You can tell by my vocalizations I wasn't pleased.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/6oOCbNENMYc?si=Q3dlqXnPotFUnIa2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Britten, as it's written. We actually did Britten's War Requiem the year before this, however the recording is not public.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/9TxqOCjhvHo?si=_Icg18sulZOgwmDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Some Brahms for your evening listening.</figcaption>
+  </figure>
+</div>
+
+</details>
+
 
 
 
