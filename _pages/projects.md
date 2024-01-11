@@ -194,7 +194,7 @@ author_profile: true
 <summary class="project">A Better ATan2</summary>
 <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://mfwolffe.github.io/improved-atan2/">Link</a></p>
 
-  <p>A personal project I made as practice for learning javascript, and to save myself time when working with math students who need to get a positive angle in any quadrant.</p>
+  <p>A personal project I made as practice for learning (basic) javascript, and to save myself time when working with math students who need to get a positive angle in any quadrant.</p>
   <p>The styling is <em>very</em> basic, perhaps even ugly.</p>
 
 </details>
@@ -226,11 +226,11 @@ author_profile: true
 
   <p>A necessary, though not sufficient condition of primailty for an integer <math display="inline" class="tml-display" style="display:block math;">
   <mrow>
-  <mi>N</mi>
+  <mi>p</mi>
   </mrow>
 </math> greater than 3, is whether it is of the form <math display="inline" class="tml-display" style="display:block math;">
 <mrow>
-  <mi>N</mi>
+  <mi>p</mi>
     <mo>=</mo>
     <mn>6</mn>
     <mi>n</mi>
@@ -490,7 +490,7 @@ and
           return true;    // 2 and 3 are prime
 
         /* the loop below this leaves a gap b/c of the increment and
-         * starting point
+         * initial value i=5
          * i.e., 4, 6, 7, 8, 9, and 10 will not be examined with just
          * the loop and so 4, 6, 8, 9, and 10 would be incorrectly 
          * flagged as prime without the check below */
@@ -521,7 +521,7 @@ and
         if (p % 2 == 0 || p % 3 == 0)
           return false;
 
-        for (int i = 5; i <= Math.sqrt(p); i += 6)
+        for (int i = 5; i * i &lt;= p ; i += 6)
           if (p % i == 0 || p % (i + 2) == 0)
             return false;
 
@@ -546,6 +546,7 @@ and
         if p % 2 == 0 or p % 3 == 0:
           return False
 
+        # how legible, how fun!
         return not(any(p % i == 0 or p % (i + 2) == 0 for i in range(5, int(sqrt(p)), 6)))
   </code>
   </pre>
@@ -554,7 +555,7 @@ and
 
   <div class="box" id="cs_block" style="display: none; width: 58rem;">
     <pre>
-      <code class="language-python line-numbers" data-prismjs-copy="Copy">using System;
+      <code class="language-csharp line-numbers" data-prismjs-copy="Copy">using System;
       using System.Linq;
 
       class Primality {
@@ -569,10 +570,10 @@ and
           if (p % 2 == 0 || p % 3 == 0)
             return false;
 
+          // and you thought the python one-liner was bizarre ~_~
           return !(Array.Exists(Enumerable.Range(5, (int)Math.Sqrt(p))
                         .SkipWhile(i =&gt; i % 6 == 0)
                         .ToArray&lt;int&gt;(), (int x) =&gt; p % x == 0 || p % (x + 2) == 0));
-          
         }
       }
   </code>
@@ -592,15 +593,15 @@ and
 <p class="roles"><em>Arranger</em></p>
 
   <p>
-    Italian composer Ennio Morricone, made famous by his sonically expansive film scores and distinctive style, sadly passed away in 2020. In my eyes Maestro Morricone superlatively captured the sound of the west and single handedly defined the sound of an era. I have long loved his music and decided in 2023 to start arranging a tribute to the Maestro, similar to the live concerts he would conduct throughout the world. 
+    Italian composer Ennio Morricone, made famous by his sonically expansive film scores and distinctive style, sadly passed away in 2020. In my eyes, when discussing scores of westerns, Maestro Morricone's oeuvre is superlative. I have long loved his music and decided in 2023 to start arranging a tribute to the Maestro, similar to the live concerts he would conduct throughout the world. 
   </p>
 
   <p>
-    Maestro Morricone's oeuvre is of course not public domain, so the majority of my score is transcribed by ear. I have been working on this project for about 6 months, and have about 40 minutes worth of completed arrangements to show for it.
+    Maestro Morricone's body of work is of course not public domain, so the majority of my score is transcribed by ear. I have been working on this project for over 6 months, and have about 40 minutes worth of completed arrangements to show for it.
   </p>
 
   <p>
-    The tribute is scored for extended orchestra and choir. I have began to teach myself harmonica and stone flute (acquired from <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a>) so that I can contribute more than just brass to an eventual overdub (live performance is out of the question due to scope).
+    The tribute is scored for extended orchestra and choir. I have begun to teach myself harmonica and stone flute (acquired from <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a>) so that I can contribute more than just brass to an eventual overdub (live performance is out of the question due to licensure and of course scope).
   </p>
 
   <details class="audio">
@@ -666,7 +667,7 @@ and
 </details>
 
 <details open>
-<summary class="project">Arrangements</summary>
+<summary class="project">Other Arrangements</summary>
 <p class="roles"><em>Arranger</em></p>
 
   <p>
@@ -753,13 +754,13 @@ and
 <p class="roles"><em>Author</em></p>
 
   <p>
-    This project is an antiwar retrospective on the 20th century, specifically examining the periodicity of greed and hypocrisy sparking global conflict, followed by injustice and hysteria on that same scale, and concluding with fascism.
+    This project is an antiwar retrospective on the 20th century, specifically examining the periodicity of greed and hypocrisy sparking global conflict, followed by injustice and hysteria on that same scale, finally culminating with the rise of fascism.
   </p>
   <p>
-     A 'Pendulum Theory' of human history, expressed in the third law of German philosopher Georg Wilhelm Friedrich Hegel's Dialectic, describes the observation of periodic shifts from thesis to antithesis before finally reaching synthesis. In layman's terms, popular mood has a tendency to swing from one extreme to another over time, before eventually coming to rest.
+    German philosopher Georg Wilhelm Friedrich Hegel's Dialectic is characterized by periodic shifts from thesis to antithesis before finally reaching synthesis. Marx and Engels extended this concept to describe history in a materialistic sense; in layman's terms, development is propelled by the swinging of popular mood from one extreme to another over time, before eventually coming to rest, waiting for the next spark of momentum.
   </p>
   <p>
-    The project directs viewers/listeners to reflect on the swings of the 20th century and ask themselves, have we as a species ever really reached a synthesis? <em>Is it even possible?</em> If so, is that period doomed to transience? Additionally, is gross injustice liminal, or is it perpetual - is our synthesis as a species in actuality those periods of mass suffering, with peace and harmony being an extreme of the arc? Finally, it asks viewers to examine the world today and consider whether the displacement from synthesis is decreasing as it should, or increasing. In other words, are things doomed to get worse?
+    The project directs viewers/listeners to reflect on the 'swings' of the 20th century and ask themselves, have we as a species ever really reached a synthesis? <em>Is it even possible?</em> If so, is that period of repose doomed to transience? Finally, it asks viewers to examine the world today and consider whether the displacement from synthesis is decreasing as it should, or increasing. Is the dimly flickering light at the end of the tunnel actually an oncoming train?
   </p>
 
   <p>

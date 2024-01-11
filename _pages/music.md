@@ -17,7 +17,19 @@ author_profile: true
 
 ------
 
-<style> 
+<style>
+  a.noul {
+    color: #52adc8;
+    text-decoration: none !important;
+    border-bottom: none;
+  }
+
+  a.noul:hover {
+    color: #52adc8;
+    text-decoration: none;
+    text-shadow: 4px 4px 8px;
+  }
+
   h2.larger-heading {
     font-size: 135%;
   }
@@ -933,18 +945,38 @@ div.fluid-width-video-wrapper {
   margin-bottom: 0.4rem !important;
 }
 
+details#recordings {
+  width: fit-content;
+}
+
 </style>
+
+
 
 <details id="recordings" open>
 <summary class="gallery">Misc Recordings</summary>
 <p>
-  Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Here's some of the recordings I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera/mic. Others are YouTube videos of live performances.
+  Unfortunately, most of the recordings I have made over the years were lost after an older laptop died right before the onset of covid. Most of the recordings below are public YouTube videos of ensemble playing. The others are recordings I was able to recover, albeit low quality ones as they were generally made with a very old iPhone camera/mic. All the solo recordings I made with good equipment were lost.
 </p>
 
 <div class="record-section">
   <figure class="rect-large">
     <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/9xN6CouzZ70?si=LLDh5VrVgvU_NiQa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <figcaption class="rect-large">Bruckner Symphony No. 4, <em>Romantische</em>. I'm torn on linking just the low brass highlights from the performance. The piece is monumental; lush, brooding, expansive. Words do no justice.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/VpVdXXlJLaU?si=mr7Qh1ZyZC2rK2hv&amp;start=294"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Strauss <em>Serenade for Winds</em> with myself on Cimbasso. Linked at the start of a series of exposed passages. Had a malfunction with the 6th trigger which made intonation a struggle on the slower ascending lines.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/Qk-6m1XIn-o?si=8maqL6ciCU2lAo9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">More cimbasso, but... standing?! If I look composed it's a facade - the cimbasso model I have can be very unwieldy even while sitting. The piece is Allen Anderson's <em>Intrada</em>. The lowest brass part was initially for tuba, but when professor Anderson saw my cimbasso off to the side in a rehearsal, an executive decision was made. The second performance of this piece, however, was disastrous on my part. <em>Dr. Feldman and Professor Anderson, I'm sorry, even all these years.</em></figcaption>
   </figure>
 </div>
 
@@ -957,6 +989,25 @@ div.fluid-width-video-wrapper {
   <figure class="rect-rec">
     <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/2DOZoixFfyY?si=71czVarOlJyvMP-R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <figcaption class="rect-rec">Some early music. Title unknown. Youtube seems to think it's an original composition from a film, but the melody and bassline were pulled out of a pre-classical music history textbook</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/3SRK2mWJbXQ?si=w4rM3dkXJ-eo9wtR&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Many in the United States unduly write off wind ensembles as 'nonserious' based solely on the fact they're not symphony orchestras. I've never understood that, and frankly take offense to it. Hopefully the Maslanka piece above makes my case for me.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+<figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/uFAWIFce3kU?si=t71NZ7ew0Yq86g5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Finale from Shostakovich 5. I believe this was my first concert as a freshman at UNC and my first concert on a CC tuba. You can tell I'm still acclimating to the shift from BBb.</figcaption>
+  </figure>
+  
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/pwlgiJrBfCk?si=1yEp4vLaiNnwTpNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Sound familiar?</figcaption>
   </figure>
 </div>
 
@@ -989,7 +1040,7 @@ div.fluid-width-video-wrapper {
   
   <figure class="rect-rec">
     <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/ovOGb0LrOOM?si=fDQfYPTE5rYjvDGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect-rec">As Mr. DNA would say, <a class="noul" href="https://www.reddit.com/r/JurassicPark/comments/9166bh/thanks_to_the_original_movie_i_cant_say_dinosaur/?rdt=43163">Dino<em>sawr</em></a>. This was at ITEF 2018, Dr. Adam Frey conducting a 300 piece tuba/euph choir, with myself on Cimbasso.</figcaption>
+    <figcaption class="rect-rec">As Mr. DNA would say, <a class="noul" href="https://www.reddit.com/r/JurassicPark/comments/9166bh/thanks_to_the_original_movie_i_cant_say_dinosaur/?rdt=43163">Dinosawr</a>. This was at ITEF 2018, Dr. Adam Frey conducting a 300 piece tuba/euph choir, with myself on Cimbasso.</figcaption>
   </figure>
 </div>
 
@@ -1030,7 +1081,7 @@ div.fluid-width-video-wrapper {
   <figure class="short" >
     <iframe class="short" width="300" height="560" src="https://youtube.com/embed/OB-tpZYnxXs?si=p14SfIibSfnf554l" title="YouTube video player"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="short"><em>Symphonie Fantastique</em> finale excerpt (not on ophicleide though thank gawd). I had realized there's an alternate fingering which makes the bursts of maniacal laughter easier and wanted to check the sound. Notes were missed, but I played more than was necessary to make check</figcaption>
+    <figcaption class="short"><em>Symphonie Fantastique</em> finale excerpt (not on ophicleide though thank gawd). I had realized there's an alternate fingering which makes the bursts of maniacal laughter easier and wanted to check the sound. Notes were missed, but I played more than was necessary to make the check</figcaption>
   </figure>
 </div>
 
@@ -1055,10 +1106,24 @@ div.fluid-width-video-wrapper {
   </figure>
 </div>
 
-<div class="record-container">
+
+<div class="record-section">
   <figure class="rect-large">
-    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/zvaSX1aJ6MU?si=vW6JBAmfqb3JpcEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect-large">A wild ophicleide appeared - cover your ears. Nah at this point I was slightly better on oph, so maybe just partially cover (Oph is tacit for most of this so most would probably get bored and check out by the time the ophicleide (me) enters. Either they're startled awake by the atrocious sound, or bissfully unaware of the crimes against tonality propagating past them).</figcaption>
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/vopppsdmdZo?si=KjM5jxFIEhNYajRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Joyous like Moby</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/zvaSX1aJ6MU?si=vW6JBAmfqb3JpcEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">A wild ophicleide appeared - cover your ears. Nah at this point I was slightly better on oph, so maybe just partially cover (Oph is tacit for most of this so most would probably get bored and check out by the time the ophicleide (me) enters. Either they're startled awake by the atrocious sound, or bissfully unaware of the crimes against tonality propagating past them).</figcaption>
+  </figure>
+
+
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/6oOCbNENMYc?si=Q3dlqXnPotFUnIa2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Britten, as it's written. We actually did Britten's War Requiem the year before this, however the recording is not public.</figcaption>
   </figure>
 </div>
 
@@ -1076,10 +1141,43 @@ div.fluid-width-video-wrapper {
   </figure>
 </div>
 
+
 <div class="record-section">
   <figure class="rect-large">
-    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/6oOCbNENMYc?si=Q3dlqXnPotFUnIa2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect-large">Britten, as it's written. We actually did Britten's War Requiem the year before this, however the recording is not public.</figcaption>
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/gNZz8yPrilM?si=HOy2-jYfLJOg7wTl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Aida transcription - Verdi, but now with Cimbasso! </figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/H5nIExCB9IY?si=3bmJXgJNQj3zWH1x&amp;start=94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Sousa sans Sousaphone (thankfully I never had to march).</figcaption>
+  </figure>
+
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/oDFAhPYKkf8?si=UrDyTcuZ3APVsqFH&amp;start=27"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">We played a fair bit of Bernstein's music in the Wind Ensemble. Took <em>Suite from "Mass"</em> (ensemble + quintet arrangement) to CBDNA one year.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-large">
+    <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/O4DwTGr0qXI?si=mGtYyzfT7Ms_SG4R&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-large">Scalar passage for tuba I in Giroux's <em>Shine</em> (with tuba juggling). The line really needed to project, but also remain light. We thought the contra sounded too boisterous climbing to the high F, so the bass was the choice.
+    However a chorale-like passage which necessitated the bigger sound of the CC followed just a few bars after, hence the hot-swap. There was a similar scalar figure in the first tuba at the 6:09 mark for which I intended to swap again, but missed the small window. In order to stay light I lost some projection, but that's okay.</figcaption>
+  </figure>
+</div>
+
+<div class="record-section">
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/nurCgRre5rE?si=rCmdZaCmR09tEvXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec"><em>The River Runs Silver</em> in its entirety is a fantastic piece of music.</figcaption>
+  </figure>
+
+  <figure class="rect-rec">
+    <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/2DVNuoXfjbE?si=zf-oXUEDvOGVeCq5&amp;start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption class="rect-rec">Quirky soli; this was my last performance at UNC.</figcaption>
   </figure>
 </div>
 
@@ -1091,7 +1189,4 @@ div.fluid-width-video-wrapper {
 </div>
 
 </details>
-
-
-
 

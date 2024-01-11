@@ -28,6 +28,81 @@ Beginning in high school I self-taught C++ out of a beat-up old textbook my high
 
 I am most proficient in Java, Python, and C. I am refamiliarizing myself with C++ and C#, learning more Javascript/React every day, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
 
+Music
+------
+<style>
+  div.section {
+    width: 67.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: start;
+    gap: 1.5rem;
+  }
+
+  div.section p {
+    width: 50%;
+  }
+
+  .music {
+    width: 18rem;
+  }
+
+  /* IF RESPONSIVENESS BREAKS EVEN WORSE THAN IT ALREADY IS, CHECK IF REMOVING THIS PADDING OVERRIDE HELPS ~_~ */
+  #main {
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+  }
+
+  figure img {
+    margin-bottom: 0.2rem;
+  }
+
+  figure.music {
+	  margin-top: 0rem;
+	  margin-bottom: 0.5rem;
+  }
+
+  article.page {
+    padding-right: 1rem;
+  }
+
+  .wide {
+    width: 36rem;
+    margin: auto;
+    margin-bottom: 0.2rem;
+  }
+
+  figure.wide {
+    display: block;
+    width: fit-content;
+  }
+
+</style>
+
+<div class="section">
+  <p>
+    I am a 'classically trained' musician, having performed and studied music for nearly two decades. I studied low-brass performance for several years at the University of North Carolina at Chapel Hill, where I had been awarded the Kenan Music Scholarship in 2014.
+    I studied under retired principal trombonist of the North Carolina Symphony, Michael Kris. I play bass & contrabass tubas, <a href="https://cso.org/experience/article/3130/whats-a-cimbasso">Cimbasso</a>, euphonium, & bass trombone.
+    Thanks to Professor Kris I was able to make a foray into the world of historically informed performance, learning how to play and perform on instruments such as the <a href="http://www.contrabass.com/pages/ophicleide.html">Ophicleide</a> and <a href="https://caslabs.case.edu/medren/renaissance-instruments/sackbut-renaissance/">Bass Sackbut</a>. I have traveled extensively to supplement my studies by taking lessons with principal performers in orchestras throughout Europe and the eastern United States. I did not, however, complete my degree at UNC due to rather serious burgeoning health issues.
+  </p>
+
+  <figure class="music">
+    <img class="music" src="images\option-2.jpg" alt="matt on stage">
+    <figcaption class="music" >On stage with bass tuba in hand, and contrabass at the ready.</figcaption>
+  </figure>
+</div>
+
+<figure class="wide" >
+  <img class="wide" src="images\cimbasso.png" alt="matt cimbasso">
+  <figcaption class="wide">On stage playing cimbasso. I bought my cimbasso in late 2016, and it's been my favorite instrument to play and perform on ever since.</figcaption>
+</figure>
+
+Educational Work
+------
+I currently work as a tutor/teaching assistant in and around the Shenandoah Valley area. I cover college-level courses in chemistry, computer science, and mathematics. I thoroughly enjoy teaching, and hope to one day be able to work as a professor.
+In the past I have provided inexpensive private tuba and euphonium lessons to students who enjoy music making, but are unsure of whether they wish to study music formally.
+
 Interests in Computing
 ------
 <ul>
@@ -38,17 +113,6 @@ Interests in Computing
     <li>Applications of CS in the fields of chemistry, mathematics, music, and cosmology</li>
     <li>Ethical concerns of Large Language Models</li>
 </ul>
-
-Music
-------
-I am a 'classically trained' musician, having performed and studied music for nearly two decades. I studied low-brass performance for several years at the University of North Carolina at Chapel Hill, where I had been awarded the Kenan Music Scholarship in 2014. 
-I studied under retired principal trombonist of the North Carolina Symphony, Michael Kris. I play bass & contrabass tubas, [Cimbasso](https://cso.org/experience/article/3130/whats-a-cimbasso), euphonium, & bass trombone. 
-Thanks to Professor Kris I was able to make a foray into the world of historically informed performance, learning how to play and perform on instruments such as the [Ophicleide](http://www.contrabass.com/pages/ophicleide.html) and [Bass Sackbut](https://caslabs.case.edu/medren/renaissance-instruments/sackbut-renaissance/). I have traveled extensively to supplement my studies by taking lessons with principal performers in orchestras throughout Europe and the eastern United States. I did not, however, complete my degree at UNC due to rather serious burgeoning health issues.
-
-Educational Work
-------
-I currently work as a tutor/teaching assistant in and around the Shenandoah Valley area. I cover college-level courses in chemistry, computer science, and mathematics. I thoroughly enjoy teaching, and hope to one day be able to work as a professor.
-In the past I have provided inexpensive private tuba and euphonium lessons to students who enjoy music making, but are unsure of whether they wish to study music formally.
 
 <!-- Create content & metadata
 ------
