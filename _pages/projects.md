@@ -200,17 +200,11 @@ author_profile: true
 </details>
 
 <details open>
-<summary class="project">GUI General Chemistry Toolkit (WIP)</summary>
+<summary class="project">Digital Dipole</summary>
 <p class="roles"><em>Author</em></p>
-
   <p>
-    JavaFX GenChem Toolkit. Started in 2022, but due to work and school, can only work on it intermittently. Contains various chemistry tools, like limiting reagent calculator & gas law calculators.
+    Digital Dipole is a chemistry toolkit web app. The project started as a JavaFX app, but I quickly realized that in order to accomplish what I want, I would have to switch platforms/frameworks. I stopped working on it for some time and have recently decided to begin migrating it to the web.
   </p>
-
-  <p>
-    The plan for this project is to migrate to either another framework or language altogether. While JavaFX can meet a lot of my goals for the app, there are certain tasks which prove to be such a headache it may be worth switching paradigms.
-  </p>
-
 </details>
 
 <details open>
@@ -239,7 +233,7 @@ author_profile: true
   </mrow>
   </math></p>
 <p>
-  Rather humorously, searching for who first observed this yields forum posts from all across the web, with an OP claiming they have discovered something <em>incredible</em> about primes. Only for a commenter to quickly put the kibosh on OP's dream of standing alongside Euler in the annuls of mathematics by pointing out that this realization is not a new one. 
+  Rather humorously, searching for who first observed this yields forum posts from all across the web, with an OP claiming they have discovered something <em>incredible</em> about primes. Only for a commenter to quickly put the kibosh on OP's dream of standing alongside Euler in the annals of mathematics by pointing out that this realization is not a new one. 
 </p>
 
 <p>
@@ -593,23 +587,18 @@ and
 <p class="roles"><em>Arranger</em></p>
 
   <p>
-    Italian composer Ennio Morricone, made famous by his sonically expansive film scores and distinctive style, sadly passed away in 2020. In my eyes, when discussing scores of westerns, Maestro Morricone's oeuvre is superlative. I have long loved his music and decided in 2023 to start arranging a tribute to the Maestro, similar to the live concerts he would conduct throughout the world. 
+    Italian composer Ennio Morricone, made famous by his sonically expansive film scores and distinctive style, sadly passed away in 2020. In my eyes, when discussing scores of westerns, Maestro Morricone's oeuvre is superlative. I have long loved his music and decided in June of 2023 to start arranging a tribute to the Maestro, similar to the live concerts he would conduct throughout the world.  Maestro Morricone's body of work is of course not public domain, so the majority of my score is transcribed by ear.
   </p>
 
   <p>
-    Maestro Morricone's body of work is of course not public domain, so the majority of my score is transcribed by ear. I have been working on this project for over 6 months, and have about 40 minutes worth of completed arrangements to show for it.
-  </p>
-
-  <p>
-    The tribute is scored for extended orchestra and choir. I have begun to teach myself harmonica and stone flute (acquired from <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a>) so that I can contribute more than just brass to an eventual overdub (live performance is out of the question due to licensure and of course scope).
+    The tribute is scored for extended orchestra and choir. I have begun to teach myself harmonica and stone flute (acquired from <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a>) so that I can contribute more than just brass to an eventual overdub (live performance is out of the question due to licensure and scope of course).
   </p>
 
   <details class="audio">
     <summary>Audio snippets</summary>
     <p>
       The following are brief audio clips (Sibelius Sounds 7) of certain tracks within the tribute. 
-      Balance and timbre can be better controlled in Pro Tools, but I don't plan on adjusting with such granularity in 
-      Pro Tools until I have completed the tribute.
+      Balance and timbre can be better controlled in Pro Tools, but I don't plan on adjusting with such granularity until I have completed the tribute.
     </p>
       <div class="sib">
         <figure>
@@ -658,12 +647,6 @@ and
         </figure>
       </div>
   </details>
-
-  <details class="doc">
-    <summary>Title Page</summary>
-      <img class="center" src="/images/morricone/morricone-tribute/title-page.png" width="400">
-  </details>
-
 </details>
 
 <details open>

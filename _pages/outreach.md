@@ -45,11 +45,6 @@ redirect_from:
     gap: 1rem;
   }
 
-  figure.fractal, figure.farctal > img {
-    width: 100%;
-    margin: 0 !important;
-  }
-
   a.noul {
     text-decoration: none;
   }
@@ -58,8 +53,6 @@ redirect_from:
     text-decoration: none;
     text-shadow: 4px 4px 8px;
   }
-
-
 
 </style>
 
@@ -80,18 +73,3 @@ redirect_from:
 <p>
   Volunteered to assist with <a class="noul" href="https://w3.cs.jmu.edu/lam2mo/index.html">Dr. Michael Lam's</a> "Fractal Art with Python" field trip with a local middle school. Students were walked through important CS concepts by Dr. Lam and given boilerplate code to modify to solve tasks. By the end of the activity students were creating unique art by modifying provided algorithms for famous fractals or starting from scratch!
 </p>
-
-<div class="fractals">
-  <figure class="fractal">
-  <img src="/images/outreach/fractal1.gif" width="250px">
-  <figcaption>Koch Snowflake; code written by Dr. Michael Lam, gif by Matt Wolffe</figcaption>
-  </figure>
-  <figure class="fractal">
-  <img src="/images/outreach/fractal2.gif" width="250px">
-  <figcaption>Sierpinsky Triangle; code written by Dr. Michael Lam, gif by Matt Wolffe</figcaption>
-  </figure>
-  <figure class="fractal">
-  <img src="/images/outreach/fractal3.gif" width="250px">
-  <figcaption>Fractal Canopy; code written by Dr. Michael Lam, gif by Matt Wolffe</figcaption>
-  </figure>
-</div>

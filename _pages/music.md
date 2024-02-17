@@ -313,20 +313,21 @@ author_profile: true
   <div class="rectfix">
     <div>
       <p>
-        I supplemented my studies by traveling and taking lessons with principal tubists of major orchestras up and down the east coast, and used the stipend included with my scholarship to study with principals throughout the UK and EU. Ultimately however, I chose to leave UNC before graduating due to persistent health issues and a combination of rather unforgiving imposter syndrome and constant ruminations about my future as a musician. I still practice and perform my own arrangements/transcriptions today. 
+        I supplemented my studies by traveling and taking lessons with principal tubists of major orchestras up and down the east coast, and also with principals throughout the UK and EU. Ultimately however, I chose to leave UNC before graduating due to persistent health issues and a combination of rather unforgiving imposter syndrome and constant ruminations about my future as a musician. That said, I still practice and perform my own arrangements/transcriptions today. 
       </p>
       <p>
-        Favorite composers include Mahler, Shostakovich, R. Strauss, Sibelius, G. Gabrieli, Tchaikovsky, Bruckner, Berlioz, Verdi as well as film composers like Ennio Morricone. I am currently teaching myself the harmonica & various <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a> clay flutes for a larger tribute to Ennio Morricone I have been working on for about half a year.
+        Favorite composers include Mahler, Shostakovich, R. Strauss, Sibelius, G. Gabrieli, Tchaikovsky, Bruckner, Berlioz, Verdi as well as film composers like Ennio Morricone. I am currently teaching myself the harmonica & various <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a> clay flutes for a larger tribute to Ennio Morricone I have been working on for some time.
       </p>
     </div>
     <div>
       <figure class="rect">
         <img class="rect" src="../images/europe/mahler8-rehearsal.webp">
-        <figcaption>sitting in on a Mahler 8 rehearsal following a lesson in the Royal Albert Hall in London</figcaption>
+        <figcaption>Sitting in on a Mahler 8 rehearsal following a lesson in the Royal Albert Hall in London</figcaption>
       </figure>
     </div>
   </div>
 
+  <h2 class="larger-heading">Equipment</h2>
   <div class="squarefix">
     <div>
       <ul class="fix">

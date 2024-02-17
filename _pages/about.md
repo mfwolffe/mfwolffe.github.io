@@ -26,7 +26,7 @@ I built my first (inexpensive) computer in middle school, and by my senior year 
 [Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/) (the latter mostly for CPU stress testing).
 Beginning in high school I self-taught C++ out of a beat-up old textbook my high school's CS teacher lent me as I wasn't interested in spending an entire year learning visual basic.
 
-I am most proficient in Java, Python, and C. I am refamiliarizing myself with C++ and C#, learning more Javascript/React every day, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
+I am most proficient in C, Java, Python, and Javascript. I am refamiliarizing myself with C++ and C#, learning React, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
 
 Music
 ------

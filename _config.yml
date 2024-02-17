@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Forrester Wolffe"
-  avatar           : "matt-duke-chapel.png"
+  avatar           : "matt_memorial.png"
   bio              : "Computer science student at JMU;
                       CS TA, mathematics and chemistry tutor;
                       performing low-brass musician"
@@ -96,12 +96,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/matt.wolffe/"
+  facebook         : "matt.wolffe/"
   foursquare       :
   github           : "mfwolffe"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/mfwolffe/"
+  instagram        : "mfwolffe/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
