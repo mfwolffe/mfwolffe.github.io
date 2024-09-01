@@ -173,7 +173,10 @@ author_profile: true
 
   <h3>Contributions</h3>
   <ul>
-    <li>Construction of a rudimentary digital audio workstation (DAW) as part of work towards an honors thesis.</li>
+    <li>
+      Construction of a rudimentary digital audio workstation (DAW) as part of work towards an honors thesis.
+      <img src="/images/features-1.png" style="margin-left: auto; margin-right: auto; width: 15rem"></img>
+    </li>
     <li>DevOps - attempts to streamline development environment setup through assistance with devcontainers and codespaces, and my own work configuring quickly reproducible linux disk images, initially using <code>archiso</code>, then NixOS configurations.</li>
     <li>Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.</li>
     <li>Musical consultation & preparation of references to make certain tasks easier for non-musician programmers, e.g., <a class="noul" href="../images/CPR/transposition_reference.png">Transposition Reference</a></li>
