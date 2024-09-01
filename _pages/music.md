@@ -963,7 +963,7 @@ details#recordings {
 <div class="record-section">
   <figure class="rect-large">
     <iframe class="rect-large" width="560" height="315" src="https://www.youtube.com/embed/9xN6CouzZ70?si=LLDh5VrVgvU_NiQa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect-large">Bruckner Symphony No. 4, <em>Romantische</em>. I'm torn on linking just the low brass highlights from the performance. The piece is monumental; lush, brooding, expansive. Words do no justice.</figcaption>
+    <figcaption class="rect-large">Bruckner Symphony No. 4, <em>Romantische</em>.</figcaption>
   </figure>
 </div>
 
@@ -989,7 +989,7 @@ details#recordings {
   
   <figure class="rect-rec">
     <iframe class="rect-rec" width="560" height="315" src="https://www.youtube.com/embed/2DOZoixFfyY?si=71czVarOlJyvMP-R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcaption class="rect-rec">Some early music. Title unknown. Youtube seems to think it's an original composition from a film, but the melody and bassline were pulled out of a pre-classical music history textbook</figcaption>
+    <figcaption class="rect-rec">Some early music. Title unknown. Youtube seems to think it's an original composition from a film, but the melody and bassline were pulled out of a music history textbook</figcaption>
   </figure>
 </div>
 
