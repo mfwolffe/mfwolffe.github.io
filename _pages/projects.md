@@ -358,8 +358,6 @@ Primality algorithm is compared to a brute-force approach on modern hardware wit
 
 </details>
 
-</details>
-
 <h2 class="larger-heading">Music</h2>
 ------
 
