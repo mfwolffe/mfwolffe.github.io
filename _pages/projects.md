@@ -188,11 +188,11 @@ author_profile: true
       <details open>
         <summary class="project">Demo</summary>
         <figure>
-        <img src="/images/variations1a.png" style="width: 100%; margin-top: 1rem" />
+        <img src="/images/variations2c.png" style="width: 100%; margin-top: 1rem" />
         <figcaption>Student motives from which to procedurally generate and render 11 musical variations.</figcaption>
         </figure>
         <figure>
-          <img src="/images/variations2c.png" style="width: 100%; margin-top: 1rem" />
+          <img src="/images/variations2a.png" style="width: 100%; margin-top: 1rem" />
           <figcaption>The procedurally generated variations plus original motive combined into a single score.</figcaption>
         </figure>
       </details>
