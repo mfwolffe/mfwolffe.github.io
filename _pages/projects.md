@@ -215,7 +215,7 @@ author_profile: true
     <mo>±</mo>
     <mn>1</mn>
   </mrow>
-</math>Primality Test Instrumentation (WIP)</summary>
+</math>Primality Test Instrumentation</summary>
 <p class="roles"><em>Author</em></p>
 
   <p>A necessary, though not sufficient condition of primailty for an integer <math display="inline" class="tml-display" style="display:block math;">
