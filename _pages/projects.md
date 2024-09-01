@@ -175,16 +175,13 @@ author_profile: true
 
   <h3>Contributions</h3>
   <ul>
+    <li>Construction of a rudimentary digital audio workstation (DAW) as part of work towards an honors thesis</li>
+    <li>DevOps - attempts to streamline environment setup through assistance with devcontainers, codespaces, and reproducible VMs for dev using <code>archiso</code> and NixOS configuration.</li>
     <li>
-      Algorithms for variation generation such as rhythmic & melodic permutations and combinations of the two which correctly recombine pitches that were split by a previous shift.
+      Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.
     </li>
     <li>
-      Musical consultation & preparation of references to make certain tasks easier for non-musician programmers.
-      <br>
-      For example:
-      <ul>
-      <li><a class="noul" href="../images/CPR/transposition_reference.png">Transposition Reference</a></li>
-      </ul>
+      Musical consultation & preparation of references to make certain tasks easier for non-musician programmers, e.g., <a class="noul" href="../images/CPR/transposition_reference.png">Transposition Reference</a>
     </li>
   </ul>
 
@@ -193,17 +190,14 @@ author_profile: true
 <details open>
 <summary class="project">A Better ATan2</summary>
 <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://mfwolffe.github.io/improved-atan2/">Link</a></p>
-
-  <p>A personal project I made as practice for learning (basic) javascript, and to save myself time when working with math students who need to get a positive angle in any quadrant.</p>
-  <p>The styling is <em>very</em> basic, perhaps even ugly.</p>
-
+  <p>A personal project I made as practice for learning (vanilla) JavaScript, and to save myself time when tutoring precalculus students.</p>
 </details>
 
 <details open>
 <summary class="project">Digital Dipole</summary>
 <p class="roles"><em>Author</em></p>
   <p>
-    Digital Dipole is a chemistry toolkit web app. The project started as a JavaFX app, but I quickly realized that in order to accomplish what I want, I would have to switch platforms/frameworks. I stopped working on it for some time and have recently decided to begin migrating it to the web.
+    Digital Dipole is a chemistry toolkit web app. The project started as a JavaFX app, but I quickly realized that in order to accomplish what I want, I would have to switch platforms/frameworks and it is being migrated to a web app built with React, Vite, Django, and React-Bootstrap.
   </p>
 </details>
 
@@ -233,10 +227,6 @@ author_profile: true
   </mrow>
   </math></p>
 <p>
-  Rather humorously, searching for who first observed this yields forum posts from all across the web, with an OP claiming they have discovered something <em>incredible</em> about primes. Only for a commenter to quickly put the kibosh on OP's dream of standing alongside Euler in the annals of mathematics by pointing out that this realization is not a new one. 
-</p>
-
-<p>
   The goal of this small project is to compare just how much faster a <math display="inline" class="tml-display" style="display:block math;">
   <mrow>
     <mn>6</mn>
@@ -250,7 +240,7 @@ Primality algorithm is compared to a brute-force approach on modern hardware wit
 
 <details class="proof">
 <summary>Logic and Algorithm</summary>
-<p>The algorithm under consideration follows the below logic; this is of course not a formal proof.</p>
+<p>The algorithm under consideration follows the below logic:</p>
 <p>Observe that <em>any</em> integer can be written in the form,<math display="block" class="tml-display" style="display:block math;">
   <mrow>
     <mn>6</mn>
@@ -387,20 +377,20 @@ Additionally,</p>
 
 </p>
 
-<p>Furthermore, note that even in a naïve approach we need not check <em>every</em> number up to <math display="inline" class="tml-display" style="display:block math;">
+<p>Also, even in a naïve approach we need not check <em>every</em> number up to <math display="inline" class="tml-display" style="display:block math;">
     <mrow>
     <mi>p</mi>
     </mrow>
   </math>.
 
-It is sufficient to check up to 
+It's sufficient to check up to 
 <math display="inline" class="tml-display" style="display:block math;">
   <msqrt>
     <mi>p</mi>
   </msqrt>
-  </math>.
+  </math>.,
 
-Hence, we need only check numbers in the range 
+So we need only check numbers in the range 
 <math display="inline" class="tml-display" style="display:block math;">
   <mrow>
     <mo form="prefix" stretchy="false">[</mo>
@@ -436,7 +426,7 @@ and
 
 <br>
 <h3>Code</h3>
-<p>Instrumentation will be done on functions written in C. Other languages shown below for no reason really other than to show the one line versions for python and C#</p>
+<p>Instrumentation will be done on functions written in C. I've included a python and C# version just because the oneliners are just so <em>fun</em></p>
 <form id="radio" action="">
 <fieldset>
   <div class="code">
@@ -447,10 +437,6 @@ and
     <div class="input">
       <input type="radio" id="py" name="isPrime" value="py_block">
       <label for="py">Python</label>
-    </div>
-    <div class="input">
-      <input type="radio" id="jav" name="isPrime" value="jav_block">
-      <label for="jav">Java</label>
     </div>
     <div class="input">
       <input type="radio" id="cs" name="isPrime" value="cs_block">
@@ -502,30 +488,7 @@ and
   </pre>
   
   </div>
-
-  <div class="box" id="jav_block" style="display: none;">
-    <pre>
-      <code class="language-java line-numbers" data-prismjs-copy="Copy">public static boolean isPrime(int p) {
-        if (p &lt;= 1)
-          return false;
   
-        if (p &lt;= 3)
-          return true;
-  
-        if (p % 2 == 0 || p % 3 == 0)
-          return false;
-
-        for (int i = 5; i * i &lt;= p ; i += 6)
-          if (p % i == 0 || p % (i + 2) == 0)
-            return false;
-
-        return true;
-      }
-  </code>
-  </pre>
-  
-  </div>
-
   <div class="box" id="py_block" style="display: none; width: 60rem;">
     <pre>
       <code class="language-python line-numbers" data-prismjs-copy="Copy">from math import sqrt
@@ -544,7 +507,6 @@ and
         return not(any(p % i == 0 or p % (i + 2) == 0 for i in range(5, int(sqrt(p)), 6)))
   </code>
   </pre>
-  
   </div>
 
   <div class="box" id="cs_block" style="display: none; width: 58rem;">
@@ -745,11 +707,6 @@ and
   <p>
     The project directs viewers/listeners to reflect on the 'swings' of the 20th century and ask themselves, have we as a species ever really reached a synthesis? <em>Is it even possible?</em> If so, is that period of repose doomed to transience? Finally, it asks viewers to examine the world today and consider whether the displacement from synthesis is decreasing as it should, or increasing. Is the dimly flickering light at the end of the tunnel actually an oncoming train?
   </p>
-
-  <p>
-    It features poignant stock footage from events and conflicts of the 20th century, my own arrangements of music, and narration.
-  </p>
-
 
   <div class="av">
     <img src="/images/AV_201.gif" alt="clip from 20th Century Crisis" width="250px">
