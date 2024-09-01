@@ -185,14 +185,17 @@ author_profile: true
     </li>
     <li>
       Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.
-      <figure>
-      <img src="/images/variations1a.png" style="width: 100%; margin-top: 1rem" />
-      <figcaption>Student motives from which to procedurally generate and render 11 musical variations.</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/variations2c.png" style="width: 100%; margin-top: 1rem" />
-        <figcaption>The procedurally generated variations plus original motive combined into a single score.</figcaption>
-      </figure>
+      <details open>
+        <summary>Demo</summary>
+        <figure>
+        <img src="/images/variations1a.png" style="width: 100%; margin-top: 1rem" />
+        <figcaption>Student motives from which to procedurally generate and render 11 musical variations.</figcaption>
+        </figure>
+        <figure>
+          <img src="/images/variations2c.png" style="width: 100%; margin-top: 1rem" />
+          <figcaption>The procedurally generated variations plus original motive combined into a single score.</figcaption>
+        </figure>
+      </details>
     </li>
     <li>Musical consultation & preparation of references to make certain tasks easier for non-musician programmers, e.g., <a class="noul" href="../images/CPR/transposition_reference.png">Transposition Reference</a></li>
     <li>Reduction of tech-debt and general bug fixes</li>
