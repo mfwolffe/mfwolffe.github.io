@@ -188,7 +188,6 @@ author_profile: true
   </ul>
 
   <ul>
-    <li><a href="#hannah">Hannah</a></li>
     <li><a href="#photo-gallery">Gallery</a></li>
   </ul>
 
