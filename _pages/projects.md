@@ -511,7 +511,7 @@ Primality algorithm is compared to a brute-force approach on modern hardware wit
 <h2 class="larger-heading">Audio-Visual</h2>
 ------
 
-<details open>
+<details>
 <summary class="project">20th Century Crisis</summary>
 <p class="roles"><em>Author</em></p>
 
