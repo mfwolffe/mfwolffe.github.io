@@ -175,17 +175,22 @@ author_profile: true
   <ul>
     <li>
       Construction of a rudimentary digital audio workstation (DAW) as part of work towards an honors thesis.
+      <figure>
       <img src="/images/features-1.png" style="width: 100%">
+      <figcaption>Simple digital audio workstation constructed as part of my honor's thesis.</figcaption>
+      </figure>
     </li>
-    <li>DevOps - attempts to streamline development environment setup through assistance with devcontainers and codespaces, and my own work configuring quickly reproducible linux disk images, initially using <code>archiso</code>, then NixOS configurations.</li>
+    <li>
+      DevOps - attempts to streamline development environment setup through assistance with devcontainers and codespaces, and my own work configuring quickly reproducible linux disk images, initially using <code>archiso</code>, then NixOS configurations.
+    </li>
     <li>
       Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.
       <figure>
-      <img src="/images/variations1a.png" style="width: 100%" />
+      <img src="/images/variations1a.png" style="width: 100%; margin-top: 1rem" />
       <figcaption>Student motives from which to procedurally generate and render 11 musical variations.</figcaption>
       </figure>
       <figure>
-        <img src="/images/variations2.png" style="width: 100%" />
+        <img src="/images/variations2.png" style="width: 100%; margin-top: 1rem" />
         <figcaption>The procedurally generated variations plus original motive combined into a single score.</figcaption>
       </figure>
     </li>
