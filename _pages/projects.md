@@ -165,7 +165,7 @@ author_profile: true
 
 <details open>
 <summary class="project">Music CPR</summary>
-<p class="roles"><em>Lead:</em> <a class="noul" target="_blank" href="https://hcientist.com/">Dr. Michael Stewart</a>   |   <em>Collaborator since 2023/08</em>   |   <a class="noul" target="_blank" href="https://github.com/JMU-CIME/CPR-Music">Github</a></p>
+<p class="roles"><em>Lead:</em> <a class="noul" target="_blank" href="https://hcientist.com/">Dr. Michael Stewart</a>   |   <em>Collaborator since 2023/08</em>   |   <a class="noul" target="_blank" href="https://github.com/Lab-Lab-Lab/CPR-Music">Github</a></p>
   <cite>from <a class="noul" href="httcites://musiccpr.org/about">musiccpr.org:</a></cite>
   <p>
     MusicCPR is a free web-based platform to promote standards-based instrumental music education. MusicCPR aligns with four artistic processes found in National Standards for Music Education: create, perform, respond, and connect and their manifestations in state standards for instrumental music education. 
