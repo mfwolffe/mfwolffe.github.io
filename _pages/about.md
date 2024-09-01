@@ -23,10 +23,7 @@ redirect_from:
 My name is Matt Wolffe. I'm currently a student at James Madison University where I am studying computer science.
 My fascination with computer hardware and software germinated at a very young age thanks to my parents allowing me to play computer games like <em>Pajama Sam</em> whenever I couldn't sleep as a kid in the late 90's.
 I built my first (inexpensive) computer in middle school, and by my senior year of high school I had a collection of machines participating in distributed computing projects such as
-[Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/) (the latter mostly for CPU stress testing).
-Beginning in high school I self-taught C++ out of a beat-up old textbook my high school's CS teacher lent me as I wasn't interested in spending an entire year learning visual basic.
-
-I am most proficient in C, Java, Python, and Javascript. I am refamiliarizing myself with C++ and C#, learning React, and starting to learn Max MSP. I have experience with SQL as well as HTML/CSS. 
+[Folding@Home](https://foldingathome.org/?lng=en), [SETI@Home](https://setiathome.berkeley.edu/), and [GIMPS](https://www.mersenne.org/) (the latter mostly for CPU stress testing). My first programming languages were the C family which I began learning late in middle school.
 
 Music
 ------
@@ -106,12 +103,12 @@ In the past I have provided inexpensive private tuba and euphonium lessons to st
 Interests in Computing
 ------
 <ul>
-    <li>Quantum computing</li>
-    <li>Software for musicians such as DAW's, instrument virtualization, notation software, etc.</li>
-    <li>Computer science pedagogy, learning management systems, and other educational tools</li>
-    <li>Distributed Computing Systems like the projects mentioned above</li>
-    <li>Applications of CS in the fields of chemistry, mathematics, music, and cosmology</li>
-    <li>Ethical concerns of Large Language Models</li>
+    <li>High Performance Computing</li>
+    <li>Human Computer Interaction</li>
+    <li>Audio & music software</li>
+    <li>Educational software & learning management systems</li>
+    <li>Distributed computing systems like the projects referenced above</li>
+    <li>Applications of CS in STEM education</li>
 </ul>
 
 <!-- Create content & metadata
