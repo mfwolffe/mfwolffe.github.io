@@ -193,9 +193,9 @@ author_profile: true
 </details>
 
 <details open>
-<summary class="project">Local Toast</summary> 
+<summary class="project">LocalToast</summary> 
 <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://github.com/mfwolffe/localtoast">Github</a></p>
-  <p>A personal project I made as practice for learning (vanilla) JavaScript, and to save myself time when tutoring precalculus students.</p>
+  <p>This is really a group of gag/joke projects; each one rhymes with localhost. Others include LocalRoast, LocalGhost, and LocalBoast. LocalToast finds restaurants nearby which serve toast on their menu and allows you to review <strong><em>only</em></strong> the toast.</p>
 </details>
 
 <details open>
