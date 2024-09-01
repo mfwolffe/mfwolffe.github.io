@@ -108,7 +108,7 @@ Interests in Computing
     <li>Audio & music software</li>
     <li>Educational software & learning management systems</li>
     <li>Distributed computing systems like the projects referenced above</li>
-    <li>Applications of CS in STEM education</li>
+    <li>Applications of CS in other STEM disciplines</li>
 </ul>
 
 <!-- Create content & metadata
