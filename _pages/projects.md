@@ -245,7 +245,7 @@ Primality algorithm is compared to a brute-force approach on modern hardware wit
 </p>
 <br>
 <details>
-<summary class="project">Code</summary>
+<summary class="project" style="padding-left: 1rem">Code</summary>
 <p>Instrumentation will be done on functions written in C. I've included a python and C# version just because the oneliners are just so <em>fun</em></p>
 <form id="radio" action="">
 <fieldset>
