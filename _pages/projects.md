@@ -186,7 +186,7 @@ author_profile: true
     <li>
       Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.
       <details open>
-        <summary>Demo</summary>
+        <summary class="project">Demo</summary>
         <figure>
         <img src="/images/variations1a.png" style="width: 100%; margin-top: 1rem" />
         <figcaption>Student motives from which to procedurally generate and render 11 musical variations.</figcaption>
