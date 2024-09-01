@@ -160,18 +160,16 @@ author_profile: true
 
 <link rel="stylesheet" href="/docs/prism(okaida).css">
 
-<h2 class="larger-heading">Computer Science</h2>
+<h2 class="larger-heading">Software</h2>
 ------
 
 <details open>
 <summary class="project">Music CPR</summary>
 <p class="roles"><em>Lead:</em> <a class="noul" target="_blank" href="https://hcientist.com/">Dr. Michael Stewart</a>   |   <em>Collaborator since 2023/08</em>   |   <a class="noul" target="_blank" href="https://github.com/JMU-CIME/CPR-Music">Github</a></p>
-
   <cite>from <a class="noul" href="httcites://musiccpr.org/about">musiccpr.org:</a></cite>
   <p>
     MusicCPR is a free web-based platform to promote standards-based instrumental music education. MusicCPR aligns with four artistic processes found in National Standards for Music Education: create, perform, respond, and connect and their manifestations in state standards for instrumental music education. 
   </p>
-
 
   <h3>Contributions</h3>
   <ul>
@@ -184,7 +182,12 @@ author_profile: true
       Musical consultation & preparation of references to make certain tasks easier for non-musician programmers, e.g., <a class="noul" href="../images/CPR/transposition_reference.png">Transposition Reference</a>
     </li>
   </ul>
+</details>
 
+<details open>
+  <summary class="project">woof.sh</summary>
+  <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://github.com/mfwolffe/woof">Github</a></p>
+  <p>A command line utility (bash script) that randomly selects photos of Moby the border-aussie (or your own pup) and renders them in ascii art within terminal, as stylishly or simply as the user so desires.</p>
 </details>
 
 <details open>
@@ -194,8 +197,14 @@ author_profile: true
 </details>
 
 <details open>
+<summary class="project">Local Toast</summary> 
+<p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://github.com/mfwolffe/localtoast">Github</a></p>
+  <p>A personal project I made as practice for learning (vanilla) JavaScript, and to save myself time when tutoring precalculus students.</p>
+</details>
+
+<details open>
 <summary class="project">Digital Dipole</summary>
-<p class="roles"><em>Author</em></p>
+<p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://github.com/mfwolffe/digitaldipole">Github</a></p>
   <p>
     Digital Dipole is a chemistry toolkit web app. The project started as a JavaFX app, but I quickly realized that in order to accomplish what I want, I would have to switch platforms/frameworks and it is being migrated to a web app built with React, Vite, Django, and React-Bootstrap.
   </p>
