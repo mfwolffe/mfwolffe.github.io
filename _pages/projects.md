@@ -244,7 +244,8 @@ author_profile: true
 Primality algorithm is compared to a brute-force approach on modern hardware with compiler optimizations. Dr. Michael Lam provided the impetus to try my hand at instrumenting these functions while I was in his Systems/Architecture class, along with suggestions of tools to use.
 </p>
 <br>
-<h3>Code</h3>
+<details>
+<summary class="project">Code</summary>
 <p>Instrumentation will be done on functions written in C. I've included a python and C# version just because the oneliners are just so <em>fun</em></p>
 <form id="radio" action="">
 <fieldset>
@@ -355,7 +356,7 @@ Primality algorithm is compared to a brute-force approach on modern hardware wit
   </pre>
   
   </div>
-
+</details>
 </details>
 
 <h2 class="larger-heading">Music</h2>
