@@ -95,7 +95,7 @@ Music
   <figcaption class="wide">On stage playing cimbasso. I bought my cimbasso in late 2016, and it's been my favorite instrument to play and perform on ever since.</figcaption>
 </figure>
 
-Educational Work
+Teaching
 ------
 I currently work as a tutor/teaching assistant in and around the Shenandoah Valley area. I cover college-level courses in chemistry, computer science, and mathematics. I thoroughly enjoy teaching, and hope to one day be able to work as a professor.
 In the past I have provided inexpensive private tuba and euphonium lessons to students who enjoy music making, but are unsure of whether they wish to study music formally.
