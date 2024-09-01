@@ -178,7 +178,10 @@ author_profile: true
       <img src="/images/features-1.png" style="width: 100%">
     </li>
     <li>DevOps - attempts to streamline development environment setup through assistance with devcontainers and codespaces, and my own work configuring quickly reproducible linux disk images, initially using <code>archiso</code>, then NixOS configurations.</li>
-    <li>Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.</li>
+    <li>
+      Algorithms for musical variations generation such as rhythmic & melodic permutations and retrograde.
+      <img src="/images/variations1.png" style="width: 100%"/>
+    </li>
     <li>Musical consultation & preparation of references to make certain tasks easier for non-musician programmers, e.g., <a class="noul" href="../images/CPR/transposition_reference.png">Transposition Reference</a></li>
     <li>Reduction of tech-debt and general bug fixes</li>
   </ul>
