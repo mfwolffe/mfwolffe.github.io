@@ -199,7 +199,7 @@ author_profile: true
 
 <div class="square">
   <p>
-    Moby is a BorderAussie (half Border Collie, half Australian Shepherd). I rescued him in 2016, and it's probably the best decision I've ever made. He's too smart for his own good and has unbridled energy. In our first few months, he was constantly getting into trouble. We estimate he's about 7/8 years old at this point, but he shows no signs of slowing down, aside from no longer being obsessed with trashcans. He's the primary reason I choose to continue living in Lexington; with the amount of land we have and seeing how joyous he is being able to frolick as he pleases, I couldn't bear to coop him up in an apartment. 
+    Moby is a BorderAussie (half Border Collie, half Australian Shepherd). I rescued him in 2016, and it's probably the best decision I've ever made. He's too smart for his own good and has unbridled energy. We estimate he's about 7/8 years old at this point, but he shows no signs of slowing down, aside from no longer being obsessed with trashcans. He's the primary reason I choose to continue living in Lexington; with the amount of land we have and seeing how joyous he is being able to frolick as he pleases, I couldn't bear to coop him up in an apartment. 
     Like all dogs, he has his idiosyncrasies - he is constantly rolling around, whether in grass, on a carpet, on a couch, etc. and he gets incredibly jealous when I give Tilly any attention.
   </p>
 
@@ -234,7 +234,7 @@ author_profile: true
 
 <div class="rect">
   <p>
-    My mother picked up a part time job as a bookkeeper a few years after her 'official' retirement from Accenture. She worked (and still works, but in a greater capacity) for NYC (now NC) based photographer, <a href="https://monicastevenson.com/">Monica Stevenson</a>. I did summer work for her as well, and got to spend time with her Dachshunds. Ziggy was the first of her dogs I met. He seemed to be in a constant state of joy whenever I saw him. Ziggy would spend a fair bit of time at our house.
+    My mother picked up a part time job as a bookkeeper a few years after her 'official' retirement from Accenture. She worked (and still works, but in a greater capacity) for NYC (now NC) based photographer, <a href="https://monicastevenson.com/">Monica Stevenson</a>. I did summer work for Monica as well, and got to spend time with her Dachshunds. Ziggy was the first of her dogs I met.
   </p>
 
 <figure>
@@ -250,7 +250,7 @@ author_profile: true
 
 <div class="square">
   <p>
-    Monica brought home Maggie towards the end of my time in high school. Like Ziggy, Maggie was at 9 Coleridge pretty often. Also like Ziggy, she was always very affectionate, albeit timid at first. The two of them together would climb all over you if you got on their level. She is heterochromic, leading to a striking (but still cute) visage. 
+    Monica brought home Maggie towards the end of my time in high school. Like Ziggy, Maggie was at 9 Coleridge pretty often. Also like Ziggy, she was always very affectionate, albeit timid at first. The two of them together would climb all over you if you got on their level.
   </p>
 
 <figure>
@@ -291,23 +291,6 @@ author_profile: true
   <img src="../images/webp-moby/bart.webp" alt="Pensive bart">
   <figcaption>
     Pensive Bart
-  </figcaption>
-</figure>
-
-</div>
-
-<h2 class="larger-heading" id="hannah">Hannah</h2>
-------
-
-<div class="square">
-  <p>
-    Hannah was my uncle Scott's dog while he lived in Millburn, NJ. She was a Portugese water dog. I can't recall too many details about her or her quirks. My memories of her include running around uncle Scott's yard/in the stream which bisected it.
-  </p>
-
-<figure>
-  <img src="../images/webp-moby/hannah_gma.webp" alt="Hannah & Grandma B.">
-  <figcaption>
-    Hannah with my Grandma
   </figcaption>
 </figure>
 
