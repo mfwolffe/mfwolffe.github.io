@@ -206,6 +206,11 @@ author_profile: true
   <summary class="project">woof.sh</summary>
   <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://github.com/mfwolffe/woof">Github</a></p>
   <p>A command line utility (bash script) that randomly selects photos of Moby the border-aussie (or your own pup) and renders them in ascii art within the terminal, as stylishly or simply as the user so desires.</p>
+  <figure>
+    <img src="/images/woofsh.png" style="width: 80%; margin-left: auto; margin-right: auto" />
+    <figcaption></figcaption>
+  </figure>
+  
 </details>
 
 <details open>
