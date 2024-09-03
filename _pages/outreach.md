@@ -59,15 +59,17 @@ redirect_from:
 <h2 class="section">2024</h2>
 <h2 class="larger-heading">Transfer Student Panel</h2>
 <p class="brief">Panelist | 2024-04-03</p>
-<p>With the help of Blue Risge Community College professor Dan OBrien, I coordinated and lead a panel of current JMU transfer students on BRCC campus for their incoming JMU transfers in CS and IT.</p>
+<p>At the behest of Blue Ridge Community College professor and CS Transfer Program Coordinator, Dan OBrien, I coordinated and lead a panel of current JMU transfer students on BRCC campus for incoming JMU transfers in CS and IT.</p>
 
 <h2 class="larger-heading">CHOICES Admitted Student Open House</h2>
 <p class="brief">Panelist & Tour Giver | 2024-03-02, 2024-04-05, 2024-04-12</p>
-<p>As a JMU CS Ambassador, I give tours to and speak on panels to newly admitted, still deciding high school seniors and transfers.</p>
+<p>As a JMU CS Ambassador, I give tours and speak on panels to newly admitted high school seniors and transfers at CHOICES, JMU's admitted students open house events.</p>
 
 <h2 class="larger-heading">Bridges to Computing Summer Camp</h2>
 <p class="brief">Teaching Assistant | 2024-07-10 - 2024-07-14</p>
-<p>Bridges to Computing is an annual week-long program hosted by JMU’s Computer Science and Information Technology programs, designed to introduce and engage local refugee students in computer science. I acted as a TA for a track which taught students website design and virtual reality web-integration.</p>
+<p>
+  Bridges to Computing is an annual week-long program hosted by JMU’s Computer Science and Information Technology programs, designed to introduce and engage local refugee students in computer science. I acted as a teaching assistant for a track which aimed to teach students website development with virtual reality headset integration.
+</p>
 
 <hr>
 <h2 class="section">2023</h2>
