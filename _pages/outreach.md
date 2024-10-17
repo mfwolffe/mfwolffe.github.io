@@ -57,6 +57,15 @@ redirect_from:
 </style>
 
 <h2 class="section">2024</h2>
+
+<h2 class="larger-heading">Academic Open Houses</h2>
+<p class="brief">Student Representative & Tour Giver | 2024-10-05</p>
+<p>During Academic Open House events, prospective students and their families visit JMU campus to learn about specific departments and major offerings. Student ambassadors like myself field questions about our respective majors while tabling, giving tours, and presenting on panels.</p>
+
+<h2 class="larger-heading">JMU CS First Year Success Workshop</h2>
+<p class="brief">Presenter/Panelist | 2024-09-26</p>
+<p>Assisted in delivering a presentation to first-year CS and IT majors covering topics such as tech-adjacent clubs, research & career advancement opportunities, and how to prioritize wellbeing during stressful times of the semester.</p>
+
 <h2 class="larger-heading">Transfer Student Panel</h2>
 <p class="brief">Panelist | 2024-04-03</p>
 <p>At the behest of Blue Ridge Community College professor and CS Transfer Program Coordinator, Dan OBrien, I coordinated and lead a panel of current JMU transfer students on BRCC campus for incoming JMU transfers in CS and IT.</p>
