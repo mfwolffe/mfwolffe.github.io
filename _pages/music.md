@@ -277,14 +277,14 @@ author_profile: true
   </ul>
 </section>
 
-<h2 id="Bio" class="larger-heading">Bio and Background</h2>
+<h2 id="Bio" class="larger-heading">Musical Background</h2>
   <div class="squarefix">
     <div>
       <p>
         I began practicing music seriously in the sixth grade after deciding to learn the tuba. I had started on trumpet but didn't enjoy it due to difficulties with embouchure. Developing tuba 'chops', for me at least, was more forgiving. As one might expect, the tuba parts in the pieces our sixth grade band was performing were not very exciting, and sheet music around 2007, let alone free sheet music, was not as ubiquitous as it is today. So I had to learn to transpose and transcribe pretty early on if I hoped to play any exciting rep.
       </p>
       <p>
-        Our band director recommended I take private lessons and so I started studying with Joe Eggebeen. He must have heard something in my playing, as he quickly started encouraging me to audition for the regional band. I don't know how, but I placed first in the audition, and from then onward music became my priority. I discovered figures like Leonard Bernstein, who led me to discover the full scope of roles low brass can take on in an orchestra.
+        Our band director recommended I take private lessons and so I started studying with Joe Eggebeen. He encouraged me to audition for the regional band a few months into our weekly lessons, and I reluctantly agreed to try. I somehow placed first in the audition, and from then onward music was my priority. I discovered figures like Leonard Bernstein, who led me to discover the full scope of roles low brass can take on in an orchestra.
       </p>
     </div>
     <div>
@@ -313,10 +313,10 @@ author_profile: true
   <div class="rectfix">
     <div>
       <p>
-        I supplemented my studies by traveling and taking lessons with principal tubists of major orchestras up and down the east coast, and also with principals throughout the UK and EU. Ultimately however, I chose to leave UNC before graduating due to persistent health issues and a combination of rather unforgiving imposter syndrome and constant ruminations about my future as a musician. That said, I still practice and perform my own arrangements/transcriptions today. 
+        I supplemented my studies by traveling and taking lessons with principal tubists of major orchestras up and down the east coast, and also with principals throughout the UK and EU. Ultimately however, I chose to leave UNC before graduating due to the stress surrounding the uncertainty which is inherent to the pursuit of a musical career. That said, I still practice and perform my own arrangements/transcriptions today. 
       </p>
       <p>
-        Favorite composers include Mahler, Shostakovich, R. Strauss, Sibelius, G. Gabrieli, Tchaikovsky, Bruckner, Berlioz, Verdi as well as film composers like Ennio Morricone. I am currently teaching myself the harmonica & various <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a> clay flutes for a larger tribute to Ennio Morricone I have been working on for some time.
+        Favorite composers include Mahler, Shostakovich, R. Strauss, Sibelius, G. Gabrieli, Tchaikovsky, Bruckner, Berlioz, Verdi as well as film composers like Ennio Morricone & John Williams. I am currently teaching myself the harmonica & various <a class="noul" href="https://stonewhistle.com/">Stonewhistle</a> clay flutes for a larger tribute to Ennio Morricone I have been working on for some time.
       </p>
     </div>
     <div>
