@@ -242,9 +242,11 @@ author_profile: true
   <p>
     In addition to calculators, I have small reference pages with tabulated data fetched from PubChem. One such reference is a searchable 'atom carousel', shown below:
   </p>
+  <figure style="display: flex">
   <video width="80%" controls style="margin: auto">
-    <source src="../images/calc-demo.mp4" type="video/mp4" />
+    <source src="../images/caousel-demo.mp4" type="video/mp4" />
   </video>
+  </figure>
 </details>
 
 <details open>
