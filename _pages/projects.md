@@ -247,9 +247,14 @@ author_profile: true
     <source src="../images/caousel-demo.mp4" type="video/mp4" />
   </video>
   </figure>
+  <figure style="display: flex">
   <p>
-    A feature that is more on the fun side within Digital Dipole is a chemistry meme generator. You can enter a prompt using a mad-libs-esque entry or just natural language input. The process for generating the meme is not exactly straightforward. The user string is passed along to a gpt endpoint that attempts to generate 'meme text' that focuses on chemistry or at least general STEM. Once generated, the meme text is passed along to an imgflip endpoint that attempts to auto generate a mem from just some text. 
+    A feature that is more on the fun side within Digital Dipole is a chemistry meme generator. You can enter a prompt using a mad-libs-esque entry or just natural language input. The process for generating the meme is not exactly straightforward. The user string is passed along to a gpt endpoint that attempts to generate 'meme text' that focuses on chemistry or at least general STEM. Once generated, the meme text is passed along to an imgflip endpoint that attempts to auto generate a mem from just some text
   </p>
+    <video width="80%" controls style="margin: auto">
+      <source src="../images/meme-demo.mp4" />
+    </video>
+  </figure>
 </details>
 
 <details open>
