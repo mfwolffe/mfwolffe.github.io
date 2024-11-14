@@ -229,8 +229,15 @@ author_profile: true
 <summary class="project">Digital Dipole</summary>
 <p class="roles"><em>Author</em> | <a class="noul" target="_blank" href="https://github.com/mfwolffe/digitaldipole">Github</a></p>
   <p>
-    Digital Dipole is a chemistry toolkit web app. The project started as a JavaFX app, but I quickly realized that in order to accomplish what I want, I would have to switch platforms/frameworks and it is being migrated to a web app built with React, Vite, Django, and React-Bootstrap.
+    Digital Dipole is a WIP fullstack chemistry toolkit web app. The project started as a JavaFX app in 2022, but I quickly realized that in order to accomplish what I want, I would have to switch platforms/frameworks and it is being migrated to a web app built with React, Vite, Django, and React-Bootstrap.
   </p>
+  <p>
+    At the moment, the site includes calculators for common classes of chemistry problems like thermodynamic equations or gas laws;. The calculators solve equations symbolically in addition to numerically; this is made possible by leveraging the Sympy computer algebra system on the backend. I have Django-Ninja API endpoints that pass various equation representations (LaTeX for human readable, and an internal string representations for performing solutions) in addition to the raw numerical data provided by the user back, back and forth between the front and backend.
+  </p>
+  <p>
+    In addition to calculators, I have small reference pages with tabulated data fetched from PubChem. One such reference is a searchable 'atom carousel', shown below:
+  </p>
+  <iframe width="400px" src="../atom-carousel-demo.mov"></iframe>
 </details>
 
 <details open>
