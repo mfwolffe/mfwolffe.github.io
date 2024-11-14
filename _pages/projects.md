@@ -234,13 +234,15 @@ author_profile: true
   <p>
     At the moment, the site includes calculators for common classes of chemistry problems like thermodynamic equations or gas laws;. The calculators solve equations symbolically in addition to numerically; this is made possible by leveraging the Sympy computer algebra system on the backend. I have Django-Ninja API endpoints that pass various equation representations (LaTeX for human readable, and an internal string representations for performing solutions) in addition to the raw numerical data provided by the user back, back and forth between the front and backend. Demo below:
   </p>
-  <video controls width="600px" style="margin: auto">
+  <figure style="display: flex">
+  <video controls width="80%" style="margin: auto">
     <source src="../images/calc-demo.mp4" type="video/mp4" />
   </video>
+  </figure>
   <p>
     In addition to calculators, I have small reference pages with tabulated data fetched from PubChem. One such reference is a searchable 'atom carousel', shown below:
   </p>
-  <video width="600px" controls style="margin: auto">
+  <video width="80%" controls style="margin: auto">
     <source src="../images/calc-demo.mp4" type="video/mp4" />
   </video>
 </details>
