@@ -244,7 +244,7 @@ author_profile: true
   </p>
   <figure style="display: flex">
   <video width="80%" controls style="margin: auto">
-    <source src="../images/caousel-demo.mp4" type="video/mp4" />
+    <source src="../images/carousel-demo.mp4" type="video/mp4" />
   </video>
   </figure>
   <figure style="display: flex">
